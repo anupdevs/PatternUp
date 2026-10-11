@@ -1,0 +1,266 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Difficulty {
+  EASY
+  MEDIUM
+  HARD
+  UNKNOWN
+}
+
+enum Platform {
+  LEETCODE
+  GEEKS_FOR_GEEKS
+  OTHER
+}
+
+enum VerificationStatus {
+  VERIFIED
+  PENDING_VERIFICATION
+  NEEDS_RESOLUTION
+}
+
+enum ProgressStatus {
+  NOT_STARTED
+  ATTEMPTED
+  SOLVED
+  NEEDS_REVISION
+}
+
+enum AttemptOutcome {
+  SOLVED
+  FAILED
+  PARTIALLY_SOLVED
+}
+
+enum HintSourceType {
+  OFFICIAL_PLATFORM
+  INFERRED_EDITORIAL
+  USER_CONTRIBUTED
+}
+
+model Topic {
+  id           String    @id @default(cuid())
+  name         String
+  slug         String    @unique
+  description  String?
+  displayOrder Int
+  patterns     Pattern[]
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  @@index([displayOrder])
+}
+
+model Pattern {
+  id           String           @id @default(cuid())
+  topicId      String
+  topic        Topic            @relation(fields: [topicId], references: [id], onDelete: Cascade)
+  name         String
+  slug         String
+  description  String?
+  displayOrder Int
+  problems     ProblemPattern[]
+  createdAt    DateTime         @default(now())
+  updatedAt    DateTime         @updatedAt
+
+  @@unique([topicId, slug])
+  @@index([topicId])
+  @@index([displayOrder])
+}
+
+model Problem {
+  id                         String             @id @default(cuid())
+  canonicalSlug              String             @unique
+  title                      String
+  description                String?
+  difficulty                 Difficulty         @default(UNKNOWN)
+  difficultySource           String             @default("Bosscoder PDF / Inferred")
+  platform                   Platform           @default(LEETCODE)
+  externalUrl                String?
+  originalPdfQuestionNumber  Int
+  sourcePage                 String?
+  displayOrder               Int
+  tags                       String[]           @default([])
+  examples                   Json?
+  constraints                Json?
+  contentVerificationStatus  VerificationStatus @default(VERIFIED)
+  createdAt                  DateTime           @default(now())
+  updatedAt                  DateTime           @updatedAt
+
+  patterns          ProblemPattern[]
+  hints             ProblemHint[]
+  progress          UserProblemProgress[]
+  notes             ProblemNote[]
+  bookmarks         Bookmark[]
+  attempts          PracticeAttempt[]
+  revisionSchedules RevisionSchedule[]
+  hintReveals       HintReveal[]
+
+  @@index([difficulty])
+  @@index([platform])
+  @@index([displayOrder])
+  @@index([originalPdfQuestionNumber])
+}
+
+model ProblemPattern {
+  id           String   @id @default(cuid())
+  problemId    String
+  patternId    String
+  sheetNumber  Int      @unique
+  pdfTitle     String
+  pdfPage      Int
+  displayOrder Int
+  problem      Problem  @relation(fields: [problemId], references: [id], onDelete: Cascade)
+  pattern      Pattern  @relation(fields: [patternId], references: [id], onDelete: Cascade)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  @@index([problemId])
+  @@index([patternId])
+  @@index([sheetNumber])
+}
+
+model UserProblemProgress {
+  id                   String         @id @default(cuid())
+  clerkUserId          String
+  problemId            String
+  problem              Problem        @relation(fields: [problemId], references: [id], onDelete: Cascade)
+  status               ProgressStatus @default(NOT_STARTED)
+  firstAttemptAt       DateTime?
+  lastAttemptAt        DateTime?
+  solvedAt             DateTime?
+  totalAttempts        Int            @default(0)
+  successfulAttempts   Int            @default(0)
+  failedAttempts       Int            @default(0)
+  totalTimeSpentSeconds Int           @default(0)
+  personalDifficulty   Int?
+  confidenceRating     Int?
+  createdAt            DateTime       @default(now())
+  updatedAt            DateTime       @updatedAt
+
+  @@unique([clerkUserId, problemId])
+  @@index([clerkUserId])
+  @@index([clerkUserId, status])
+}
+
+model ProblemNote {
+  id          String   @id @default(cuid())
+  clerkUserId String
+  problemId   String
+  problem     Problem  @relation(fields: [problemId], references: [id], onDelete: Cascade)
+  content     String   @db.Text
+  isPrimary   Boolean  @default(true)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@unique([clerkUserId, problemId])
+  @@index([clerkUserId])
+}
+
+model Bookmark {
+  id          String   @id @default(cuid())
+  clerkUserId String
+  problemId   String
+  problem     Problem  @relation(fields: [problemId], references: [id], onDelete: Cascade)
+  createdAt   DateTime @default(now())
+
+  @@unique([clerkUserId, problemId])
+  @@index([clerkUserId])
+}
+
+model PracticeAttempt {
+  id                   String         @id @default(cuid())
+  clerkUserId          String
+  problemId            String
+  problem              Problem        @relation(fields: [problemId], references: [id], onDelete: Cascade)
+  attemptedAt          DateTime       @default(now())
+  outcome              AttemptOutcome
+  durationSeconds      Int            @default(0)
+  approachNotes        String?        @db.Text
+  difficultyExperienced Int?
+  createdAt            DateTime       @default(now())
+
+  @@index([clerkUserId])
+  @@index([clerkUserId, problemId])
+  @@index([clerkUserId, attemptedAt])
+}
+
+model ProblemHint {
+  id          String         @id @default(cuid())
+  problemId   String
+  problem     Problem        @relation(fields: [problemId], references: [id], onDelete: Cascade)
+  order       Int
+  content     String         @db.Text
+  sourceType  HintSourceType @default(OFFICIAL_PLATFORM)
+  verified    Boolean        @default(false)
+  createdAt   DateTime       @default(now())
+  updatedAt   DateTime       @updatedAt
+  reveals     HintReveal[]
+
+  @@unique([problemId, order])
+  @@index([problemId])
+}
+
+model HintReveal {
+  id          String      @id @default(cuid())
+  clerkUserId String
+  problemId   String
+  hintId      String
+  problem     Problem     @relation(fields: [problemId], references: [id], onDelete: Cascade)
+  hint        ProblemHint @relation(fields: [hintId], references: [id], onDelete: Cascade)
+  revealedAt  DateTime    @default(now())
+
+  @@unique([clerkUserId, hintId])
+  @@index([clerkUserId, problemId])
+}
+
+model DailyActivity {
+  id                  String   @id @default(cuid())
+  clerkUserId         String
+  date                String
+  questionsAttempted  Int      @default(0)
+  questionsSolved     Int      @default(0)
+  studyDurationSeconds Int     @default(0)
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
+
+  @@unique([clerkUserId, date])
+  @@index([clerkUserId])
+}
+
+model RevisionSchedule {
+  id              String    @id @default(cuid())
+  clerkUserId     String
+  problemId       String
+  problem         Problem   @relation(fields: [problemId], references: [id], onDelete: Cascade)
+  nextReviewAt    DateTime
+  intervalDays    Float     @default(1.0)
+  repetitionCount Int       @default(0)
+  easeFactor      Float     @default(2.5)
+  lastReviewedAt  DateTime?
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+
+  @@unique([clerkUserId, problemId])
+  @@index([clerkUserId, nextReviewAt])
+}
+
+model UserPreferences {
+  id                     String   @id @default(cuid())
+  clerkUserId            String   @unique
+  dailyProblemGoal       Int      @default(3)
+  preferredCodingLanguage String   @default("python")
+  timezone               String   @default("UTC")
+  themePreference        String   @default("system")
+  createdAt              DateTime @default(now())
+  updatedAt              DateTime @updatedAt
+
+  @@index([clerkUserId])
+}

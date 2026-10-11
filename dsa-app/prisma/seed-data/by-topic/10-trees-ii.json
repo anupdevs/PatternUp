@@ -1,0 +1,316 @@
+{
+  "topic": {
+    "slug": "trees-ii",
+    "name": "Trees II",
+    "description": "Advanced tree structures including AVL/BBST, Tries, and Segment Trees.",
+    "displayOrder": 10
+  },
+  "problems": [
+    {
+      "sheetNumber": 116,
+      "pdfTitle": "Queue Reconstruction by Height",
+      "pdfPage": 23,
+      "patternSlug": "bbst-avl-tree",
+      "canonical": {
+        "canonicalSlug": "queue-reconstruction-by-height",
+        "title": "Queue Reconstruction by Height",
+        "description": "Practice problem: Queue Reconstruction by Height",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/queue-reconstruction-by-height/description/",
+        "originalPdfQuestionNumber": 116,
+        "sourcePage": "23",
+        "displayOrder": 116,
+        "tags": [
+          "Array",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Sorting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 117,
+      "pdfTitle": "Binary Tree Pruning",
+      "pdfPage": 23,
+      "patternSlug": "bbst-avl-tree",
+      "canonical": {
+        "canonicalSlug": "binary-tree-pruning",
+        "title": "Binary Tree Pruning",
+        "description": "Practice problem: Binary Tree Pruning",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/binary-tree-pruning/description/",
+        "originalPdfQuestionNumber": 117,
+        "sourcePage": "23",
+        "displayOrder": 117,
+        "tags": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 118,
+      "pdfTitle": "Balance a Binary Search Tree",
+      "pdfPage": 23,
+      "patternSlug": "bbst-avl-tree",
+      "canonical": {
+        "canonicalSlug": "balance-a-binary-search-tree",
+        "title": "Balance a Binary Search Tree",
+        "description": "Practice problem: Balance a Binary Search Tree",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/balance-a-binary-search-tree/description/",
+        "originalPdfQuestionNumber": 118,
+        "sourcePage": "23",
+        "displayOrder": 118,
+        "tags": [
+          "Divide and Conquer",
+          "Greedy",
+          "Tree",
+          "Depth-First Search",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 119,
+      "pdfTitle": "Balanced Binary Tree",
+      "pdfPage": 23,
+      "patternSlug": "bbst-avl-tree",
+      "canonical": {
+        "canonicalSlug": "balanced-binary-tree",
+        "title": "Balanced Binary Tree",
+        "description": "Practice problem: Balanced Binary Tree",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/balanced-binary-tree/description/",
+        "originalPdfQuestionNumber": 119,
+        "sourcePage": "23",
+        "displayOrder": 119,
+        "tags": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 120,
+      "pdfTitle": "Implement Trie (Prefix Tree)",
+      "pdfPage": 23,
+      "patternSlug": "trie",
+      "canonical": {
+        "canonicalSlug": "implement-trie-prefix-tree",
+        "title": "Implement Trie (Prefix Tree)",
+        "description": "Practice problem: Implement Trie (Prefix Tree)",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/description/",
+        "originalPdfQuestionNumber": 120,
+        "sourcePage": "23",
+        "displayOrder": 120,
+        "tags": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 121,
+      "pdfTitle": "Design Add and Search Words Data Structure",
+      "pdfPage": 24,
+      "patternSlug": "trie",
+      "canonical": {
+        "canonicalSlug": "design-add-and-search-words-data-structure",
+        "title": "Design Add and Search Words Data Structure",
+        "description": "Practice problem: Design Add and Search Words Data Structure",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/design-add-and-search-words-data-structure/description/",
+        "originalPdfQuestionNumber": 121,
+        "sourcePage": "24",
+        "displayOrder": 121,
+        "tags": [
+          "String",
+          "Depth-First Search",
+          "Design",
+          "Trie"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 122,
+      "pdfTitle": "Word Search II",
+      "pdfPage": 24,
+      "patternSlug": "trie",
+      "canonical": {
+        "canonicalSlug": "word-search-ii",
+        "title": "Word Search II",
+        "description": "Practice problem: Word Search II",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/word-search-ii/description/",
+        "originalPdfQuestionNumber": 122,
+        "sourcePage": "24",
+        "displayOrder": 122,
+        "tags": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Trie",
+          "Matrix"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 123,
+      "pdfTitle": "Redundant Connection",
+      "pdfPage": 24,
+      "patternSlug": "trie",
+      "canonical": {
+        "canonicalSlug": "redundant-connection",
+        "title": "Redundant Connection",
+        "description": "Practice problem: Redundant Connection",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/redundant-connection/description/",
+        "originalPdfQuestionNumber": 123,
+        "sourcePage": "24",
+        "displayOrder": 123,
+        "tags": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 124,
+      "pdfTitle": "Accounts Merge",
+      "pdfPage": 24,
+      "patternSlug": "trie",
+      "canonical": {
+        "canonicalSlug": "accounts-merge",
+        "title": "Accounts Merge",
+        "description": "Practice problem: Accounts Merge",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/accounts-merge/description/",
+        "originalPdfQuestionNumber": 124,
+        "sourcePage": "24",
+        "displayOrder": 124,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Sorting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 125,
+      "pdfTitle": "Range Sum Query Mutable",
+      "pdfPage": 24,
+      "patternSlug": "segment-tree-range-queries",
+      "canonical": {
+        "canonicalSlug": "range-sum-query-mutable",
+        "title": "Range Sum Query - Mutable",
+        "description": "Practice problem: Range Sum Query - Mutable",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/range-sum-query-mutable/description/",
+        "originalPdfQuestionNumber": 125,
+        "sourcePage": "24",
+        "displayOrder": 125,
+        "tags": [
+          "Array",
+          "Divide and Conquer",
+          "Design",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Sqrt Decomposition"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 126,
+      "pdfTitle": "Longest Increasing Subsequence II",
+      "pdfPage": 25,
+      "patternSlug": "segment-tree-range-queries",
+      "canonical": {
+        "canonicalSlug": "longest-increasing-subsequence-ii",
+        "title": "Longest Increasing Subsequence II",
+        "description": "Practice problem: Longest Increasing Subsequence II",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/longest-increasing-subsequence-ii/description/",
+        "originalPdfQuestionNumber": 126,
+        "sourcePage": "25",
+        "displayOrder": 126,
+        "tags": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Queue",
+          "Monotonic Queue"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    }
+  ]
+}

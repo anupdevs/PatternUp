@@ -1,0 +1,12 @@
+{
+  "name": "dsa-platform-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix dsa-app run dev",
+    "build": "npm --prefix dsa-app run build",
+    "start": "npm --prefix dsa-app run start",
+    "lint": "npm --prefix dsa-app run lint",
+    "test": "npm --prefix dsa-app test"
+  }
+}

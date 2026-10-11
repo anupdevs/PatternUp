@@ -1,0 +1,416 @@
+{
+  "topic": {
+    "slug": "math",
+    "name": "Math",
+    "description": "Number theory, modular arithmetic, combinatorics, and geometry.",
+    "displayOrder": 14
+  },
+  "problems": [
+    {
+      "sheetNumber": 186,
+      "pdfTitle": "Find Greatest Common Divisor of Array",
+      "pdfPage": 37,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "find-greatest-common-divisor-of-array",
+        "title": "Find Greatest Common Divisor of Array",
+        "description": "Practice problem: Find Greatest Common Divisor of Array",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/",
+        "originalPdfQuestionNumber": 6,
+        "sourcePage": "4",
+        "displayOrder": 6,
+        "tags": [
+          "Array",
+          "Math",
+          "Number Theory",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 187,
+      "pdfTitle": "Self Dividing Numbers",
+      "pdfPage": 37,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "self-dividing-numbers",
+        "title": "Self Dividing Numbers",
+        "description": "Practice problem: Self Dividing Numbers",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/self-dividing-numbers/description/",
+        "originalPdfQuestionNumber": 7,
+        "sourcePage": "4",
+        "displayOrder": 7,
+        "tags": [
+          "Math"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 188,
+      "pdfTitle": "Number of Good Pairs",
+      "pdfPage": 37,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "number-of-good-pairs",
+        "title": "Number of Good Pairs",
+        "description": "Practice problem: Number of Good Pairs",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+        "originalPdfQuestionNumber": 188,
+        "sourcePage": "37",
+        "displayOrder": 188,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Counting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 189,
+      "pdfTitle": "Four Divisors",
+      "pdfPage": 37,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "four-divisors",
+        "title": "Four Divisors",
+        "description": "Practice problem: Four Divisors",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/four-divisors/",
+        "originalPdfQuestionNumber": 189,
+        "sourcePage": "37",
+        "displayOrder": 189,
+        "tags": [
+          "Array",
+          "Math",
+          "Prime Factorization",
+          "Sieve Theory"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 190,
+      "pdfTitle": "Day of the Week",
+      "pdfPage": 37,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "day-of-the-week",
+        "title": "Day of the Week",
+        "description": "Practice problem: Day of the Week",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/day-of-the-week/",
+        "originalPdfQuestionNumber": 190,
+        "sourcePage": "37",
+        "displayOrder": 190,
+        "tags": [
+          "Math"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 191,
+      "pdfTitle": "Subtract the Product and Sum of Digits of an Integer",
+      "pdfPage": 37,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+        "title": "Subtract the Product and Sum of Digits of an Integer",
+        "description": "Practice problem: Subtract the Product and Sum of Digits of an Integer",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
+        "originalPdfQuestionNumber": 191,
+        "sourcePage": "37",
+        "displayOrder": 191,
+        "tags": [
+          "Math"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 192,
+      "pdfTitle": "Count of Matches in Tournament",
+      "pdfPage": 37,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "count-of-matches-in-tournament",
+        "title": "Count of Matches in Tournament",
+        "description": "Practice problem: Count of Matches in Tournament",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/count-of-matches-in-tournament/",
+        "originalPdfQuestionNumber": 192,
+        "sourcePage": "37",
+        "displayOrder": 192,
+        "tags": [
+          "Math",
+          "Simulation"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 193,
+      "pdfTitle": "Max Consecutive Ones",
+      "pdfPage": 38,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "max-consecutive-ones",
+        "title": "Max Consecutive Ones",
+        "description": "Practice problem: Max Consecutive Ones",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/max-consecutive-ones/",
+        "originalPdfQuestionNumber": 193,
+        "sourcePage": "38",
+        "displayOrder": 193,
+        "tags": [
+          "Array"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 194,
+      "pdfTitle": "Rectangle Overlap",
+      "pdfPage": 38,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "rectangle-overlap",
+        "title": "Rectangle Overlap",
+        "description": "Practice problem: Rectangle Overlap",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/rectangle-overlap/",
+        "originalPdfQuestionNumber": 194,
+        "sourcePage": "38",
+        "displayOrder": 194,
+        "tags": [
+          "Math",
+          "Geometry"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 195,
+      "pdfTitle": "Excel Sheet Column",
+      "pdfPage": 38,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "excel-sheet-column-title",
+        "title": "Excel Sheet Column Title",
+        "description": "Practice problem: Excel Sheet Column Title",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/excel-sheet-column-title/",
+        "originalPdfQuestionNumber": 195,
+        "sourcePage": "38",
+        "displayOrder": 195,
+        "tags": [
+          "Math",
+          "String"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 196,
+      "pdfTitle": "Unique Paths",
+      "pdfPage": 38,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "unique-paths",
+        "title": "Unique Paths",
+        "description": "Practice problem: Unique Paths",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/unique-paths/description/",
+        "originalPdfQuestionNumber": 182,
+        "sourcePage": "35",
+        "displayOrder": 182,
+        "tags": [
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 197,
+      "pdfTitle": "Rectangle Area",
+      "pdfPage": 38,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "rectangle-area",
+        "title": "Rectangle Area",
+        "description": "Practice problem: Rectangle Area",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/rectangle-area/",
+        "originalPdfQuestionNumber": 197,
+        "sourcePage": "38",
+        "displayOrder": 197,
+        "tags": [
+          "Math",
+          "Geometry"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 198,
+      "pdfTitle": "Check If Array Pairs Are Divisible by k",
+      "pdfPage": 38,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "check-if-array-pairs-are-divisible-by-k",
+        "title": "Check If Array Pairs Are Divisible by k",
+        "description": "Practice problem: Check If Array Pairs Are Divisible by k",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/",
+        "originalPdfQuestionNumber": 198,
+        "sourcePage": "38",
+        "displayOrder": 198,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Counting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 199,
+      "pdfTitle": "Factorial Trailing Zeroes",
+      "pdfPage": 38,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "factorial-trailing-zeroes",
+        "title": "Factorial Trailing Zeroes",
+        "description": "Practice problem: Factorial Trailing Zeroes",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+        "originalPdfQuestionNumber": 199,
+        "sourcePage": "38",
+        "displayOrder": 199,
+        "tags": [
+          "Math"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 200,
+      "pdfTitle": "Nth Magical Number",
+      "pdfPage": 38,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "nth-magical-number",
+        "title": "Nth Magical Number",
+        "description": "Practice problem: Nth Magical Number",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/nth-magical-number/",
+        "originalPdfQuestionNumber": 200,
+        "sourcePage": "38",
+        "displayOrder": 200,
+        "tags": [
+          "Math",
+          "Binary Search",
+          "Least Common Multiple",
+          "Inclusion-Exclusion Principle"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 201,
+      "pdfTitle": "Permutation Sequence",
+      "pdfPage": 38,
+      "patternSlug": "mathematical-algorithms",
+      "canonical": {
+        "canonicalSlug": "permutation-sequence",
+        "title": "Permutation Sequence",
+        "description": "Practice problem: Permutation Sequence",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/permutation-sequence/",
+        "originalPdfQuestionNumber": 201,
+        "sourcePage": "38",
+        "displayOrder": 201,
+        "tags": [
+          "Math",
+          "Recursion"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    }
+  ]
+}

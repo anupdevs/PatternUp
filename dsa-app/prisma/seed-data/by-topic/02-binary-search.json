@@ -1,0 +1,186 @@
+{
+  "topic": {
+    "slug": "binary-search",
+    "name": "Binary Search",
+    "description": "Logarithmic search paradigm on sorted arrays, search spaces, and answer spaces.",
+    "displayOrder": 2
+  },
+  "problems": [
+    {
+      "sheetNumber": 31,
+      "pdfTitle": "Search in Rotated Sorted Array",
+      "pdfPage": 9,
+      "patternSlug": "binary-search",
+      "canonical": {
+        "canonicalSlug": "search-in-rotated-sorted-array",
+        "title": "Search in Rotated Sorted Array",
+        "description": "Practice problem: Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/description/",
+        "originalPdfQuestionNumber": 31,
+        "sourcePage": "9",
+        "displayOrder": 31,
+        "tags": [
+          "Array",
+          "Binary Search"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 32,
+      "pdfTitle": "Remove Duplicates from Sorted Array",
+      "pdfPage": 9,
+      "patternSlug": "binary-search",
+      "canonical": {
+        "canonicalSlug": "remove-duplicates-from-sorted-array",
+        "title": "Remove Duplicates from Sorted Array",
+        "description": "Practice problem: Remove Duplicates from Sorted Array",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/",
+        "originalPdfQuestionNumber": 32,
+        "sourcePage": "9",
+        "displayOrder": 32,
+        "tags": [
+          "Array",
+          "Two Pointers"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 33,
+      "pdfTitle": "Find First and Last Position of Element in Sorted Array",
+      "pdfPage": 9,
+      "patternSlug": "binary-search",
+      "canonical": {
+        "canonicalSlug": "find-first-and-last-position-of-element-in-sorted-array",
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "description": "Practice problem: Find First and Last Position of Element in Sorted Array",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/",
+        "originalPdfQuestionNumber": 33,
+        "sourcePage": "9",
+        "displayOrder": 33,
+        "tags": [
+          "Array",
+          "Binary Search"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 34,
+      "pdfTitle": "Search a 2D Matrix",
+      "pdfPage": 9,
+      "patternSlug": "binary-search",
+      "canonical": {
+        "canonicalSlug": "search-a-2d-matrix",
+        "title": "Search a 2D Matrix",
+        "description": "Practice problem: Search a 2D Matrix",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/search-a-2d-matrix/description/",
+        "originalPdfQuestionNumber": 34,
+        "sourcePage": "9",
+        "displayOrder": 34,
+        "tags": [
+          "Array",
+          "Binary Search",
+          "Matrix"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 35,
+      "pdfTitle": "Find Peak Element",
+      "pdfPage": 9,
+      "patternSlug": "binary-search",
+      "canonical": {
+        "canonicalSlug": "find-peak-element",
+        "title": "Find Peak Element",
+        "description": "Practice problem: Find Peak Element",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/find-peak-element/description/",
+        "originalPdfQuestionNumber": 35,
+        "sourcePage": "9",
+        "displayOrder": 35,
+        "tags": [
+          "Array",
+          "Binary Search"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 36,
+      "pdfTitle": "Single Element in a Sorted Array",
+      "pdfPage": 9,
+      "patternSlug": "binary-search",
+      "canonical": {
+        "canonicalSlug": "single-element-in-a-sorted-array",
+        "title": "Single Element in a Sorted Array",
+        "description": "Practice problem: Single Element in a Sorted Array",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array/description/",
+        "originalPdfQuestionNumber": 36,
+        "sourcePage": "9",
+        "displayOrder": 36,
+        "tags": [
+          "Array",
+          "Binary Search"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 37,
+      "pdfTitle": "Preimage Size of Factorial Zeroes Function",
+      "pdfPage": 9,
+      "patternSlug": "binary-search",
+      "canonical": {
+        "canonicalSlug": "preimage-size-of-factorial-zeroes-function",
+        "title": "Preimage Size of Factorial Zeroes Function",
+        "description": "Practice problem: Preimage Size of Factorial Zeroes Function",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/",
+        "originalPdfQuestionNumber": 37,
+        "sourcePage": "9",
+        "displayOrder": 37,
+        "tags": [
+          "Math",
+          "Binary Search"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    }
+  ]
+}

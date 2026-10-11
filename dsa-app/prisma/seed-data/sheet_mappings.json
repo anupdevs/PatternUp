@@ -1,0 +1,1901 @@
+[
+  {
+    "sheetNumber": 1,
+    "canonicalSlug": "richest-customer-wealth",
+    "topicSlug": "arrays",
+    "patternSlug": "1-d-array",
+    "pdfTitle": "Richest customer wealth",
+    "pdfPage": 4,
+    "displayOrder": 1
+  },
+  {
+    "sheetNumber": 2,
+    "canonicalSlug": "two-sum",
+    "topicSlug": "arrays",
+    "patternSlug": "1-d-array",
+    "pdfTitle": "Two Sum",
+    "pdfPage": 4,
+    "displayOrder": 2
+  },
+  {
+    "sheetNumber": 3,
+    "canonicalSlug": "count-negative-numbers-in-a-sorted-matrix",
+    "topicSlug": "arrays",
+    "patternSlug": "1-d-array",
+    "pdfTitle": "Count negative numbers in a sorted matrix",
+    "pdfPage": 4,
+    "displayOrder": 3
+  },
+  {
+    "sheetNumber": 4,
+    "canonicalSlug": "next-permutation",
+    "topicSlug": "arrays",
+    "patternSlug": "1-d-array",
+    "pdfTitle": "Next permutation",
+    "pdfPage": 4,
+    "displayOrder": 4
+  },
+  {
+    "sheetNumber": 5,
+    "canonicalSlug": "median-of-two-sorted-arrays",
+    "topicSlug": "arrays",
+    "patternSlug": "1-d-array",
+    "pdfTitle": "Median of two sorted arrays",
+    "pdfPage": 4,
+    "displayOrder": 5
+  },
+  {
+    "sheetNumber": 6,
+    "canonicalSlug": "find-greatest-common-divisor-of-array",
+    "topicSlug": "arrays",
+    "patternSlug": "1-d-array",
+    "pdfTitle": "Find greatest common divisor of array",
+    "pdfPage": 4,
+    "displayOrder": 6
+  },
+  {
+    "sheetNumber": 7,
+    "canonicalSlug": "self-dividing-numbers",
+    "topicSlug": "arrays",
+    "patternSlug": "1-d-array",
+    "pdfTitle": "Self dividing numbers",
+    "pdfPage": 4,
+    "displayOrder": 7
+  },
+  {
+    "sheetNumber": 8,
+    "canonicalSlug": "inversion-of-array-1587115620",
+    "topicSlug": "arrays",
+    "patternSlug": "2-d-array",
+    "pdfTitle": "Inversion of array - 1587115620",
+    "pdfPage": 5,
+    "displayOrder": 8
+  },
+  {
+    "sheetNumber": 9,
+    "canonicalSlug": "reverse-pairs",
+    "topicSlug": "arrays",
+    "patternSlug": "2-d-array",
+    "pdfTitle": "Reverse pairs",
+    "pdfPage": 5,
+    "displayOrder": 9
+  },
+  {
+    "sheetNumber": 10,
+    "canonicalSlug": "special-positions-in-a-binary-matrix",
+    "topicSlug": "arrays",
+    "patternSlug": "2-d-array",
+    "pdfTitle": "Special positions in a binary matrix",
+    "pdfPage": 5,
+    "displayOrder": 10
+  },
+  {
+    "sheetNumber": 11,
+    "canonicalSlug": "transpose-matrix",
+    "topicSlug": "arrays",
+    "patternSlug": "2-d-array",
+    "pdfTitle": "Transpose Matrix",
+    "pdfPage": 5,
+    "displayOrder": 11
+  },
+  {
+    "sheetNumber": 12,
+    "canonicalSlug": "01-matrix",
+    "topicSlug": "arrays",
+    "patternSlug": "2-d-array",
+    "pdfTitle": "01 Matrix",
+    "pdfPage": 5,
+    "displayOrder": 12
+  },
+  {
+    "sheetNumber": 13,
+    "canonicalSlug": "spiral-matrix",
+    "topicSlug": "arrays",
+    "patternSlug": "2-d-array",
+    "pdfTitle": "Spiral Matrix",
+    "pdfPage": 5,
+    "displayOrder": 13
+  },
+  {
+    "sheetNumber": 14,
+    "canonicalSlug": "pascals-triangle",
+    "topicSlug": "arrays",
+    "patternSlug": "2-d-array",
+    "pdfTitle": "Pascal's Triangle",
+    "pdfPage": 5,
+    "displayOrder": 14
+  },
+  {
+    "sheetNumber": 15,
+    "canonicalSlug": "minimum-size-subarray-sum",
+    "topicSlug": "arrays",
+    "patternSlug": "prefix-sum",
+    "pdfTitle": "Minimum Size Subarray Sum",
+    "pdfPage": 6,
+    "displayOrder": 15
+  },
+  {
+    "sheetNumber": 16,
+    "canonicalSlug": "running-sum-of-1d-array",
+    "topicSlug": "arrays",
+    "patternSlug": "prefix-sum",
+    "pdfTitle": "Running Sum of 1d Array",
+    "pdfPage": 6,
+    "displayOrder": 16
+  },
+  {
+    "sheetNumber": 17,
+    "canonicalSlug": "range-sum-query-2d-immutable",
+    "topicSlug": "arrays",
+    "patternSlug": "prefix-sum",
+    "pdfTitle": "Range Sum Query 2D Immutable",
+    "pdfPage": 6,
+    "displayOrder": 17
+  },
+  {
+    "sheetNumber": 18,
+    "canonicalSlug": "maximum-subarray",
+    "topicSlug": "arrays",
+    "patternSlug": "prefix-sum",
+    "pdfTitle": "Maximum Subarray",
+    "pdfPage": 6,
+    "displayOrder": 18
+  },
+  {
+    "sheetNumber": 19,
+    "canonicalSlug": "maximum-sum-circular-subarray",
+    "topicSlug": "arrays",
+    "patternSlug": "prefix-sum",
+    "pdfTitle": "Maximum Sum Circular Subarray",
+    "pdfPage": 6,
+    "displayOrder": 19
+  },
+  {
+    "sheetNumber": 20,
+    "canonicalSlug": "longest-turbulent-subarray",
+    "topicSlug": "arrays",
+    "patternSlug": "prefix-sum",
+    "pdfTitle": "Longest Turbulent Subarray",
+    "pdfPage": 6,
+    "displayOrder": 20
+  },
+  {
+    "sheetNumber": 21,
+    "canonicalSlug": "contains-duplicate-ii",
+    "topicSlug": "arrays",
+    "patternSlug": "sliding-window-fixed-variable-size",
+    "pdfTitle": "Contains Duplicate II",
+    "pdfPage": 7,
+    "displayOrder": 21
+  },
+  {
+    "sheetNumber": 22,
+    "canonicalSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+    "topicSlug": "arrays",
+    "patternSlug": "sliding-window-fixed-variable-size",
+    "pdfTitle": "Number of Sub-arrays of Size K and Average ..",
+    "pdfPage": 7,
+    "displayOrder": 22
+  },
+  {
+    "sheetNumber": 23,
+    "canonicalSlug": "minimum-size-subarray-sum",
+    "topicSlug": "arrays",
+    "patternSlug": "sliding-window-fixed-variable-size",
+    "pdfTitle": "Minimum Size Subarray Sum",
+    "pdfPage": 7,
+    "displayOrder": 23
+  },
+  {
+    "sheetNumber": 24,
+    "canonicalSlug": "longest-substring-without-repeating-characters",
+    "topicSlug": "arrays",
+    "patternSlug": "sliding-window-fixed-variable-size",
+    "pdfTitle": "Longest Substring Without Repeating Characters",
+    "pdfPage": 7,
+    "displayOrder": 24
+  },
+  {
+    "sheetNumber": 25,
+    "canonicalSlug": "longest-repeating-character-replacement",
+    "topicSlug": "arrays",
+    "patternSlug": "sliding-window-fixed-variable-size",
+    "pdfTitle": "Longest Repeating Character Replacement",
+    "pdfPage": 7,
+    "displayOrder": 25
+  },
+  {
+    "sheetNumber": 26,
+    "canonicalSlug": "container-with-most-water",
+    "topicSlug": "arrays",
+    "patternSlug": "two-pointers",
+    "pdfTitle": "Container With Most Water",
+    "pdfPage": 7,
+    "displayOrder": 26
+  },
+  {
+    "sheetNumber": 27,
+    "canonicalSlug": "trapping-rain-water",
+    "topicSlug": "arrays",
+    "patternSlug": "two-pointers",
+    "pdfTitle": "Trapping Rain Water",
+    "pdfPage": 8,
+    "displayOrder": 27
+  },
+  {
+    "sheetNumber": 28,
+    "canonicalSlug": "two-sum-ii-input-array-is-sorted",
+    "topicSlug": "arrays",
+    "patternSlug": "two-pointers",
+    "pdfTitle": "Two Sum II - Input Array Is Sorted",
+    "pdfPage": 8,
+    "displayOrder": 28
+  },
+  {
+    "sheetNumber": 29,
+    "canonicalSlug": "k-diff-pairs-in-an-array",
+    "topicSlug": "arrays",
+    "patternSlug": "two-pointers",
+    "pdfTitle": "K-diff Pairs in an Array",
+    "pdfPage": 8,
+    "displayOrder": 29
+  },
+  {
+    "sheetNumber": 30,
+    "canonicalSlug": "find-k-closest-elements",
+    "topicSlug": "arrays",
+    "patternSlug": "two-pointers",
+    "pdfTitle": "Find K Closest Elements",
+    "pdfPage": 8,
+    "displayOrder": 30
+  },
+  {
+    "sheetNumber": 31,
+    "canonicalSlug": "search-in-rotated-sorted-array",
+    "topicSlug": "binary-search",
+    "patternSlug": "binary-search",
+    "pdfTitle": "Search in Rotated Sorted Array",
+    "pdfPage": 9,
+    "displayOrder": 31
+  },
+  {
+    "sheetNumber": 32,
+    "canonicalSlug": "remove-duplicates-from-sorted-array",
+    "topicSlug": "binary-search",
+    "patternSlug": "binary-search",
+    "pdfTitle": "Remove Duplicates from Sorted Array",
+    "pdfPage": 9,
+    "displayOrder": 32
+  },
+  {
+    "sheetNumber": 33,
+    "canonicalSlug": "find-first-and-last-position-of-element-in-sorted-array",
+    "topicSlug": "binary-search",
+    "patternSlug": "binary-search",
+    "pdfTitle": "Find First and Last Position of Element in Sorted Array",
+    "pdfPage": 9,
+    "displayOrder": 33
+  },
+  {
+    "sheetNumber": 34,
+    "canonicalSlug": "search-a-2d-matrix",
+    "topicSlug": "binary-search",
+    "patternSlug": "binary-search",
+    "pdfTitle": "Search a 2D Matrix",
+    "pdfPage": 9,
+    "displayOrder": 34
+  },
+  {
+    "sheetNumber": 35,
+    "canonicalSlug": "find-peak-element",
+    "topicSlug": "binary-search",
+    "patternSlug": "binary-search",
+    "pdfTitle": "Find Peak Element",
+    "pdfPage": 9,
+    "displayOrder": 35
+  },
+  {
+    "sheetNumber": 36,
+    "canonicalSlug": "single-element-in-a-sorted-array",
+    "topicSlug": "binary-search",
+    "patternSlug": "binary-search",
+    "pdfTitle": "Single Element in a Sorted Array",
+    "pdfPage": 9,
+    "displayOrder": 36
+  },
+  {
+    "sheetNumber": 37,
+    "canonicalSlug": "preimage-size-of-factorial-zeroes-function",
+    "topicSlug": "binary-search",
+    "patternSlug": "binary-search",
+    "pdfTitle": "Preimage Size of Factorial Zeroes Function",
+    "pdfPage": 9,
+    "displayOrder": 37
+  },
+  {
+    "sheetNumber": 38,
+    "canonicalSlug": "check-if-two-arrays-are-equal-or-not3847",
+    "topicSlug": "sorting",
+    "patternSlug": "sorting",
+    "pdfTitle": "Check if Two Arrays Are Equal or Not",
+    "pdfPage": 10,
+    "displayOrder": 38
+  },
+  {
+    "sheetNumber": 39,
+    "canonicalSlug": "binary-array-sorting-1587115620",
+    "topicSlug": "sorting",
+    "patternSlug": "sorting",
+    "pdfTitle": "Binary Array Sorting",
+    "pdfPage": 10,
+    "displayOrder": 39
+  },
+  {
+    "sheetNumber": 40,
+    "canonicalSlug": "sort-colors",
+    "topicSlug": "sorting",
+    "patternSlug": "sorting",
+    "pdfTitle": "Sort Colors",
+    "pdfPage": 10,
+    "displayOrder": 40
+  },
+  {
+    "sheetNumber": 41,
+    "canonicalSlug": "kth-largest-element-in-an-array",
+    "topicSlug": "sorting",
+    "patternSlug": "sorting",
+    "pdfTitle": "Kth Largest Element in an Array",
+    "pdfPage": 10,
+    "displayOrder": 41
+  },
+  {
+    "sheetNumber": 42,
+    "canonicalSlug": "minimum-absolute-difference",
+    "topicSlug": "sorting",
+    "patternSlug": "sorting",
+    "pdfTitle": "Minimum Absolute Difference",
+    "pdfPage": 10,
+    "displayOrder": 42
+  },
+  {
+    "sheetNumber": 43,
+    "canonicalSlug": "k-closest-points-to-origin",
+    "topicSlug": "sorting",
+    "patternSlug": "sorting",
+    "pdfTitle": "K Closest Points to Origin",
+    "pdfPage": 10,
+    "displayOrder": 43
+  },
+  {
+    "sheetNumber": 44,
+    "canonicalSlug": "max-chunks-to-make-sorted",
+    "topicSlug": "sorting",
+    "patternSlug": "sorting",
+    "pdfTitle": "Max Chunks To Make Sorted",
+    "pdfPage": 10,
+    "displayOrder": 44
+  },
+  {
+    "sheetNumber": 45,
+    "canonicalSlug": "contiguous-array",
+    "topicSlug": "hashing",
+    "patternSlug": "hashing",
+    "pdfTitle": "Contiguous Array",
+    "pdfPage": 11,
+    "displayOrder": 45
+  },
+  {
+    "sheetNumber": 46,
+    "canonicalSlug": "longest-consecutive-sequence",
+    "topicSlug": "hashing",
+    "patternSlug": "hashing",
+    "pdfTitle": "Longest Consecutive Sequence",
+    "pdfPage": 11,
+    "displayOrder": 46
+  },
+  {
+    "sheetNumber": 47,
+    "canonicalSlug": "subarray-sum-equals-k",
+    "topicSlug": "hashing",
+    "patternSlug": "hashing",
+    "pdfTitle": "Subarray Sum Equals K",
+    "pdfPage": 11,
+    "displayOrder": 47
+  },
+  {
+    "sheetNumber": 48,
+    "canonicalSlug": "valid-anagram",
+    "topicSlug": "hashing",
+    "patternSlug": "hashing",
+    "pdfTitle": "Valid Anagram",
+    "pdfPage": 11,
+    "displayOrder": 48
+  },
+  {
+    "sheetNumber": 49,
+    "canonicalSlug": "valid-sudoku",
+    "topicSlug": "hashing",
+    "patternSlug": "hashing",
+    "pdfTitle": "Valid Sudoku",
+    "pdfPage": 11,
+    "displayOrder": 49
+  },
+  {
+    "sheetNumber": 50,
+    "canonicalSlug": "ugly-number-ii",
+    "topicSlug": "hashing",
+    "patternSlug": "hashing",
+    "pdfTitle": "Ugly Number II",
+    "pdfPage": 11,
+    "displayOrder": 50
+  },
+  {
+    "sheetNumber": 51,
+    "canonicalSlug": "subarray-sum-equals-k",
+    "topicSlug": "hashing",
+    "patternSlug": "hashing",
+    "pdfTitle": "Subarray Sum Equals K",
+    "pdfPage": 11,
+    "displayOrder": 51
+  },
+  {
+    "sheetNumber": 52,
+    "canonicalSlug": "max-points-on-a-line",
+    "topicSlug": "hashing",
+    "patternSlug": "hashing",
+    "pdfTitle": "Max Points on a Line",
+    "pdfPage": 12,
+    "displayOrder": 52
+  },
+  {
+    "sheetNumber": 53,
+    "canonicalSlug": "palindrome-pairs",
+    "topicSlug": "hashing",
+    "patternSlug": "hashing",
+    "pdfTitle": "Palindrome Pairs",
+    "pdfPage": 12,
+    "displayOrder": 53
+  },
+  {
+    "sheetNumber": 54,
+    "canonicalSlug": "middle-of-the-linked-list",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Middle of the Linked List",
+    "pdfPage": 13,
+    "displayOrder": 54
+  },
+  {
+    "sheetNumber": 55,
+    "canonicalSlug": "maximum-twin-sum-of-a-linked-list",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Maximum Twin Sum of a Linked List",
+    "pdfPage": 13,
+    "displayOrder": 55
+  },
+  {
+    "sheetNumber": 56,
+    "canonicalSlug": "merge-two-sorted-lists",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Merge Two Sorted Lists",
+    "pdfPage": 13,
+    "displayOrder": 56
+  },
+  {
+    "sheetNumber": 57,
+    "canonicalSlug": "linked-list-cycle",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Linked List Cycle",
+    "pdfPage": 13,
+    "displayOrder": 57
+  },
+  {
+    "sheetNumber": 58,
+    "canonicalSlug": "reverse-nodes-in-k-group",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Reverse Nodes in k- Group",
+    "pdfPage": 13,
+    "displayOrder": 58
+  },
+  {
+    "sheetNumber": 59,
+    "canonicalSlug": "remove-nth-node-from-end-of-list",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Remove Nth Node From End of List",
+    "pdfPage": 13,
+    "displayOrder": 59
+  },
+  {
+    "sheetNumber": 60,
+    "canonicalSlug": "linked-list-cycle-ii",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Linked List Cycle II",
+    "pdfPage": 13,
+    "displayOrder": 60
+  },
+  {
+    "sheetNumber": 61,
+    "canonicalSlug": "delete-node-in-a-linked-list",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Delete Node in a Linked List",
+    "pdfPage": 14,
+    "displayOrder": 61
+  },
+  {
+    "sheetNumber": 62,
+    "canonicalSlug": "reverse-linked-list",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Reverse Linked List",
+    "pdfPage": 14,
+    "displayOrder": 62
+  },
+  {
+    "sheetNumber": 63,
+    "canonicalSlug": "palindrome-linked-list",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Palindrome Linked List",
+    "pdfPage": 14,
+    "displayOrder": 63
+  },
+  {
+    "sheetNumber": 64,
+    "canonicalSlug": "remove-linked-list-elements",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Remove Linked List Elements",
+    "pdfPage": 14,
+    "displayOrder": 64
+  },
+  {
+    "sheetNumber": 65,
+    "canonicalSlug": "convert-binary-number-in-a-linked-list-to-integer",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Convert Binary Number in a Linked List to Integer",
+    "pdfPage": 14,
+    "displayOrder": 65
+  },
+  {
+    "sheetNumber": 66,
+    "canonicalSlug": "remove-duplicates-from-sorted-list-ii",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Remove Duplicates from Sorted List II",
+    "pdfPage": 14,
+    "displayOrder": 66
+  },
+  {
+    "sheetNumber": 67,
+    "canonicalSlug": "reverse-linked-list-ii",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Reverse Linked List II",
+    "pdfPage": 14,
+    "displayOrder": 67
+  },
+  {
+    "sheetNumber": 68,
+    "canonicalSlug": "sort-list",
+    "topicSlug": "linked-lists",
+    "patternSlug": "linked-lists",
+    "pdfTitle": "Sort List",
+    "pdfPage": 14,
+    "displayOrder": 68
+  },
+  {
+    "sheetNumber": 69,
+    "canonicalSlug": "implement-stack-using-queues",
+    "topicSlug": "stack-and-queue",
+    "patternSlug": "stack-and-queue",
+    "pdfTitle": "Implement Stack using Queues",
+    "pdfPage": 15,
+    "displayOrder": 69
+  },
+  {
+    "sheetNumber": 70,
+    "canonicalSlug": "implement-queue-using-stacks",
+    "topicSlug": "stack-and-queue",
+    "patternSlug": "stack-and-queue",
+    "pdfTitle": "Implement Queue using Stacks",
+    "pdfPage": 15,
+    "displayOrder": 70
+  },
+  {
+    "sheetNumber": 71,
+    "canonicalSlug": "backspace-string-compare",
+    "topicSlug": "stack-and-queue",
+    "patternSlug": "stack-and-queue",
+    "pdfTitle": "Backspace String Compare",
+    "pdfPage": 15,
+    "displayOrder": 71
+  },
+  {
+    "sheetNumber": 72,
+    "canonicalSlug": "baseball-game",
+    "topicSlug": "stack-and-queue",
+    "patternSlug": "stack-and-queue",
+    "pdfTitle": "Baseball Game",
+    "pdfPage": 15,
+    "displayOrder": 72
+  },
+  {
+    "sheetNumber": 73,
+    "canonicalSlug": "longest-valid-parentheses",
+    "topicSlug": "stack-and-queue",
+    "patternSlug": "stack-and-queue",
+    "pdfTitle": "Longest Valid Parentheses",
+    "pdfPage": 15,
+    "displayOrder": 73
+  },
+  {
+    "sheetNumber": 74,
+    "canonicalSlug": "evaluate-reverse-polish-notation",
+    "topicSlug": "stack-and-queue",
+    "patternSlug": "stack-and-queue",
+    "pdfTitle": "Evaluate Reverse Polish Notation",
+    "pdfPage": 15,
+    "displayOrder": 74
+  },
+  {
+    "sheetNumber": 75,
+    "canonicalSlug": "daily-temperatures",
+    "topicSlug": "stack-and-queue",
+    "patternSlug": "stack-and-queue",
+    "pdfTitle": "Daily Temperatures",
+    "pdfPage": 15,
+    "displayOrder": 75
+  },
+  {
+    "sheetNumber": 76,
+    "canonicalSlug": "largest-rectangle-in-histogram",
+    "topicSlug": "stack-and-queue",
+    "patternSlug": "stack-and-queue",
+    "pdfTitle": "Largest Rectangle in Histogram",
+    "pdfPage": 16,
+    "displayOrder": 76
+  },
+  {
+    "sheetNumber": 77,
+    "canonicalSlug": "min-stack",
+    "topicSlug": "stack-and-queue",
+    "patternSlug": "stack-and-queue",
+    "pdfTitle": "Min Stack",
+    "pdfPage": 16,
+    "displayOrder": 77
+  },
+  {
+    "sheetNumber": 78,
+    "canonicalSlug": "minimum-remove-to-make-valid-parentheses",
+    "topicSlug": "stack-and-queue",
+    "patternSlug": "stack-and-queue",
+    "pdfTitle": "Minimum Remove to Make Valid Parentheses",
+    "pdfPage": 16,
+    "displayOrder": 78
+  },
+  {
+    "sheetNumber": 79,
+    "canonicalSlug": "find-median-from-data-stream",
+    "topicSlug": "heap",
+    "patternSlug": "heap",
+    "pdfTitle": "Find Median from Data Stream",
+    "pdfPage": 17,
+    "displayOrder": 79
+  },
+  {
+    "sheetNumber": 80,
+    "canonicalSlug": "merge-k-sorted-lists",
+    "topicSlug": "heap",
+    "patternSlug": "heap",
+    "pdfTitle": "Merge k Sorted Lists",
+    "pdfPage": 17,
+    "displayOrder": 80
+  },
+  {
+    "sheetNumber": 81,
+    "canonicalSlug": "find-k-pairs-with-smallest-sums",
+    "topicSlug": "heap",
+    "patternSlug": "heap",
+    "pdfTitle": "Find K Pairs with Smallest Sums",
+    "pdfPage": 17,
+    "displayOrder": 81
+  },
+  {
+    "sheetNumber": 82,
+    "canonicalSlug": "meeting-rooms-ii",
+    "topicSlug": "heap",
+    "patternSlug": "heap",
+    "pdfTitle": "Meeting Rooms II",
+    "pdfPage": 17,
+    "displayOrder": 82
+  },
+  {
+    "sheetNumber": 83,
+    "canonicalSlug": "top-k-frequent-elements",
+    "topicSlug": "heap",
+    "patternSlug": "heap",
+    "pdfTitle": "Top K Frequent Elements",
+    "pdfPage": 17,
+    "displayOrder": 83
+  },
+  {
+    "sheetNumber": 84,
+    "canonicalSlug": "k-closest-points-to-origin",
+    "topicSlug": "heap",
+    "patternSlug": "heap",
+    "pdfTitle": "K Closest Points to Origin",
+    "pdfPage": 17,
+    "displayOrder": 84
+  },
+  {
+    "sheetNumber": 85,
+    "canonicalSlug": "count-good-numbers",
+    "topicSlug": "recursion-backtracking",
+    "patternSlug": "recursion",
+    "pdfTitle": "Count Good Numbers",
+    "pdfPage": 18,
+    "displayOrder": 85
+  },
+  {
+    "sheetNumber": 86,
+    "canonicalSlug": "permutations",
+    "topicSlug": "recursion-backtracking",
+    "patternSlug": "recursion",
+    "pdfTitle": "Permutations",
+    "pdfPage": 18,
+    "displayOrder": 86
+  },
+  {
+    "sheetNumber": 87,
+    "canonicalSlug": "permutations-ii",
+    "topicSlug": "recursion-backtracking",
+    "patternSlug": "recursion",
+    "pdfTitle": "Permutations II",
+    "pdfPage": 18,
+    "displayOrder": 87
+  },
+  {
+    "sheetNumber": 88,
+    "canonicalSlug": "subsets",
+    "topicSlug": "recursion-backtracking",
+    "patternSlug": "recursion",
+    "pdfTitle": "Subsets",
+    "pdfPage": 18,
+    "displayOrder": 88
+  },
+  {
+    "sheetNumber": 89,
+    "canonicalSlug": "basic-calculator",
+    "topicSlug": "recursion-backtracking",
+    "patternSlug": "recursion",
+    "pdfTitle": "Basic Calculator",
+    "pdfPage": 18,
+    "displayOrder": 89
+  },
+  {
+    "sheetNumber": 90,
+    "canonicalSlug": "wildcard-matching",
+    "topicSlug": "recursion-backtracking",
+    "patternSlug": "recursion",
+    "pdfTitle": "Wildcard Matching",
+    "pdfPage": 18,
+    "displayOrder": 90
+  },
+  {
+    "sheetNumber": 91,
+    "canonicalSlug": "combinations",
+    "topicSlug": "recursion-backtracking",
+    "patternSlug": "backtracking",
+    "pdfTitle": "Combinations",
+    "pdfPage": 19,
+    "displayOrder": 91
+  },
+  {
+    "sheetNumber": 92,
+    "canonicalSlug": "combination-sum",
+    "topicSlug": "recursion-backtracking",
+    "patternSlug": "backtracking",
+    "pdfTitle": "Combination Sum",
+    "pdfPage": 19,
+    "displayOrder": 92
+  },
+  {
+    "sheetNumber": 93,
+    "canonicalSlug": "combination-sum-iii",
+    "topicSlug": "recursion-backtracking",
+    "patternSlug": "backtracking",
+    "pdfTitle": "Combination Sum III",
+    "pdfPage": 19,
+    "displayOrder": 93
+  },
+  {
+    "sheetNumber": 94,
+    "canonicalSlug": "letter-combinations-of-a-phone-number",
+    "topicSlug": "recursion-backtracking",
+    "patternSlug": "backtracking",
+    "pdfTitle": "Letter Combinations of a Phone Number",
+    "pdfPage": 19,
+    "displayOrder": 94
+  },
+  {
+    "sheetNumber": 95,
+    "canonicalSlug": "gray-code",
+    "topicSlug": "recursion-backtracking",
+    "patternSlug": "backtracking",
+    "pdfTitle": "Gray Code",
+    "pdfPage": 19,
+    "displayOrder": 95
+  },
+  {
+    "sheetNumber": 96,
+    "canonicalSlug": "letter-case-permutation",
+    "topicSlug": "recursion-backtracking",
+    "patternSlug": "backtracking",
+    "pdfTitle": "Letter Case Permutation",
+    "pdfPage": 19,
+    "displayOrder": 96
+  },
+  {
+    "sheetNumber": 97,
+    "canonicalSlug": "n-queens",
+    "topicSlug": "recursion-backtracking",
+    "patternSlug": "backtracking",
+    "pdfTitle": "N-Queens",
+    "pdfPage": 19,
+    "displayOrder": 97
+  },
+  {
+    "sheetNumber": 98,
+    "canonicalSlug": "sudoku-solver",
+    "topicSlug": "recursion-backtracking",
+    "patternSlug": "backtracking",
+    "pdfTitle": "Sudoku Solver",
+    "pdfPage": 19,
+    "displayOrder": 98
+  },
+  {
+    "sheetNumber": 99,
+    "canonicalSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+    "topicSlug": "trees",
+    "patternSlug": "binary-tree-level-order-traversal-bfs",
+    "pdfTitle": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "pdfPage": 20,
+    "displayOrder": 99
+  },
+  {
+    "sheetNumber": 100,
+    "canonicalSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "topicSlug": "trees",
+    "patternSlug": "binary-tree-level-order-traversal-bfs",
+    "pdfTitle": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "pdfPage": 20,
+    "displayOrder": 100
+  },
+  {
+    "sheetNumber": 101,
+    "canonicalSlug": "path-sum",
+    "topicSlug": "trees",
+    "patternSlug": "binary-tree-level-order-traversal-bfs",
+    "pdfTitle": "Path Sum",
+    "pdfPage": 20,
+    "displayOrder": 101
+  },
+  {
+    "sheetNumber": 102,
+    "canonicalSlug": "same-tree",
+    "topicSlug": "trees",
+    "patternSlug": "binary-tree-level-order-traversal-bfs",
+    "pdfTitle": "Same Tree",
+    "pdfPage": 20,
+    "displayOrder": 102
+  },
+  {
+    "sheetNumber": 103,
+    "canonicalSlug": "binary-tree-level-order-traversal",
+    "topicSlug": "trees",
+    "patternSlug": "binary-tree-level-order-traversal-bfs",
+    "pdfTitle": "Binary Tree Level Order Traversal",
+    "pdfPage": 20,
+    "displayOrder": 103
+  },
+  {
+    "sheetNumber": 104,
+    "canonicalSlug": "invert-binary-tree",
+    "topicSlug": "trees",
+    "patternSlug": "binary-tree-dfs-recursive-iterative",
+    "pdfTitle": "Invert Binary Tree",
+    "pdfPage": 21,
+    "displayOrder": 104
+  },
+  {
+    "sheetNumber": 105,
+    "canonicalSlug": "minimum-cost-tree-from-leaf-values",
+    "topicSlug": "trees",
+    "patternSlug": "binary-tree-dfs-recursive-iterative",
+    "pdfTitle": "Minimum Cost Tree From Leaf Values",
+    "pdfPage": 21,
+    "displayOrder": 105
+  },
+  {
+    "sheetNumber": 106,
+    "canonicalSlug": "binary-tree-zigzag-level-order-traversal",
+    "topicSlug": "trees",
+    "patternSlug": "binary-tree-dfs-recursive-iterative",
+    "pdfTitle": "Binary Tree Zigzag Level Order Traversal",
+    "pdfPage": 21,
+    "displayOrder": 106
+  },
+  {
+    "sheetNumber": 107,
+    "canonicalSlug": "maximum-depth-of-binary-tree",
+    "topicSlug": "trees",
+    "patternSlug": "binary-tree-dfs-recursive-iterative",
+    "pdfTitle": "Maximum Depth of Binary Tree",
+    "pdfPage": 21,
+    "displayOrder": 107
+  },
+  {
+    "sheetNumber": 108,
+    "canonicalSlug": "sum-of-left-leaves",
+    "topicSlug": "trees",
+    "patternSlug": "binary-tree-dfs-recursive-iterative",
+    "pdfTitle": "Sum of Left Leaves",
+    "pdfPage": 21,
+    "displayOrder": 108
+  },
+  {
+    "sheetNumber": 109,
+    "canonicalSlug": "binary-tree-right-side-view",
+    "topicSlug": "trees",
+    "patternSlug": "binary-tree-dfs-recursive-iterative",
+    "pdfTitle": "Binary Tree Right Side View",
+    "pdfPage": 21,
+    "displayOrder": 109
+  },
+  {
+    "sheetNumber": 110,
+    "canonicalSlug": "path-sum-ii",
+    "topicSlug": "trees",
+    "patternSlug": "binary-tree-dfs-recursive-iterative",
+    "pdfTitle": "Path Sum II",
+    "pdfPage": 21,
+    "displayOrder": 110
+  },
+  {
+    "sheetNumber": 111,
+    "canonicalSlug": "path-sum-iii",
+    "topicSlug": "trees",
+    "patternSlug": "binary-tree-dfs-recursive-iterative",
+    "pdfTitle": "Path Sum III",
+    "pdfPage": 22,
+    "displayOrder": 111
+  },
+  {
+    "sheetNumber": 112,
+    "canonicalSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+    "topicSlug": "trees",
+    "patternSlug": "binary-search-tree-bst",
+    "pdfTitle": "Lowest Common Ancestor of a Binary Search Tree",
+    "pdfPage": 22,
+    "displayOrder": 112
+  },
+  {
+    "sheetNumber": 113,
+    "canonicalSlug": "closest-binary-search-tree-value-ii",
+    "topicSlug": "trees",
+    "patternSlug": "binary-search-tree-bst",
+    "pdfTitle": "Closest Binary Search Tree Value II",
+    "pdfPage": 22,
+    "displayOrder": 113
+  },
+  {
+    "sheetNumber": 114,
+    "canonicalSlug": "trim-a-binary-search-tree",
+    "topicSlug": "trees",
+    "patternSlug": "binary-search-tree-bst",
+    "pdfTitle": "Trim a Binary Search Tree",
+    "pdfPage": 22,
+    "displayOrder": 114
+  },
+  {
+    "sheetNumber": 115,
+    "canonicalSlug": "search-in-a-binary-search-tree",
+    "topicSlug": "trees",
+    "patternSlug": "binary-search-tree-bst",
+    "pdfTitle": "Search in a Binary Search Tree",
+    "pdfPage": 22,
+    "displayOrder": 115
+  },
+  {
+    "sheetNumber": 116,
+    "canonicalSlug": "queue-reconstruction-by-height",
+    "topicSlug": "trees-ii",
+    "patternSlug": "bbst-avl-tree",
+    "pdfTitle": "Queue Reconstruction by Height",
+    "pdfPage": 23,
+    "displayOrder": 116
+  },
+  {
+    "sheetNumber": 117,
+    "canonicalSlug": "binary-tree-pruning",
+    "topicSlug": "trees-ii",
+    "patternSlug": "bbst-avl-tree",
+    "pdfTitle": "Binary Tree Pruning",
+    "pdfPage": 23,
+    "displayOrder": 117
+  },
+  {
+    "sheetNumber": 118,
+    "canonicalSlug": "balance-a-binary-search-tree",
+    "topicSlug": "trees-ii",
+    "patternSlug": "bbst-avl-tree",
+    "pdfTitle": "Balance a Binary Search Tree",
+    "pdfPage": 23,
+    "displayOrder": 118
+  },
+  {
+    "sheetNumber": 119,
+    "canonicalSlug": "balanced-binary-tree",
+    "topicSlug": "trees-ii",
+    "patternSlug": "bbst-avl-tree",
+    "pdfTitle": "Balanced Binary Tree",
+    "pdfPage": 23,
+    "displayOrder": 119
+  },
+  {
+    "sheetNumber": 120,
+    "canonicalSlug": "implement-trie-prefix-tree",
+    "topicSlug": "trees-ii",
+    "patternSlug": "trie",
+    "pdfTitle": "Implement Trie (Prefix Tree)",
+    "pdfPage": 23,
+    "displayOrder": 120
+  },
+  {
+    "sheetNumber": 121,
+    "canonicalSlug": "design-add-and-search-words-data-structure",
+    "topicSlug": "trees-ii",
+    "patternSlug": "trie",
+    "pdfTitle": "Design Add and Search Words Data Structure",
+    "pdfPage": 24,
+    "displayOrder": 121
+  },
+  {
+    "sheetNumber": 122,
+    "canonicalSlug": "word-search-ii",
+    "topicSlug": "trees-ii",
+    "patternSlug": "trie",
+    "pdfTitle": "Word Search II",
+    "pdfPage": 24,
+    "displayOrder": 122
+  },
+  {
+    "sheetNumber": 123,
+    "canonicalSlug": "redundant-connection",
+    "topicSlug": "trees-ii",
+    "patternSlug": "trie",
+    "pdfTitle": "Redundant Connection",
+    "pdfPage": 24,
+    "displayOrder": 123
+  },
+  {
+    "sheetNumber": 124,
+    "canonicalSlug": "accounts-merge",
+    "topicSlug": "trees-ii",
+    "patternSlug": "trie",
+    "pdfTitle": "Accounts Merge",
+    "pdfPage": 24,
+    "displayOrder": 124
+  },
+  {
+    "sheetNumber": 125,
+    "canonicalSlug": "range-sum-query-mutable",
+    "topicSlug": "trees-ii",
+    "patternSlug": "segment-tree-range-queries",
+    "pdfTitle": "Range Sum Query Mutable",
+    "pdfPage": 24,
+    "displayOrder": 125
+  },
+  {
+    "sheetNumber": 126,
+    "canonicalSlug": "longest-increasing-subsequence-ii",
+    "topicSlug": "trees-ii",
+    "patternSlug": "segment-tree-range-queries",
+    "pdfTitle": "Longest Increasing Subsequence II",
+    "pdfPage": 25,
+    "displayOrder": 126
+  },
+  {
+    "sheetNumber": 127,
+    "canonicalSlug": "rotting-oranges",
+    "topicSlug": "graphs",
+    "patternSlug": "bfs-dfs",
+    "pdfTitle": "Rotting Oranges",
+    "pdfPage": 26,
+    "displayOrder": 127
+  },
+  {
+    "sheetNumber": 128,
+    "canonicalSlug": "word-ladder",
+    "topicSlug": "graphs",
+    "patternSlug": "bfs-dfs",
+    "pdfTitle": "Word Ladder",
+    "pdfPage": 26,
+    "displayOrder": 128
+  },
+  {
+    "sheetNumber": 129,
+    "canonicalSlug": "number-of-provinces",
+    "topicSlug": "graphs",
+    "patternSlug": "bfs-dfs",
+    "pdfTitle": "Number of Provinces",
+    "pdfPage": 26,
+    "displayOrder": 129
+  },
+  {
+    "sheetNumber": 130,
+    "canonicalSlug": "number-of-enclaves",
+    "topicSlug": "graphs",
+    "patternSlug": "bfs-dfs",
+    "pdfTitle": "Number of Enclaves",
+    "pdfPage": 26,
+    "displayOrder": 130
+  },
+  {
+    "sheetNumber": 131,
+    "canonicalSlug": "detect-cycle-in-an-undirected-graph",
+    "topicSlug": "graphs",
+    "patternSlug": "bfs-dfs",
+    "pdfTitle": "Detect Cycle in an Undirected Graph",
+    "pdfPage": 26,
+    "displayOrder": 131
+  },
+  {
+    "sheetNumber": 132,
+    "canonicalSlug": "detect-cycle-in-a-directed-graph",
+    "topicSlug": "graphs",
+    "patternSlug": "detect-cycle-topological-sort",
+    "pdfTitle": "Detect Cycle in a Directed Graph",
+    "pdfPage": 27,
+    "displayOrder": 132
+  },
+  {
+    "sheetNumber": 133,
+    "canonicalSlug": "course-schedule",
+    "topicSlug": "graphs",
+    "patternSlug": "detect-cycle-topological-sort",
+    "pdfTitle": "Course Schedule",
+    "pdfPage": 27,
+    "displayOrder": 133
+  },
+  {
+    "sheetNumber": 134,
+    "canonicalSlug": "course-schedule-ii",
+    "topicSlug": "graphs",
+    "patternSlug": "detect-cycle-topological-sort",
+    "pdfTitle": "Course Schedule II",
+    "pdfPage": 27,
+    "displayOrder": 134
+  },
+  {
+    "sheetNumber": 135,
+    "canonicalSlug": "find-eventual-safe-states",
+    "topicSlug": "graphs",
+    "patternSlug": "detect-cycle-topological-sort",
+    "pdfTitle": "Find Eventual Safe States",
+    "pdfPage": 27,
+    "displayOrder": 135
+  },
+  {
+    "sheetNumber": 136,
+    "canonicalSlug": "alien-dictionary",
+    "topicSlug": "graphs",
+    "patternSlug": "detect-cycle-topological-sort",
+    "pdfTitle": "Alien Dictionary",
+    "pdfPage": 27,
+    "displayOrder": 136
+  },
+  {
+    "sheetNumber": 137,
+    "canonicalSlug": "network-delay-time",
+    "topicSlug": "graphs",
+    "patternSlug": "dijkstras-algorithm-sssp",
+    "pdfTitle": "Network Delay Time",
+    "pdfPage": 27,
+    "displayOrder": 137
+  },
+  {
+    "sheetNumber": 138,
+    "canonicalSlug": "shortest-path-in-binary-matrix",
+    "topicSlug": "graphs",
+    "patternSlug": "dijkstras-algorithm-sssp",
+    "pdfTitle": "Shortest Path in Binary Matrix",
+    "pdfPage": 27,
+    "displayOrder": 138
+  },
+  {
+    "sheetNumber": 139,
+    "canonicalSlug": "path-with-minimum-effort",
+    "topicSlug": "graphs",
+    "patternSlug": "dijkstras-algorithm-sssp",
+    "pdfTitle": "Path With Minimum Effort",
+    "pdfPage": 28,
+    "displayOrder": 139
+  },
+  {
+    "sheetNumber": 140,
+    "canonicalSlug": "cheapest-flights-within-k-stops",
+    "topicSlug": "graphs",
+    "patternSlug": "dijkstras-algorithm-sssp",
+    "pdfTitle": "Cheapest Flights Within K Stops",
+    "pdfPage": 28,
+    "displayOrder": 140
+  },
+  {
+    "sheetNumber": 141,
+    "canonicalSlug": "min-cost-to-connect-all-points",
+    "topicSlug": "graphs",
+    "patternSlug": "prims-kruskals-mst",
+    "pdfTitle": "Min Cost to Connect All Points",
+    "pdfPage": 28,
+    "displayOrder": 141
+  },
+  {
+    "sheetNumber": 142,
+    "canonicalSlug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+    "topicSlug": "graphs",
+    "patternSlug": "prims-kruskals-mst",
+    "pdfTitle": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+    "pdfPage": 28,
+    "displayOrder": 142
+  },
+  {
+    "sheetNumber": 143,
+    "canonicalSlug": "connecting-cities-with-minimum-cost",
+    "topicSlug": "graphs",
+    "patternSlug": "prims-kruskals-mst",
+    "pdfTitle": "Connecting Cities With Minimum Cost",
+    "pdfPage": 28,
+    "displayOrder": 143
+  },
+  {
+    "sheetNumber": 144,
+    "canonicalSlug": "course-schedule-iv",
+    "topicSlug": "graphs",
+    "patternSlug": "floyd-warshall-apsp",
+    "pdfTitle": "Course Schedule IV",
+    "pdfPage": 29,
+    "displayOrder": 144
+  },
+  {
+    "sheetNumber": 145,
+    "canonicalSlug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+    "topicSlug": "graphs",
+    "patternSlug": "floyd-warshall-apsp",
+    "pdfTitle": "Find the City With the Smallest Number of Neighbors at a...",
+    "pdfPage": 29,
+    "displayOrder": 145
+  },
+  {
+    "sheetNumber": 146,
+    "canonicalSlug": "number-of-ways-to-arrive-at-destination",
+    "topicSlug": "graphs",
+    "patternSlug": "floyd-warshall-apsp",
+    "pdfTitle": "Number of Ways to Arrive at Destination",
+    "pdfPage": 29,
+    "displayOrder": 146
+  },
+  {
+    "sheetNumber": 147,
+    "canonicalSlug": "non-overlapping-intervals",
+    "topicSlug": "greedy",
+    "patternSlug": "greedy-algorithms",
+    "pdfTitle": "Non-overlapping Intervals",
+    "pdfPage": 30,
+    "displayOrder": 147
+  },
+  {
+    "sheetNumber": 148,
+    "canonicalSlug": "minimum-platforms-1587115620",
+    "topicSlug": "greedy",
+    "patternSlug": "greedy-algorithms",
+    "pdfTitle": "Minimum Platforms",
+    "pdfPage": 30,
+    "displayOrder": 148
+  },
+  {
+    "sheetNumber": 149,
+    "canonicalSlug": "maximize-sum-of-array-after-k-negations",
+    "topicSlug": "greedy",
+    "patternSlug": "greedy-algorithms",
+    "pdfTitle": "Maximize Sum Of Array After K Negations",
+    "pdfPage": 30,
+    "displayOrder": 149
+  },
+  {
+    "sheetNumber": 150,
+    "canonicalSlug": "assign-mice-holes3053",
+    "topicSlug": "greedy",
+    "patternSlug": "greedy-algorithms",
+    "pdfTitle": "Assign Mice to Holes",
+    "pdfPage": 30,
+    "displayOrder": 150
+  },
+  {
+    "sheetNumber": 151,
+    "canonicalSlug": "maximum-product-of-three-numbers",
+    "topicSlug": "greedy",
+    "patternSlug": "greedy-algorithms",
+    "pdfTitle": "Maximum Product of Three Numbers",
+    "pdfPage": 30,
+    "displayOrder": 151
+  },
+  {
+    "sheetNumber": 152,
+    "canonicalSlug": "bulb-switcher",
+    "topicSlug": "greedy",
+    "patternSlug": "greedy-algorithms",
+    "pdfTitle": "Bulb Switcher",
+    "pdfPage": 30,
+    "displayOrder": 152
+  },
+  {
+    "sheetNumber": 153,
+    "canonicalSlug": "candy",
+    "topicSlug": "greedy",
+    "patternSlug": "greedy-algorithms",
+    "pdfTitle": "Candy",
+    "pdfPage": 30,
+    "displayOrder": 153
+  },
+  {
+    "sheetNumber": 154,
+    "canonicalSlug": "maximum-swap",
+    "topicSlug": "greedy",
+    "patternSlug": "greedy-algorithms",
+    "pdfTitle": "Maximum Swap",
+    "pdfPage": 30,
+    "displayOrder": 154
+  },
+  {
+    "sheetNumber": 155,
+    "canonicalSlug": "climbing-stairs",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "climbing-stairs",
+    "pdfTitle": "Climbing Stairs",
+    "pdfPage": 31,
+    "displayOrder": 155
+  },
+  {
+    "sheetNumber": 156,
+    "canonicalSlug": "decode-ways",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "climbing-stairs",
+    "pdfTitle": "Decode Ways",
+    "pdfPage": 31,
+    "displayOrder": 156
+  },
+  {
+    "sheetNumber": 157,
+    "canonicalSlug": "frog-jump",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "climbing-stairs",
+    "pdfTitle": "Frog Jump",
+    "pdfPage": 31,
+    "displayOrder": 157
+  },
+  {
+    "sheetNumber": 158,
+    "canonicalSlug": "coin-change",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "coin-change-1d-dp",
+    "pdfTitle": "Coin Change",
+    "pdfPage": 31,
+    "displayOrder": 158
+  },
+  {
+    "sheetNumber": 159,
+    "canonicalSlug": "minimum-jumps-to-reach-home",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "coin-change-1d-dp",
+    "pdfTitle": "Minimum Jumps to Reach Home",
+    "pdfPage": 31,
+    "displayOrder": 159
+  },
+  {
+    "sheetNumber": 160,
+    "canonicalSlug": "best-time-to-buy-and-sell-stock",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "buy-and-sell-stock",
+    "pdfTitle": "Best Time to Buy and Sell Stock",
+    "pdfPage": 32,
+    "displayOrder": 160
+  },
+  {
+    "sheetNumber": 161,
+    "canonicalSlug": "best-time-to-buy-and-sell-stock-ii",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "buy-and-sell-stock",
+    "pdfTitle": "Best Time to Buy and Sell Stock II",
+    "pdfPage": 32,
+    "displayOrder": 161
+  },
+  {
+    "sheetNumber": 162,
+    "canonicalSlug": "best-time-to-buy-and-sell-stock-iii",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "buy-and-sell-stock",
+    "pdfTitle": "Best Time to Buy and Sell Stock III",
+    "pdfPage": 32,
+    "displayOrder": 162
+  },
+  {
+    "sheetNumber": 163,
+    "canonicalSlug": "best-time-to-buy-and-sell-stock-iv",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "buy-and-sell-stock",
+    "pdfTitle": "Best Time to Buy and Sell Stock IV",
+    "pdfPage": 32,
+    "displayOrder": 163
+  },
+  {
+    "sheetNumber": 164,
+    "canonicalSlug": "best-time-to-buy-and-sell-stock-with-cooldown",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "buy-and-sell-stock",
+    "pdfTitle": "Best Time to Buy and Sell Stock with Cooldown",
+    "pdfPage": 32,
+    "displayOrder": 164
+  },
+  {
+    "sheetNumber": 165,
+    "canonicalSlug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "buy-and-sell-stock",
+    "pdfTitle": "Best Time to Buy and Sell Stock with Transaction Fee",
+    "pdfPage": 32,
+    "displayOrder": 165
+  },
+  {
+    "sheetNumber": 166,
+    "canonicalSlug": "partition-equal-subset-sum",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "0-1-knapsack",
+    "pdfTitle": "Partition Equal Subset Sum",
+    "pdfPage": 32,
+    "displayOrder": 166
+  },
+  {
+    "sheetNumber": 167,
+    "canonicalSlug": "ones-and-zeroes",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "0-1-knapsack",
+    "pdfTitle": "Ones and Zeroes",
+    "pdfPage": 33,
+    "displayOrder": 167
+  },
+  {
+    "sheetNumber": 168,
+    "canonicalSlug": "coin-change-ii",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "unbounded-knapsack",
+    "pdfTitle": "Coin Change II",
+    "pdfPage": 33,
+    "displayOrder": 168
+  },
+  {
+    "sheetNumber": 169,
+    "canonicalSlug": "last-stone-weight-ii",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "unbounded-knapsack",
+    "pdfTitle": "Last Stone Weight II",
+    "pdfPage": 33,
+    "displayOrder": 169
+  },
+  {
+    "sheetNumber": 170,
+    "canonicalSlug": "longest-common-subsequence",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "longest-common-subsequence-lcs",
+    "pdfTitle": "Longest Common Subsequence",
+    "pdfPage": 33,
+    "displayOrder": 170
+  },
+  {
+    "sheetNumber": 171,
+    "canonicalSlug": "edit-distance",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "longest-common-subsequence-lcs",
+    "pdfTitle": "Edit Distance",
+    "pdfPage": 33,
+    "displayOrder": 171
+  },
+  {
+    "sheetNumber": 172,
+    "canonicalSlug": "longest-palindromic-subsequence",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "longest-common-subsequence-lcs",
+    "pdfTitle": "Longest Palindromic Subsequence",
+    "pdfPage": 34,
+    "displayOrder": 172
+  },
+  {
+    "sheetNumber": 173,
+    "canonicalSlug": "minimum-insertion-steps-to-make-a-string-palindrome",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "longest-common-subsequence-lcs",
+    "pdfTitle": "Minimum Insertion Steps to Make a String Palindrome",
+    "pdfPage": 34,
+    "displayOrder": 173
+  },
+  {
+    "sheetNumber": 174,
+    "canonicalSlug": "longest-increasing-subsequence",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "longest-increasing-subsequence-lis",
+    "pdfTitle": "Longest Increasing Subsequence",
+    "pdfPage": 34,
+    "displayOrder": 174
+  },
+  {
+    "sheetNumber": 175,
+    "canonicalSlug": "largest-divisible-subset",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "longest-increasing-subsequence-lis",
+    "pdfTitle": "Largest Divisible Subset",
+    "pdfPage": 34,
+    "displayOrder": 175
+  },
+  {
+    "sheetNumber": 176,
+    "canonicalSlug": "longest-string-chain",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "longest-increasing-subsequence-lis",
+    "pdfTitle": "Longest String Chain",
+    "pdfPage": 34,
+    "displayOrder": 176
+  },
+  {
+    "sheetNumber": 177,
+    "canonicalSlug": "minimum-cost-to-cut-a-stick",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "matrix-chain-multiplication-mcm",
+    "pdfTitle": "Minimum Cost to Cut a Stick",
+    "pdfPage": 35,
+    "displayOrder": 177
+  },
+  {
+    "sheetNumber": 178,
+    "canonicalSlug": "burst-balloons",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "matrix-chain-multiplication-mcm",
+    "pdfTitle": "Burst Balloons",
+    "pdfPage": 35,
+    "displayOrder": 178
+  },
+  {
+    "sheetNumber": 179,
+    "canonicalSlug": "parsing-a-boolean-expression",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "matrix-chain-multiplication-mcm",
+    "pdfTitle": "Parsing a Boolean Expression",
+    "pdfPage": 35,
+    "displayOrder": 179
+  },
+  {
+    "sheetNumber": 180,
+    "canonicalSlug": "palindrome-partitioning-ii",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "matrix-chain-multiplication-mcm",
+    "pdfTitle": "Palindrome Partitioning II",
+    "pdfPage": 35,
+    "displayOrder": 180
+  },
+  {
+    "sheetNumber": 181,
+    "canonicalSlug": "shortest-path-visiting-all-nodes",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "dp-on-grids-and-trees",
+    "pdfTitle": "Shortest Path Visiting All Nodes",
+    "pdfPage": 35,
+    "displayOrder": 181
+  },
+  {
+    "sheetNumber": 182,
+    "canonicalSlug": "unique-paths",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "dp-on-grids-and-trees",
+    "pdfTitle": "Unique Paths",
+    "pdfPage": 35,
+    "displayOrder": 182
+  },
+  {
+    "sheetNumber": 183,
+    "canonicalSlug": "unique-paths-ii",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "dp-on-grids-and-trees",
+    "pdfTitle": "Unique Paths II",
+    "pdfPage": 36,
+    "displayOrder": 183
+  },
+  {
+    "sheetNumber": 184,
+    "canonicalSlug": "minimum-path-sum",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "dp-on-grids-and-trees",
+    "pdfTitle": "Minimum Path Sum",
+    "pdfPage": 36,
+    "displayOrder": 184
+  },
+  {
+    "sheetNumber": 185,
+    "canonicalSlug": "russian-doll-envelopes",
+    "topicSlug": "dynamic-programming",
+    "patternSlug": "dp-on-grids-and-trees",
+    "pdfTitle": "Russian Doll Envelopes",
+    "pdfPage": 36,
+    "displayOrder": 185
+  },
+  {
+    "sheetNumber": 186,
+    "canonicalSlug": "find-greatest-common-divisor-of-array",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Find Greatest Common Divisor of Array",
+    "pdfPage": 37,
+    "displayOrder": 186
+  },
+  {
+    "sheetNumber": 187,
+    "canonicalSlug": "self-dividing-numbers",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Self Dividing Numbers",
+    "pdfPage": 37,
+    "displayOrder": 187
+  },
+  {
+    "sheetNumber": 188,
+    "canonicalSlug": "number-of-good-pairs",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Number of Good Pairs",
+    "pdfPage": 37,
+    "displayOrder": 188
+  },
+  {
+    "sheetNumber": 189,
+    "canonicalSlug": "four-divisors",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Four Divisors",
+    "pdfPage": 37,
+    "displayOrder": 189
+  },
+  {
+    "sheetNumber": 190,
+    "canonicalSlug": "day-of-the-week",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Day of the Week",
+    "pdfPage": 37,
+    "displayOrder": 190
+  },
+  {
+    "sheetNumber": 191,
+    "canonicalSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Subtract the Product and Sum of Digits of an Integer",
+    "pdfPage": 37,
+    "displayOrder": 191
+  },
+  {
+    "sheetNumber": 192,
+    "canonicalSlug": "count-of-matches-in-tournament",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Count of Matches in Tournament",
+    "pdfPage": 37,
+    "displayOrder": 192
+  },
+  {
+    "sheetNumber": 193,
+    "canonicalSlug": "max-consecutive-ones",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Max Consecutive Ones",
+    "pdfPage": 38,
+    "displayOrder": 193
+  },
+  {
+    "sheetNumber": 194,
+    "canonicalSlug": "rectangle-overlap",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Rectangle Overlap",
+    "pdfPage": 38,
+    "displayOrder": 194
+  },
+  {
+    "sheetNumber": 195,
+    "canonicalSlug": "excel-sheet-column-title",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Excel Sheet Column",
+    "pdfPage": 38,
+    "displayOrder": 195
+  },
+  {
+    "sheetNumber": 196,
+    "canonicalSlug": "unique-paths",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Unique Paths",
+    "pdfPage": 38,
+    "displayOrder": 196
+  },
+  {
+    "sheetNumber": 197,
+    "canonicalSlug": "rectangle-area",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Rectangle Area",
+    "pdfPage": 38,
+    "displayOrder": 197
+  },
+  {
+    "sheetNumber": 198,
+    "canonicalSlug": "check-if-array-pairs-are-divisible-by-k",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Check If Array Pairs Are Divisible by k",
+    "pdfPage": 38,
+    "displayOrder": 198
+  },
+  {
+    "sheetNumber": 199,
+    "canonicalSlug": "factorial-trailing-zeroes",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Factorial Trailing Zeroes",
+    "pdfPage": 38,
+    "displayOrder": 199
+  },
+  {
+    "sheetNumber": 200,
+    "canonicalSlug": "nth-magical-number",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Nth Magical Number",
+    "pdfPage": 38,
+    "displayOrder": 200
+  },
+  {
+    "sheetNumber": 201,
+    "canonicalSlug": "permutation-sequence",
+    "topicSlug": "math",
+    "patternSlug": "mathematical-algorithms",
+    "pdfTitle": "Permutation Sequence",
+    "pdfPage": 38,
+    "displayOrder": 201
+  },
+  {
+    "sheetNumber": 202,
+    "canonicalSlug": "single-number",
+    "topicSlug": "miscellaneous",
+    "patternSlug": "bit-manipulation-tricks",
+    "pdfTitle": "Single Number",
+    "pdfPage": 39,
+    "displayOrder": 202
+  },
+  {
+    "sheetNumber": 203,
+    "canonicalSlug": "reverse-bits",
+    "topicSlug": "miscellaneous",
+    "patternSlug": "bit-manipulation-tricks",
+    "pdfTitle": "Reverse Bits",
+    "pdfPage": 39,
+    "displayOrder": 203
+  },
+  {
+    "sheetNumber": 204,
+    "canonicalSlug": "single-number-ii",
+    "topicSlug": "miscellaneous",
+    "patternSlug": "bit-manipulation-tricks",
+    "pdfTitle": "Single Number II",
+    "pdfPage": 39,
+    "displayOrder": 204
+  },
+  {
+    "sheetNumber": 205,
+    "canonicalSlug": "number-of-1-bits",
+    "topicSlug": "miscellaneous",
+    "patternSlug": "bit-manipulation-tricks",
+    "pdfTitle": "Number of 1 Bits",
+    "pdfPage": 39,
+    "displayOrder": 205
+  },
+  {
+    "sheetNumber": 206,
+    "canonicalSlug": "factorial-trailing-zeroes",
+    "topicSlug": "miscellaneous",
+    "patternSlug": "bit-manipulation-tricks",
+    "pdfTitle": "Factorial Trailing Zeroes",
+    "pdfPage": 39,
+    "displayOrder": 206
+  },
+  {
+    "sheetNumber": 207,
+    "canonicalSlug": "binary-number-with-alternating-bits",
+    "topicSlug": "miscellaneous",
+    "patternSlug": "bit-manipulation-tricks",
+    "pdfTitle": "Binary Number with Alternating Bits",
+    "pdfPage": 39,
+    "displayOrder": 207
+  },
+  {
+    "sheetNumber": 208,
+    "canonicalSlug": "number-of-even-and-odd-bits",
+    "topicSlug": "miscellaneous",
+    "patternSlug": "bit-manipulation-tricks",
+    "pdfTitle": "Number of Even and Odd Bits",
+    "pdfPage": 39,
+    "displayOrder": 208
+  },
+  {
+    "sheetNumber": 209,
+    "canonicalSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "topicSlug": "miscellaneous",
+    "patternSlug": "rabin-karp-rolling-hash",
+    "pdfTitle": "Find the Index of the First Occurrence in a String",
+    "pdfPage": 40,
+    "displayOrder": 209
+  },
+  {
+    "sheetNumber": 210,
+    "canonicalSlug": "repeated-dna-sequences",
+    "topicSlug": "miscellaneous",
+    "patternSlug": "rabin-karp-rolling-hash",
+    "pdfTitle": "Repeated DNA Sequences",
+    "pdfPage": 40,
+    "displayOrder": 210
+  },
+  {
+    "sheetNumber": 211,
+    "canonicalSlug": "longest-duplicate-substring",
+    "topicSlug": "miscellaneous",
+    "patternSlug": "rabin-karp-rolling-hash",
+    "pdfTitle": "Longest Duplicate Substring",
+    "pdfPage": 40,
+    "displayOrder": 211
+  }
+]

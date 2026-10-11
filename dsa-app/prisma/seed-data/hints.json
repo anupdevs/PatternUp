@@ -1,0 +1,37 @@
+[
+  {
+    "canonicalSlug": "two-sum",
+    "order": 1,
+    "content": "Consider how a Hash Map can store the complement of each element (target - current) as you traverse the array in one pass.",
+    "sourceType": "INFERRED_EDITORIAL",
+    "verified": true
+  },
+  {
+    "canonicalSlug": "two-sum",
+    "order": 2,
+    "content": "For each element nums[i], check if (target - nums[i]) already exists in the map. If yes, you found the two indices in O(N) time and O(N) space.",
+    "sourceType": "INFERRED_EDITORIAL",
+    "verified": true
+  },
+  {
+    "canonicalSlug": "next-permutation",
+    "order": 1,
+    "content": "Find the first pair from the right where nums[i] < nums[i + 1]. This identifies the pivot that needs to increase.",
+    "sourceType": "INFERRED_EDITORIAL",
+    "verified": true
+  },
+  {
+    "canonicalSlug": "next-permutation",
+    "order": 2,
+    "content": "From the right end, find the smallest number greater than nums[i] and swap them. Then reverse the subarray after index i to minimize the next permutation.",
+    "sourceType": "INFERRED_EDITORIAL",
+    "verified": true
+  },
+  {
+    "canonicalSlug": "trapping-rain-water",
+    "order": 1,
+    "content": "The water trapped above any bar is determined by min(max_left, max_right) - height[i]. Can you maintain these boundary maximums with two pointers?",
+    "sourceType": "INFERRED_EDITORIAL",
+    "verified": true
+  }
+]

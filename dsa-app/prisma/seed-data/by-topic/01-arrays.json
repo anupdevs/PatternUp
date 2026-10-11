@@ -1,0 +1,800 @@
+{
+  "topic": {
+    "slug": "arrays",
+    "name": "Arrays",
+    "description": "Core linear data structure covering 1D/2D arrays, prefix sums, sliding window, and two pointers.",
+    "displayOrder": 1
+  },
+  "problems": [
+    {
+      "sheetNumber": 1,
+      "pdfTitle": "Richest customer wealth",
+      "pdfPage": 4,
+      "patternSlug": "1-d-array",
+      "canonical": {
+        "canonicalSlug": "richest-customer-wealth",
+        "title": "Richest Customer Wealth",
+        "description": "Practice problem: Richest Customer Wealth",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/richest-customer-wealth/",
+        "originalPdfQuestionNumber": 1,
+        "sourcePage": "4",
+        "displayOrder": 1,
+        "tags": [
+          "Array",
+          "Matrix"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 2,
+      "pdfTitle": "Two Sum",
+      "pdfPage": 4,
+      "patternSlug": "1-d-array",
+      "canonical": {
+        "canonicalSlug": "two-sum",
+        "title": "Two Sum",
+        "description": "Practice problem: Two Sum",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/two-sum/description/",
+        "originalPdfQuestionNumber": 2,
+        "sourcePage": "4",
+        "displayOrder": 2,
+        "tags": [
+          "Array",
+          "Hash Table"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 3,
+      "pdfTitle": "Count negative numbers in a sorted matrix",
+      "pdfPage": 4,
+      "patternSlug": "1-d-array",
+      "canonical": {
+        "canonicalSlug": "count-negative-numbers-in-a-sorted-matrix",
+        "title": "Count Negative Numbers in a Sorted Matrix",
+        "description": "Practice problem: Count Negative Numbers in a Sorted Matrix",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/",
+        "originalPdfQuestionNumber": 3,
+        "sourcePage": "4",
+        "displayOrder": 3,
+        "tags": [
+          "Array",
+          "Binary Search",
+          "Matrix"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 4,
+      "pdfTitle": "Next permutation",
+      "pdfPage": 4,
+      "patternSlug": "1-d-array",
+      "canonical": {
+        "canonicalSlug": "next-permutation",
+        "title": "Next Permutation",
+        "description": "Practice problem: Next Permutation",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/next-permutation/description/",
+        "originalPdfQuestionNumber": 4,
+        "sourcePage": "4",
+        "displayOrder": 4,
+        "tags": [
+          "Array",
+          "Two Pointers"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 5,
+      "pdfTitle": "Median of two sorted arrays",
+      "pdfPage": 4,
+      "patternSlug": "1-d-array",
+      "canonical": {
+        "canonicalSlug": "median-of-two-sorted-arrays",
+        "title": "Median of Two Sorted Arrays",
+        "description": "Practice problem: Median of Two Sorted Arrays",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/description/",
+        "originalPdfQuestionNumber": 5,
+        "sourcePage": "4",
+        "displayOrder": 5,
+        "tags": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 6,
+      "pdfTitle": "Find greatest common divisor of array",
+      "pdfPage": 4,
+      "patternSlug": "1-d-array",
+      "canonical": {
+        "canonicalSlug": "find-greatest-common-divisor-of-array",
+        "title": "Find Greatest Common Divisor of Array",
+        "description": "Practice problem: Find Greatest Common Divisor of Array",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/",
+        "originalPdfQuestionNumber": 6,
+        "sourcePage": "4",
+        "displayOrder": 6,
+        "tags": [
+          "Array",
+          "Math",
+          "Number Theory",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 7,
+      "pdfTitle": "Self dividing numbers",
+      "pdfPage": 4,
+      "patternSlug": "1-d-array",
+      "canonical": {
+        "canonicalSlug": "self-dividing-numbers",
+        "title": "Self Dividing Numbers",
+        "description": "Practice problem: Self Dividing Numbers",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/self-dividing-numbers/description/",
+        "originalPdfQuestionNumber": 7,
+        "sourcePage": "4",
+        "displayOrder": 7,
+        "tags": [
+          "Math"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 8,
+      "pdfTitle": "Inversion of array - 1587115620",
+      "pdfPage": 5,
+      "patternSlug": "2-d-array",
+      "canonical": {
+        "canonicalSlug": "inversion-of-array-1587115620",
+        "title": "Inversion of Array",
+        "description": "Practice problem: Inversion of Array",
+        "difficulty": "MEDIUM",
+        "difficultySource": "GeeksforGeeks Official Metadata (Inferred/Verified)",
+        "platform": "GEEKS_FOR_GEEKS",
+        "externalUrl": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
+        "originalPdfQuestionNumber": 8,
+        "sourcePage": "5",
+        "displayOrder": 8,
+        "tags": [
+          "Arrays",
+          "Divide and Conquer"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 9,
+      "pdfTitle": "Reverse pairs",
+      "pdfPage": 5,
+      "patternSlug": "2-d-array",
+      "canonical": {
+        "canonicalSlug": "reverse-pairs",
+        "title": "Reverse Pairs",
+        "description": "Practice problem: Reverse Pairs",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/reverse-pairs/description/",
+        "originalPdfQuestionNumber": 9,
+        "sourcePage": "5",
+        "displayOrder": 9,
+        "tags": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Merge Sort",
+          "Ordered Set",
+          "Treap"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 10,
+      "pdfTitle": "Special positions in a binary matrix",
+      "pdfPage": 5,
+      "patternSlug": "2-d-array",
+      "canonical": {
+        "canonicalSlug": "special-positions-in-a-binary-matrix",
+        "title": "Special Positions in a Binary Matrix",
+        "description": "Practice problem: Special Positions in a Binary Matrix",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/",
+        "originalPdfQuestionNumber": 10,
+        "sourcePage": "5",
+        "displayOrder": 10,
+        "tags": [
+          "Array",
+          "Matrix"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 11,
+      "pdfTitle": "Transpose Matrix",
+      "pdfPage": 5,
+      "patternSlug": "2-d-array",
+      "canonical": {
+        "canonicalSlug": "transpose-matrix",
+        "title": "Transpose Matrix",
+        "description": "Practice problem: Transpose Matrix",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/transpose-matrix/description/",
+        "originalPdfQuestionNumber": 11,
+        "sourcePage": "5",
+        "displayOrder": 11,
+        "tags": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 12,
+      "pdfTitle": "01 Matrix",
+      "pdfPage": 5,
+      "patternSlug": "2-d-array",
+      "canonical": {
+        "canonicalSlug": "01-matrix",
+        "title": "01 Matrix",
+        "description": "Practice problem: 01 Matrix",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/01-matrix/description/",
+        "originalPdfQuestionNumber": 12,
+        "sourcePage": "5",
+        "displayOrder": 12,
+        "tags": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 13,
+      "pdfTitle": "Spiral Matrix",
+      "pdfPage": 5,
+      "patternSlug": "2-d-array",
+      "canonical": {
+        "canonicalSlug": "spiral-matrix",
+        "title": "Spiral Matrix",
+        "description": "Practice problem: Spiral Matrix",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/spiral-matrix/description/",
+        "originalPdfQuestionNumber": 13,
+        "sourcePage": "5",
+        "displayOrder": 13,
+        "tags": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 14,
+      "pdfTitle": "Pascal's Triangle",
+      "pdfPage": 5,
+      "patternSlug": "2-d-array",
+      "canonical": {
+        "canonicalSlug": "pascals-triangle",
+        "title": "Pascal's Triangle",
+        "description": "Practice problem: Pascal's Triangle",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/pascals-triangle/description/",
+        "originalPdfQuestionNumber": 14,
+        "sourcePage": "5",
+        "displayOrder": 14,
+        "tags": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 15,
+      "pdfTitle": "Minimum Size Subarray Sum",
+      "pdfPage": 6,
+      "patternSlug": "prefix-sum",
+      "canonical": {
+        "canonicalSlug": "minimum-size-subarray-sum",
+        "title": "Minimum Size Subarray Sum",
+        "description": "Practice problem: Minimum Size Subarray Sum",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/description/",
+        "originalPdfQuestionNumber": 15,
+        "sourcePage": "6",
+        "displayOrder": 15,
+        "tags": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 16,
+      "pdfTitle": "Running Sum of 1d Array",
+      "pdfPage": 6,
+      "patternSlug": "prefix-sum",
+      "canonical": {
+        "canonicalSlug": "running-sum-of-1d-array",
+        "title": "Running Sum of 1d Array",
+        "description": "Practice problem: Running Sum of 1d Array",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/running-sum-of-1d-array/description/",
+        "originalPdfQuestionNumber": 16,
+        "sourcePage": "6",
+        "displayOrder": 16,
+        "tags": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 17,
+      "pdfTitle": "Range Sum Query 2D Immutable",
+      "pdfPage": 6,
+      "patternSlug": "prefix-sum",
+      "canonical": {
+        "canonicalSlug": "range-sum-query-2d-immutable",
+        "title": "Range Sum Query 2D - Immutable",
+        "description": "Practice problem: Range Sum Query 2D - Immutable",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/range-sum-query-2d-immutable/description/",
+        "originalPdfQuestionNumber": 17,
+        "sourcePage": "6",
+        "displayOrder": 17,
+        "tags": [
+          "Array",
+          "Design",
+          "Matrix",
+          "Prefix Sum"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 18,
+      "pdfTitle": "Maximum Subarray",
+      "pdfPage": 6,
+      "patternSlug": "prefix-sum",
+      "canonical": {
+        "canonicalSlug": "maximum-subarray",
+        "title": "Maximum Subarray",
+        "description": "Practice problem: Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/maximum-subarray/description/",
+        "originalPdfQuestionNumber": 18,
+        "sourcePage": "6",
+        "displayOrder": 18,
+        "tags": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 19,
+      "pdfTitle": "Maximum Sum Circular Subarray",
+      "pdfPage": 6,
+      "patternSlug": "prefix-sum",
+      "canonical": {
+        "canonicalSlug": "maximum-sum-circular-subarray",
+        "title": "Maximum Sum Circular Subarray",
+        "description": "Practice problem: Maximum Sum Circular Subarray",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/maximum-sum-circular-subarray/description/",
+        "originalPdfQuestionNumber": 19,
+        "sourcePage": "6",
+        "displayOrder": 19,
+        "tags": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming",
+          "Queue",
+          "Monotonic Queue"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 20,
+      "pdfTitle": "Longest Turbulent Subarray",
+      "pdfPage": 6,
+      "patternSlug": "prefix-sum",
+      "canonical": {
+        "canonicalSlug": "longest-turbulent-subarray",
+        "title": "Longest Turbulent Subarray",
+        "description": "Practice problem: Longest Turbulent Subarray",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/longest-turbulent-subarray/description/",
+        "originalPdfQuestionNumber": 20,
+        "sourcePage": "6",
+        "displayOrder": 20,
+        "tags": [
+          "Array",
+          "Dynamic Programming",
+          "Sliding Window"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 21,
+      "pdfTitle": "Contains Duplicate II",
+      "pdfPage": 7,
+      "patternSlug": "sliding-window-fixed-variable-size",
+      "canonical": {
+        "canonicalSlug": "contains-duplicate-ii",
+        "title": "Contains Duplicate II",
+        "description": "Practice problem: Contains Duplicate II",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/contains-duplicate-ii/description/",
+        "originalPdfQuestionNumber": 21,
+        "sourcePage": "7",
+        "displayOrder": 21,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 22,
+      "pdfTitle": "Number of Sub-arrays of Size K and Average ..",
+      "pdfPage": 7,
+      "patternSlug": "sliding-window-fixed-variable-size",
+      "canonical": {
+        "canonicalSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+        "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+        "description": "Practice problem: Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/",
+        "originalPdfQuestionNumber": 22,
+        "sourcePage": "7",
+        "displayOrder": 22,
+        "tags": [
+          "Array",
+          "Sliding Window"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 23,
+      "pdfTitle": "Minimum Size Subarray Sum",
+      "pdfPage": 7,
+      "patternSlug": "sliding-window-fixed-variable-size",
+      "canonical": {
+        "canonicalSlug": "minimum-size-subarray-sum",
+        "title": "Minimum Size Subarray Sum",
+        "description": "Practice problem: Minimum Size Subarray Sum",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/description/",
+        "originalPdfQuestionNumber": 15,
+        "sourcePage": "6",
+        "displayOrder": 15,
+        "tags": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 24,
+      "pdfTitle": "Longest Substring Without Repeating Characters",
+      "pdfPage": 7,
+      "patternSlug": "sliding-window-fixed-variable-size",
+      "canonical": {
+        "canonicalSlug": "longest-substring-without-repeating-characters",
+        "title": "Longest Substring Without Repeating Characters",
+        "description": "Practice problem: Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/description/",
+        "originalPdfQuestionNumber": 24,
+        "sourcePage": "7",
+        "displayOrder": 24,
+        "tags": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 25,
+      "pdfTitle": "Longest Repeating Character Replacement",
+      "pdfPage": 7,
+      "patternSlug": "sliding-window-fixed-variable-size",
+      "canonical": {
+        "canonicalSlug": "longest-repeating-character-replacement",
+        "title": "Longest Repeating Character Replacement",
+        "description": "Practice problem: Longest Repeating Character Replacement",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/description/",
+        "originalPdfQuestionNumber": 25,
+        "sourcePage": "7",
+        "displayOrder": 25,
+        "tags": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 26,
+      "pdfTitle": "Container With Most Water",
+      "pdfPage": 7,
+      "patternSlug": "two-pointers",
+      "canonical": {
+        "canonicalSlug": "container-with-most-water",
+        "title": "Container With Most Water",
+        "description": "Practice problem: Container With Most Water",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/container-with-most-water/description/",
+        "originalPdfQuestionNumber": 26,
+        "sourcePage": "7",
+        "displayOrder": 26,
+        "tags": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 27,
+      "pdfTitle": "Trapping Rain Water",
+      "pdfPage": 8,
+      "patternSlug": "two-pointers",
+      "canonical": {
+        "canonicalSlug": "trapping-rain-water",
+        "title": "Trapping Rain Water",
+        "description": "Practice problem: Trapping Rain Water",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/trapping-rain-water/description/",
+        "originalPdfQuestionNumber": 27,
+        "sourcePage": "8",
+        "displayOrder": 27,
+        "tags": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 28,
+      "pdfTitle": "Two Sum II - Input Array Is Sorted",
+      "pdfPage": 8,
+      "patternSlug": "two-pointers",
+      "canonical": {
+        "canonicalSlug": "two-sum-ii-input-array-is-sorted",
+        "title": "Two Sum II - Input Array Is Sorted",
+        "description": "Practice problem: Two Sum II - Input Array Is Sorted",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/",
+        "originalPdfQuestionNumber": 28,
+        "sourcePage": "8",
+        "displayOrder": 28,
+        "tags": [
+          "Array",
+          "Two Pointers",
+          "Binary Search"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 29,
+      "pdfTitle": "K-diff Pairs in an Array",
+      "pdfPage": 8,
+      "patternSlug": "two-pointers",
+      "canonical": {
+        "canonicalSlug": "k-diff-pairs-in-an-array",
+        "title": "K-diff Pairs in an Array",
+        "description": "Practice problem: K-diff Pairs in an Array",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/k-diff-pairs-in-an-array/description/",
+        "originalPdfQuestionNumber": 29,
+        "sourcePage": "8",
+        "displayOrder": 29,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 30,
+      "pdfTitle": "Find K Closest Elements",
+      "pdfPage": 8,
+      "patternSlug": "two-pointers",
+      "canonical": {
+        "canonicalSlug": "find-k-closest-elements",
+        "title": "Find K Closest Elements",
+        "description": "Practice problem: Find K Closest Elements",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/find-k-closest-elements/description/",
+        "originalPdfQuestionNumber": 30,
+        "sourcePage": "8",
+        "displayOrder": 30,
+        "tags": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sliding Window",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2114 @@
+[
+  {
+    "pageIndex": 1,
+    "urls": []
+  },
+  {
+    "pageIndex": 2,
+    "urls": []
+  },
+  {
+    "pageIndex": 3,
+    "urls": []
+  },
+  {
+    "pageIndex": 4,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/richest-customer-wealth/",
+        "rect": [
+          620.671875,
+          904.977295,
+          667.894531,
+          934.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/two-sum/description/",
+        "rect": [
+          620.671875,
+          787.977295,
+          667.894531,
+          817.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/",
+        "rect": [
+          620.671875,
+          664.977295,
+          667.894531,
+          694.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/next-permutation/description/",
+        "rect": [
+          620.671875,
+          547.977051,
+          667.894531,
+          577.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/description/",
+        "rect": [
+          620.671875,
+          424.977051,
+          667.894531,
+          454.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/",
+        "rect": [
+          620.671875,
+          304.977051,
+          667.894531,
+          334.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/self-dividing-numbers/description/",
+        "rect": [
+          620.671875,
+          184.977051,
+          667.894531,
+          214.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 5,
+    "urls": [
+      {
+        "url": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
+        "rect": [
+          622,
+          1110.592529,
+          669.222656,
+          1139.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/reverse-pairs/description/",
+        "rect": [
+          620.671875,
+          993.592529,
+          667.894531,
+          1022.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/",
+        "rect": [
+          620.671875,
+          684.592529,
+          667.894531,
+          713.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/transpose-matrix/description/",
+        "rect": [
+          620.671875,
+          567.592285,
+          667.894531,
+          596.638184
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/01-matrix/description/",
+        "rect": [
+          620.671875,
+          444.592285,
+          667.894531,
+          473.638184
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/spiral-matrix/description/",
+        "rect": [
+          620.671875,
+          327.592285,
+          667.894531,
+          356.638184
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/pascals-triangle/description/",
+        "rect": [
+          620.671875,
+          204.592285,
+          667.894531,
+          233.638184
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 6,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/minimum-size-subarray-sum/description/",
+        "rect": [
+          620.671875,
+          1044.977295,
+          667.894531,
+          1074.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/running-sum-of-1d-array/description/",
+        "rect": [
+          620.671875,
+          927.977295,
+          667.894531,
+          957.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/range-sum-query-2d-immutable/description/",
+        "rect": [
+          620.671875,
+          804.977295,
+          667.894531,
+          834.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/maximum-subarray/description/",
+        "rect": [
+          620.671875,
+          498.977051,
+          667.894531,
+          528.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/maximum-sum-circular-subarray/description/",
+        "rect": [
+          620.671875,
+          381.977051,
+          667.894531,
+          411.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/longest-turbulent-subarray/description/",
+        "rect": [
+          620.671875,
+          258.977051,
+          667.894531,
+          288.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 7,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/contains-duplicate-ii/description/",
+        "rect": [
+          620.671875,
+          1044.977295,
+          667.894531,
+          1074.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/",
+        "rect": [
+          620.671875,
+          927.977295,
+          667.894531,
+          957.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/minimum-size-subarray-sum/description/",
+        "rect": [
+          620.671875,
+          804.977295,
+          667.894531,
+          834.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/description/",
+        "rect": [
+          620.671875,
+          687.977295,
+          667.894531,
+          717.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/longest-repeating-character-replacement/description/",
+        "rect": [
+          620.671875,
+          564.977051,
+          667.894531,
+          594.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/container-with-most-water/description/",
+        "rect": [
+          620.671875,
+          258.977051,
+          667.894531,
+          288.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 8,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/trapping-rain-water/description/",
+        "rect": [
+          620.671875,
+          1116.977295,
+          667.894531,
+          1146.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/",
+        "rect": [
+          620.671875,
+          993.977295,
+          667.894531,
+          1023.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/k-diff-pairs-in-an-array/description/",
+        "rect": [
+          620.671875,
+          876.977295,
+          667.894531,
+          906.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/find-k-closest-elements/description/",
+        "rect": [
+          620.671875,
+          753.977295,
+          667.894531,
+          783.022705
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 9,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/description/",
+        "rect": [
+          620.671875,
+          973.977295,
+          667.894531,
+          1003.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/",
+        "rect": [
+          620.671875,
+          856.977295,
+          667.894531,
+          886.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/",
+        "rect": [
+          620.671875,
+          733.977295,
+          667.894531,
+          763.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/search-a-2d-matrix/description/",
+        "rect": [
+          620.671875,
+          616.977051,
+          667.894531,
+          646.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/find-peak-element/description/",
+        "rect": [
+          620.671875,
+          493.977051,
+          667.894531,
+          523.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/description/",
+        "rect": [
+          620.671875,
+          373.977051,
+          667.894531,
+          403.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/",
+        "rect": [
+          620.671875,
+          253.977051,
+          667.894531,
+          283.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 10,
+    "urls": [
+      {
+        "url": "https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1",
+        "rect": [
+          622,
+          973.977295,
+          669.222656,
+          1003.022705
+        ]
+      },
+      {
+        "url": "https://www.geeksforgeeks.org/problems/binary-array-sorting-1587115620/0",
+        "rect": [
+          622,
+          856.977295,
+          669.222656,
+          886.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/sort-colors/description/",
+        "rect": [
+          620.671875,
+          733.977295,
+          667.894531,
+          763.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/description/",
+        "rect": [
+          620.671875,
+          616.977051,
+          667.894531,
+          646.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/minimum-absolute-difference/description/",
+        "rect": [
+          620.671875,
+          493.977051,
+          667.894531,
+          523.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/k-closest-points-to-origin/description/",
+        "rect": [
+          620.671875,
+          373.977051,
+          667.894531,
+          403.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/max-chunks-to-make-sorted/description/",
+        "rect": [
+          620.671875,
+          253.977051,
+          667.894531,
+          283.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 11,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/contiguous-array/description/",
+        "rect": [
+          620.671875,
+          973.977295,
+          667.894531,
+          1003.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/longest-consecutive-sequence/description/",
+        "rect": [
+          620.671875,
+          856.977295,
+          667.894531,
+          886.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/subarray-sum-equals-k/description/",
+        "rect": [
+          620.671875,
+          733.977295,
+          667.894531,
+          763.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/valid-anagram/description/",
+        "rect": [
+          620.671875,
+          616.977051,
+          667.894531,
+          646.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/valid-sudoku/description/",
+        "rect": [
+          620.671875,
+          493.977051,
+          667.894531,
+          523.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/ugly-number-ii/description/",
+        "rect": [
+          620.671875,
+          373.977051,
+          667.894531,
+          403.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/subarray-sum-equals-k/description/",
+        "rect": [
+          620.671875,
+          253.977051,
+          667.894531,
+          283.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 12,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/max-points-on-a-line/description/",
+        "rect": [
+          620.671875,
+          1110.592529,
+          667.894043,
+          1139.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/palindrome-pairs/description/",
+        "rect": [
+          620.671875,
+          993.592529,
+          667.894043,
+          1022.637939
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 13,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/middle-of-the-linked-list/description/",
+        "rect": [
+          620.671875,
+          976.977295,
+          667.894043,
+          1006.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/",
+        "rect": [
+          620.671875,
+          859.977295,
+          667.894043,
+          889.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/merge-two-sorted-lists/description/",
+        "rect": [
+          620.671875,
+          736.977295,
+          667.894043,
+          766.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/linked-list-cycle/description/",
+        "rect": [
+          620.671875,
+          619.977051,
+          667.894043,
+          649.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/description/",
+        "rect": [
+          620.671875,
+          496.977051,
+          667.894043,
+          526.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "rect": [
+          620.671875,
+          379.977051,
+          667.894043,
+          409.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+        "rect": [
+          620.671875,
+          256.977051,
+          667.894043,
+          286.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 14,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+        "rect": [
+          620.671875,
+          1110.592529,
+          667.894043,
+          1139.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/reverse-linked-list/",
+        "rect": [
+          620.671875,
+          993.592529,
+          667.894043,
+          1022.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/palindrome-linked-list/",
+        "rect": [
+          620.671875,
+          870.592529,
+          667.894043,
+          899.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/remove-linked-list-elements/",
+        "rect": [
+          620.671875,
+          753.592529,
+          667.894043,
+          782.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+        "rect": [
+          620.671875,
+          630.592285,
+          667.894043,
+          659.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+        "rect": [
+          620.671875,
+          513.592285,
+          667.894043,
+          542.638184
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/reverse-linked-list-ii/",
+        "rect": [
+          620.671875,
+          390.592285,
+          667.894043,
+          419.638184
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/sort-list/",
+        "rect": [
+          620.671875,
+          273.592285,
+          667.894043,
+          302.638184
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 15,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/implement-stack-using-queues/description/",
+        "rect": [
+          620.671875,
+          976.977295,
+          667.894043,
+          1006.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/implement-queue-using-stacks/description/",
+        "rect": [
+          620.671875,
+          859.977295,
+          667.894043,
+          889.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/backspace-string-compare/description/",
+        "rect": [
+          620.671875,
+          736.977295,
+          667.894043,
+          766.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/baseball-game/description/",
+        "rect": [
+          620.671875,
+          619.977051,
+          667.894043,
+          649.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/longest-valid-parentheses/description/",
+        "rect": [
+          620.671875,
+          496.977051,
+          667.894043,
+          526.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/description/",
+        "rect": [
+          620.671875,
+          379.977051,
+          667.894043,
+          409.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/daily-temperatures/description/",
+        "rect": [
+          620.671875,
+          256.977051,
+          667.894043,
+          286.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 16,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/description/",
+        "rect": [
+          620.671875,
+          1110.592529,
+          667.894287,
+          1139.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/min-stack/description/",
+        "rect": [
+          620.671875,
+          993.592529,
+          667.894287,
+          1022.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/",
+        "rect": [
+          620.671875,
+          870.592529,
+          667.894287,
+          899.637939
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 17,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/find-median-from-data-stream/description/",
+        "rect": [
+
+          
+          620.671875,
+          976.977295,
+          667.894287,
+          1006.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/merge-k-sorted-lists/description/",
+        "rect": [
+          620.671875,
+          859.977295,
+          667.894287,
+          889.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/",
+        "rect": [
+          620.671875,
+          736.977295,
+          667.894287,
+          766.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/meeting-rooms-ii/description/",
+        "rect": [
+          620.671875,
+          619.977051,
+          667.894287,
+          649.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/top-k-frequent-elements/description/",
+        "rect": [
+          620.671875,
+          496.977051,
+          667.894287,
+          526.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/k-closest-points-to-origin/description/",
+        "rect": [
+          620.671875,
+          379.977051,
+          667.894287,
+          409.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 18,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/count-good-numbers/description/",
+        "rect": [
+          620.671997,
+          907.977295,
+          667.894287,
+          937.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/permutations/description/",
+        "rect": [
+          620.671997,
+          790.977295,
+          667.894287,
+          820.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/permutations-ii/description/",
+        "rect": [
+          620.671997,
+          667.977295,
+          667.894287,
+          697.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/subsets/description/",
+        "rect": [
+          620.671997,
+          550.977051,
+          667.894287,
+          580.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/basic-calculator/description/",
+        "rect": [
+          620.671997,
+          427.977051,
+          667.894287,
+          457.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/wildcard-matching/description/",
+        "rect": [
+          620.671997,
+          310.977051,
+          667.894287,
+          340.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 19,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/combinations/description/",
+        "rect": [
+          620.671997,
+          1044.977295,
+          667.894302,
+          1074.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/combination-sum/description/",
+        "rect": [
+          620.671997,
+          927.977295,
+          667.894302,
+          957.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/combination-sum-iii/description/",
+        "rect": [
+          620.671997,
+          804.977295,
+          667.894302,
+          834.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/",
+        "rect": [
+          620.671997,
+          687.977295,
+          667.894302,
+          717.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/gray-code/description/",
+        "rect": [
+          620.671997,
+          564.977051,
+          667.894302,
+          594.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/letter-case-permutation/description/",
+        "rect": [
+          620.671997,
+          447.977051,
+          667.894302,
+          477.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/n-queens/description/",
+        "rect": [
+          620.671997,
+          327.977051,
+          667.894302,
+          357.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/sudoku-solver/description/",
+        "rect": [
+          620.671997,
+          207.977051,
+          667.894302,
+          237.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 20,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/",
+        "rect": [
+          620.671997,
+          907.977295,
+          667.894287,
+          937.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/",
+        "rect": [
+          620.671997,
+          790.977295,
+          667.894287,
+          820.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/path-sum/description/",
+        "rect": [
+          620.671997,
+          667.977295,
+          667.894287,
+          697.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/same-tree/description/",
+        "rect": [
+          620.671997,
+          550.977051,
+          667.894287,
+          580.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/description/",
+        "rect": [
+          620.671997,
+          225.977051,
+          667.894287,
+          255.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 21,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/invert-binary-tree/description/",
+        "rect": [
+          620.671875,
+          1110.592529,
+          667.894287,
+          1139.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/",
+        "rect": [
+          620.671875,
+          993.592529,
+          667.894287,
+          1022.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/",
+        "rect": [
+          620.671875,
+          870.592529,
+          667.894287,
+          899.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/description/",
+        "rect": [
+          620.671875,
+          532.592285,
+          667.894287,
+          561.638184
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/sum-of-left-leaves/description/",
+        "rect": [
+          620.671875,
+          415.592285,
+          667.894287,
+          444.638184
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/binary-tree-right-side-view/description/",
+        "rect": [
+          620.671875,
+          292.592285,
+          667.894287,
+          321.638184
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/path-sum-ii/description/",
+        "rect": [
+          620.671875,
+          175.592285,
+          667.894287,
+          204.638184
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 22,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/path-sum-iii/description/",
+        "rect": [
+          620.671875,
+          1096.592529,
+          667.894287,
+          1125.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/",
+        "rect": [
+          620.671875,
+          758.592529,
+          667.894287,
+          787.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/closest-binary-search-tree-value-ii/description",
+        "rect": [
+          620.671875,
+          641.592529,
+          667.894287,
+          670.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/trim-a-binary-search-tree/description/",
+        "rect": [
+          620.671875,
+          518.592285,
+          667.894287,
+          547.638184
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/description/",
+        "rect": [
+          620.671875,
+          401.592285,
+          667.894287,
+          430.638184
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 23,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/queue-reconstruction-by-height/description/",
+        "rect": [
+          620.671875,
+          907.977295,
+          667.894043,
+          937.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/binary-tree-pruning/description/",
+        "rect": [
+          620.671875,
+          790.977295,
+          667.894043,
+          820.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/balance-a-binary-search-tree/description/",
+        "rect": [
+          620.671875,
+          667.977295,
+          667.894043,
+          697.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/balanced-binary-tree/description/",
+        "rect": [
+          620.671875,
+          550.977051,
+          667.894043,
+          580.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/implement-trie-prefix-tree/description/",
+        "rect": [
+          620.671875,
+          225.977051,
+          667.894043,
+          255.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 24,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/description/",
+        "rect": [
+          620.671875,
+          1110.592529,
+          667.894043,
+          1139.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/redundant-connection/description/",
+        "rect": [
+          620.671875,
+          772.592529,
+          667.894043,
+          801.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/accounts-merge/description/",
+        "rect": [
+          620.671875,
+          655.592529,
+          667.894043,
+          684.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/range-sum-query-mutable/description/",
+        "rect": [
+          620.671875,
+          314.592285,
+          667.894043,
+          343.638184
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/word-search-ii/description/",
+        "rect": [
+          620.671875,
+          993.592529,
+          667.894043,
+          1022.637939
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 25,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/longest-increasing-subsequence-ii/description/",
+        "rect": [
+          620.671875,
+          1110.592529,
+          667.894043,
+          1139.637939
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 26,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/rotting-oranges/description/",
+        "rect": [
+          620.671875,
+          907.977295,
+          667.894043,
+          937.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/word-ladder/description/",
+        "rect": [
+          620.671875,
+          790.977295,
+          667.894043,
+          820.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/number-of-provinces/description/",
+        "rect": [
+          620.671875,
+          670.977295,
+          667.894043,
+          700.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/number-of-enclaves/description/",
+        "rect": [
+          620.671875,
+          547.977051,
+          667.894043,
+          577.022949
+        ]
+      },
+      {
+        "url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+        "rect": [
+          622,
+          225.977051,
+          669.222168,
+          255.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 27,
+    "urls": [
+      {
+        "url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
+        "rect": [
+          622,
+          1110.592529,
+          669.222656,
+          1139.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/course-schedule/description/",
+        "rect": [
+          620.671875,
+          993.592529,
+          667.894531,
+          1022.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/course-schedule-ii/description/",
+        "rect": [
+          620.671875,
+          870.592529,
+          667.894531,
+          899.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/find-eventual-safe-states/description/",
+        "rect": [
+          620.671875,
+          753.592529,
+          667.894531,
+          782.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/alien-dictionary/description/",
+        "rect": [
+          620.671875,
+          633.592285,
+          667.894531,
+          662.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/network-delay-time/description/",
+        "rect": [
+          620.671875,
+          292.592285,
+          667.894531,
+          321.638184
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/shortest-path-in-binary-matrix/description/",
+        "rect": [
+          620.671875,
+          175.592285,
+          667.894531,
+          204.638184
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 28,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/path-with-minimum-effort/description/",
+        "rect": [
+          620.671875,
+          1110.592529,
+          667.894531,
+          1139.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
+        "rect": [
+          620.671875,
+          993.592529,
+          667.894531,
+          1022.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/min-cost-to-connect-all-points/description/",
+        "rect": [
+          620.671875,
+          652.592529,
+          667.894531,
+          681.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/",
+        "rect": [
+          620.671875,
+          535.592285,
+          667.894531,
+          564.638184
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/",
+        "rect": [
+          620.671875,
+          412.592285,
+          667.894531,
+          441.638184
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 29,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/course-schedule-iv/description/",
+        "rect": [
+          620.671875,
+          1044.977295,
+          667.894531,
+          1074.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/",
+        "rect": [
+          620.671875,
+          927.977295,
+          667.894531,
+          957.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description",
+        "rect": [
+          620.671875,
+          804.977295,
+          667.894531,
+          834.022705
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 30,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/non-overlapping-intervals/description/",
+        "rect": [
+          620.671875,
+          976.977295,
+          667.894531,
+          1006.022705
+        ]
+      },
+      {
+        "url": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
+        "rect": [
+          622,
+          859.977295,
+          669.222656,
+          889.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/",
+        "rect": [
+          620.671875,
+          739.977295,
+          667.894531,
+          769.022705
+        ]
+      },
+      {
+        "url": "https://www.geeksforgeeks.org/problems/assign-mice-holes3053/1",
+        "rect": [
+          622,
+          616.977051,
+          669.222656,
+          646.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/description/",
+        "rect": [
+          620.671875,
+          499.977051,
+          667.894531,
+          529.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/bulb-switcher/description/",
+        "rect": [
+          620.671875,
+          376.977051,
+          667.894531,
+          406.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/candy/description/",
+        "rect": [
+          620.671875,
+          259.977051,
+          667.894531,
+          289.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/maximum-swap/description/",
+        "rect": [
+          620.671875,
+          136.977051,
+          667.894531,
+          166.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 31,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/climbing-stairs/description/",
+        "rect": [
+          620.671875,
+          907.977295,
+          667.894531,
+          937.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/decode-ways/description/",
+        "rect": [
+          620.671875,
+          790.977295,
+          667.894531,
+          820.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/frog-jump/description/",
+        "rect": [
+          620.671875,
+          670.977295,
+          667.894531,
+          700.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/coin-change/description/",
+        "rect": [
+          620.671875,
+          345.977051,
+          667.894531,
+          375.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/minimum-jumps-to-reach-home/description/",
+        "rect": [
+          620.671875,
+          228.977051,
+          667.894531,
+          258.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 32,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/",
+        "rect": [
+          620.671875,
+          1044.977295,
+          667.894531,
+          1074.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/",
+        "rect": [
+          620.671875,
+          927.977295,
+          667.894531,
+          957.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/",
+        "rect": [
+          620.671875,
+          804.977295,
+          667.894531,
+          834.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/",
+        "rect": [
+          620.671875,
+          687.977295,
+          667.894531,
+          717.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/",
+        "rect": [
+          620.671875,
+          564.977051,
+          667.894531,
+          594.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/",
+        "rect": [
+          620.671875,
+          444.977051,
+          667.894531,
+          474.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/partition-equal-subset-sum/description/",
+        "rect": [
+          620.671875,
+          106.977051,
+          667.894531,
+          136.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 33,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/ones-and-zeroes/description/",
+        "rect": [
+          620.671875,
+          1110.592529,
+          667.894531,
+          1139.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/coin-change-ii/description/",
+        "rect": [
+          620.671875,
+          772.592529,
+          667.894531,
+          801.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/last-stone-weight-ii/description/",
+        "rect": [
+          620.671875,
+          655.592529,
+          667.894531,
+          684.637939
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/longest-common-subsequence/description/",
+        "rect": [
+          620.671875,
+          311.20752,
+          667.894531,
+          340.253418
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/edit-distance/description/",
+        "rect": [
+          620.671875,
+          191.20752,
+          667.894531,
+          220.253418
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 34,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/longest-palindromic-subsequence/description/",
+        "rect": [
+          620.671875,
+          1120.977295,
+          667.894531,
+          1150.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/",
+        "rect": [
+          620.671875,
+          1000.977295,
+          667.894531,
+          1030.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/longest-increasing-subsequence/description/",
+        "rect": [
+          620.671875,
+          662.977295,
+          667.894531,
+          692.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/largest-divisible-subset/description/",
+        "rect": [
+          620.671875,
+          545.977051,
+          667.894531,
+          575.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/longest-string-chain/description/",
+        "rect": [
+          620.671875,
+          422.977051,
+          667.894531,
+          452.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 35,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/",
+        "rect": [
+          620.671875,
+          1044.977295,
+          667.894531,
+          1074.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/burst-balloons/description/",
+        "rect": [
+          620.671875,
+          927.977295,
+          667.894531,
+          957.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/parsing-a-boolean-expression/description/",
+        "rect": [
+          620.671875,
+          804.977295,
+          667.894531,
+          834.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/palindrome-partitioning-ii/description/",
+        "rect": [
+          620.671875,
+          687.977295,
+          667.894531,
+          717.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/",
+        "rect": [
+          620.671875,
+          346.977051,
+          667.894531,
+          376.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/unique-paths/description/",
+        "rect": [
+          620.671875,
+          229.977051,
+          667.894531,
+          259.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 36,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/unique-paths-ii/description/",
+        "rect": [
+          620.671875,
+          1085.170898,
+          667.894531,
+          1114.216309
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/minimum-path-sum/description/",
+        "rect": [
+          620.671875,
+          965.170898,
+          667.894531,
+          994.216309
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/russian-doll-envelopes/description/",
+        "rect": [
+          620.671875,
+          845.170898,
+          667.894531,
+          874.216309
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 37,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+        "rect": [
+          620.671875,
+          976.977295,
+          667.894531,
+          1006.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/self-dividing-numbers/",
+        "rect": [
+          620.671875,
+          859.977295,
+          667.894531,
+          889.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/number-of-good-pairs/",
+        "rect": [
+          620.671875,
+          739.977295,
+          667.894531,
+          769.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/four-divisors/",
+        "rect": [
+          620.671875,
+          619.977051,
+          667.894531,
+          649.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/day-of-the-week/",
+        "rect": [
+          620.671875,
+          499.977051,
+          667.894531,
+          529.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
+        "rect": [
+          620.671875,
+          379.977051,
+          667.894531,
+          409.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/count-of-matches-in-tournament/",
+        "rect": [
+          620.671875,
+          259.977051,
+          667.894531,
+          289.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 38,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/max-consecutive-ones/",
+        "rect": [
+          620.671875,
+          1113.977295,
+          667.894531,
+          1143.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/rectangle-overlap/",
+        "rect": [
+          620.671875,
+          996.977295,
+          667.894531,
+          1026.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/excel-sheet-column-title/",
+        "rect": [
+          620.671875,
+          876.977295,
+          667.894531,
+          906.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/unique-paths/",
+        "rect": [
+          620.671875,
+          756.977295,
+          667.894531,
+          786.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/rectangle-area/",
+        "rect": [
+          620.671875,
+          636.977051,
+          667.894531,
+          666.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/",
+        "rect": [
+          620.671875,
+          516.977051,
+          667.894531,
+          546.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+        "rect": [
+          620.671875,
+          396.977051,
+          667.894531,
+          426.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/nth-magical-number/",
+        "rect": [
+          620.671875,
+          276.977051,
+          667.894531,
+          306.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/permutation-sequence/",
+        "rect": [
+          620.671875,
+          156.977051,
+          667.894531,
+          186.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 39,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/single-number/description/",
+        "rect": [
+          620.671875,
+          907.977295,
+          667.894531,
+          937.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/reverse-bits/description/",
+        "rect": [
+          620.671875,
+          790.977295,
+          667.894531,
+          820.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/single-number-ii/description/",
+        "rect": [
+          620.671875,
+          670.977295,
+          667.894531,
+          700.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/number-of-1-bits/",
+        "rect": [
+          620.671875,
+          550.977051,
+          667.894531,
+          580.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/factorial-trailing-zeroes/description/",
+        "rect": [
+          620.671875,
+          430.977051,
+          667.894531,
+          460.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/binary-number-with-alternating-bits/description/",
+        "rect": [
+          620.671875,
+          310.977051,
+          667.894531,
+          340.022949
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/number-of-even-and-odd-bits/description/",
+        "rect": [
+          620.671875,
+          190.977051,
+          667.894531,
+          220.022949
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 40,
+    "urls": [
+      {
+        "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/",
+        "rect": [
+          620.671875,
+          1044.977295,
+          667.894531,
+          1074.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/repeated-dna-sequences/description/",
+        "rect": [
+          620.671875,
+          927.977295,
+          667.894531,
+          957.022705
+        ]
+      },
+      {
+        "url": "https://leetcode.com/problems/longest-duplicate-substring/description/",
+        "rect": [
+          620.671875,
+          804.977295,
+          667.894531,
+          834.022705
+        ]
+      }
+    ]
+  },
+  {
+    "pageIndex": 41,
+    "urls": [
+      {
+        "url": "https://www.bosscoderacademy.com/?Ref=informative_dsa_cheat_sheet",
+        "rect": [
+          434,
+          149.848145,
+          643.212891,
+          179.151855
+        ]
+      }
+    ]
+  }
+]

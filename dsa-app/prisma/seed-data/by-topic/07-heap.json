@@ -1,0 +1,182 @@
+{
+  "topic": {
+    "slug": "heap",
+    "name": "Heap",
+    "description": "Priority queues, min/max heaps, top-k patterns, and median streams.",
+    "displayOrder": 7
+  },
+  "problems": [
+    {
+      "sheetNumber": 79,
+      "pdfTitle": "Find Median from Data Stream",
+      "pdfPage": 17,
+      "patternSlug": "heap",
+      "canonical": {
+        "canonicalSlug": "find-median-from-data-stream",
+        "title": "Find Median from Data Stream",
+        "description": "Practice problem: Find Median from Data Stream",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/find-median-from-data-stream/description/",
+        "originalPdfQuestionNumber": 79,
+        "sourcePage": "17",
+        "displayOrder": 79,
+        "tags": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 80,
+      "pdfTitle": "Merge k Sorted Lists",
+      "pdfPage": 17,
+      "patternSlug": "heap",
+      "canonical": {
+        "canonicalSlug": "merge-k-sorted-lists",
+        "title": "Merge k Sorted Lists",
+        "description": "Practice problem: Merge k Sorted Lists",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/merge-k-sorted-lists/description/",
+        "originalPdfQuestionNumber": 80,
+        "sourcePage": "17",
+        "displayOrder": 80,
+        "tags": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort",
+          "Tournament Sort"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 81,
+      "pdfTitle": "Find K Pairs with Smallest Sums",
+      "pdfPage": 17,
+      "patternSlug": "heap",
+      "canonical": {
+        "canonicalSlug": "find-k-pairs-with-smallest-sums",
+        "title": "Find K Pairs with Smallest Sums",
+        "description": "Practice problem: Find K Pairs with Smallest Sums",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/",
+        "originalPdfQuestionNumber": 81,
+        "sourcePage": "17",
+        "displayOrder": 81,
+        "tags": [
+          "Array",
+          "Heap (Priority Queue)"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 82,
+      "pdfTitle": "Meeting Rooms II",
+      "pdfPage": 17,
+      "patternSlug": "heap",
+      "canonical": {
+        "canonicalSlug": "meeting-rooms-ii",
+        "title": "Meeting Rooms II",
+        "description": "Practice problem: Meeting Rooms II",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/meeting-rooms-ii/description/",
+        "originalPdfQuestionNumber": 82,
+        "sourcePage": "17",
+        "displayOrder": 82,
+        "tags": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 83,
+      "pdfTitle": "Top K Frequent Elements",
+      "pdfPage": 17,
+      "patternSlug": "heap",
+      "canonical": {
+        "canonicalSlug": "top-k-frequent-elements",
+        "title": "Top K Frequent Elements",
+        "description": "Practice problem: Top K Frequent Elements",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/top-k-frequent-elements/description/",
+        "originalPdfQuestionNumber": 83,
+        "sourcePage": "17",
+        "displayOrder": 83,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 84,
+      "pdfTitle": "K Closest Points to Origin",
+      "pdfPage": 17,
+      "patternSlug": "heap",
+      "canonical": {
+        "canonicalSlug": "k-closest-points-to-origin",
+        "title": "K Closest Points to Origin",
+        "description": "Practice problem: K Closest Points to Origin",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/k-closest-points-to-origin/description/",
+        "originalPdfQuestionNumber": 43,
+        "sourcePage": "10",
+        "displayOrder": 43,
+        "tags": [
+          "Array",
+          "Math",
+          "Divide and Conquer",
+          "Geometry",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect",
+          "K-D Tree"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    }
+  ]
+}

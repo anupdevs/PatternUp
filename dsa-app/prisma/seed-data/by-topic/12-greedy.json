@@ -1,0 +1,214 @@
+{
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy",
+    "description": "Local optimization heuristics leading to globally optimal solutions.",
+    "displayOrder": 12
+  },
+  "problems": [
+    {
+      "sheetNumber": 147,
+      "pdfTitle": "Non-overlapping Intervals",
+      "pdfPage": 30,
+      "patternSlug": "greedy-algorithms",
+      "canonical": {
+        "canonicalSlug": "non-overlapping-intervals",
+        "title": "Non-overlapping Intervals",
+        "description": "Practice problem: Non-overlapping Intervals",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/non-overlapping-intervals/description/",
+        "originalPdfQuestionNumber": 147,
+        "sourcePage": "30",
+        "displayOrder": 147,
+        "tags": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy",
+          "Sorting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 148,
+      "pdfTitle": "Minimum Platforms",
+      "pdfPage": 30,
+      "patternSlug": "greedy-algorithms",
+      "canonical": {
+        "canonicalSlug": "minimum-platforms-1587115620",
+        "title": "Minimum Platforms",
+        "description": "Practice problem: Minimum Platforms",
+        "difficulty": "MEDIUM",
+        "difficultySource": "GeeksforGeeks Official Metadata (Inferred/Verified)",
+        "platform": "GEEKS_FOR_GEEKS",
+        "externalUrl": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
+        "originalPdfQuestionNumber": 148,
+        "sourcePage": "30",
+        "displayOrder": 148,
+        "tags": [
+          "Greedy",
+          "Sorting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 149,
+      "pdfTitle": "Maximize Sum Of Array After K Negations",
+      "pdfPage": 30,
+      "patternSlug": "greedy-algorithms",
+      "canonical": {
+        "canonicalSlug": "maximize-sum-of-array-after-k-negations",
+        "title": "Maximize Sum Of Array After K Negations",
+        "description": "Practice problem: Maximize Sum Of Array After K Negations",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/",
+        "originalPdfQuestionNumber": 149,
+        "sourcePage": "30",
+        "displayOrder": 149,
+        "tags": [
+          "Array",
+          "Greedy",
+          "Sorting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 150,
+      "pdfTitle": "Assign Mice to Holes",
+      "pdfPage": 30,
+      "patternSlug": "greedy-algorithms",
+      "canonical": {
+        "canonicalSlug": "assign-mice-holes3053",
+        "title": "Assign Mice Holes",
+        "description": "Practice problem: Assign Mice Holes",
+        "difficulty": "EASY",
+        "difficultySource": "GeeksforGeeks Official Metadata (Inferred/Verified)",
+        "platform": "GEEKS_FOR_GEEKS",
+        "externalUrl": "https://www.geeksforgeeks.org/problems/assign-mice-holes3053/1",
+        "originalPdfQuestionNumber": 150,
+        "sourcePage": "30",
+        "displayOrder": 150,
+        "tags": [
+          "Greedy",
+          "Sorting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 151,
+      "pdfTitle": "Maximum Product of Three Numbers",
+      "pdfPage": 30,
+      "patternSlug": "greedy-algorithms",
+      "canonical": {
+        "canonicalSlug": "maximum-product-of-three-numbers",
+        "title": "Maximum Product of Three Numbers",
+        "description": "Practice problem: Maximum Product of Three Numbers",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/maximum-product-of-three-numbers/description/",
+        "originalPdfQuestionNumber": 151,
+        "sourcePage": "30",
+        "displayOrder": 151,
+        "tags": [
+          "Array",
+          "Math",
+          "Sorting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 152,
+      "pdfTitle": "Bulb Switcher",
+      "pdfPage": 30,
+      "patternSlug": "greedy-algorithms",
+      "canonical": {
+        "canonicalSlug": "bulb-switcher",
+        "title": "Bulb Switcher",
+        "description": "Practice problem: Bulb Switcher",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/bulb-switcher/description/",
+        "originalPdfQuestionNumber": 152,
+        "sourcePage": "30",
+        "displayOrder": 152,
+        "tags": [
+          "Math",
+          "Brainteaser"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 153,
+      "pdfTitle": "Candy",
+      "pdfPage": 30,
+      "patternSlug": "greedy-algorithms",
+      "canonical": {
+        "canonicalSlug": "candy",
+        "title": "Candy",
+        "description": "Practice problem: Candy",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/candy/description/",
+        "originalPdfQuestionNumber": 153,
+        "sourcePage": "30",
+        "displayOrder": 153,
+        "tags": [
+          "Array",
+          "Greedy"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 154,
+      "pdfTitle": "Maximum Swap",
+      "pdfPage": 30,
+      "patternSlug": "greedy-algorithms",
+      "canonical": {
+        "canonicalSlug": "maximum-swap",
+        "title": "Maximum Swap",
+        "description": "Practice problem: Maximum Swap",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/maximum-swap/description/",
+        "originalPdfQuestionNumber": 154,
+        "sourcePage": "30",
+        "displayOrder": 154,
+        "tags": [
+          "Math",
+          "Greedy"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    }
+  ]
+}

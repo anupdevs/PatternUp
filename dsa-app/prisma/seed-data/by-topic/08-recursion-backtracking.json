@@ -1,0 +1,373 @@
+{
+  "topic": {
+    "slug": "recursion-backtracking",
+    "name": "Recursion & Backtracking",
+    "description": "Recursive state trees, permutations, combinations, and pruning.",
+    "displayOrder": 8
+  },
+  "problems": [
+    {
+      "sheetNumber": 85,
+      "pdfTitle": "Count Good Numbers",
+      "pdfPage": 18,
+      "patternSlug": "recursion",
+      "canonical": {
+        "canonicalSlug": "count-good-numbers",
+        "title": "Count Good Numbers",
+        "description": "Practice problem: Count Good Numbers",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/count-good-numbers/description/",
+        "originalPdfQuestionNumber": 85,
+        "sourcePage": "18",
+        "displayOrder": 85,
+        "tags": [
+          "Math",
+          "Recursion"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 86,
+      "pdfTitle": "Permutations",
+      "pdfPage": 18,
+      "patternSlug": "recursion",
+      "canonical": {
+        "canonicalSlug": "permutations",
+        "title": "Permutations",
+        "description": "Practice problem: Permutations",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/permutations/description/",
+        "originalPdfQuestionNumber": 86,
+        "sourcePage": "18",
+        "displayOrder": 86,
+        "tags": [
+          "Array",
+          "Backtracking"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 87,
+      "pdfTitle": "Permutations II",
+      "pdfPage": 18,
+      "patternSlug": "recursion",
+      "canonical": {
+        "canonicalSlug": "permutations-ii",
+        "title": "Permutations II",
+        "description": "Practice problem: Permutations II",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/permutations-ii/description/",
+        "originalPdfQuestionNumber": 87,
+        "sourcePage": "18",
+        "displayOrder": 87,
+        "tags": [
+          "Array",
+          "Backtracking",
+          "Sorting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 88,
+      "pdfTitle": "Subsets",
+      "pdfPage": 18,
+      "patternSlug": "recursion",
+      "canonical": {
+        "canonicalSlug": "subsets",
+        "title": "Subsets",
+        "description": "Practice problem: Subsets",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/subsets/description/",
+        "originalPdfQuestionNumber": 88,
+        "sourcePage": "18",
+        "displayOrder": 88,
+        "tags": [
+          "Array",
+          "Backtracking",
+          "Bit Manipulation"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 89,
+      "pdfTitle": "Basic Calculator",
+      "pdfPage": 18,
+      "patternSlug": "recursion",
+      "canonical": {
+        "canonicalSlug": "basic-calculator",
+        "title": "Basic Calculator",
+        "description": "Practice problem: Basic Calculator",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/basic-calculator/description/",
+        "originalPdfQuestionNumber": 89,
+        "sourcePage": "18",
+        "displayOrder": 89,
+        "tags": [
+          "Math",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 90,
+      "pdfTitle": "Wildcard Matching",
+      "pdfPage": 18,
+      "patternSlug": "recursion",
+      "canonical": {
+        "canonicalSlug": "wildcard-matching",
+        "title": "Wildcard Matching",
+        "description": "Practice problem: Wildcard Matching",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/wildcard-matching/description/",
+        "originalPdfQuestionNumber": 90,
+        "sourcePage": "18",
+        "displayOrder": 90,
+        "tags": [
+          "String",
+          "Dynamic Programming",
+          "Greedy",
+          "Recursion"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 91,
+      "pdfTitle": "Combinations",
+      "pdfPage": 19,
+      "patternSlug": "backtracking",
+      "canonical": {
+        "canonicalSlug": "combinations",
+        "title": "Combinations",
+        "description": "Practice problem: Combinations",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/combinations/description/",
+        "originalPdfQuestionNumber": 91,
+        "sourcePage": "19",
+        "displayOrder": 91,
+        "tags": [
+          "Backtracking"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 92,
+      "pdfTitle": "Combination Sum",
+      "pdfPage": 19,
+      "patternSlug": "backtracking",
+      "canonical": {
+        "canonicalSlug": "combination-sum",
+        "title": "Combination Sum",
+        "description": "Practice problem: Combination Sum",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/combination-sum/description/",
+        "originalPdfQuestionNumber": 92,
+        "sourcePage": "19",
+        "displayOrder": 92,
+        "tags": [
+          "Array",
+          "Backtracking"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 93,
+      "pdfTitle": "Combination Sum III",
+      "pdfPage": 19,
+      "patternSlug": "backtracking",
+      "canonical": {
+        "canonicalSlug": "combination-sum-iii",
+        "title": "Combination Sum III",
+        "description": "Practice problem: Combination Sum III",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/combination-sum-iii/description/",
+        "originalPdfQuestionNumber": 93,
+        "sourcePage": "19",
+        "displayOrder": 93,
+        "tags": [
+          "Array",
+          "Backtracking"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 94,
+      "pdfTitle": "Letter Combinations of a Phone Number",
+      "pdfPage": 19,
+      "patternSlug": "backtracking",
+      "canonical": {
+        "canonicalSlug": "letter-combinations-of-a-phone-number",
+        "title": "Letter Combinations of a Phone Number",
+        "description": "Practice problem: Letter Combinations of a Phone Number",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/",
+        "originalPdfQuestionNumber": 94,
+        "sourcePage": "19",
+        "displayOrder": 94,
+        "tags": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 95,
+      "pdfTitle": "Gray Code",
+      "pdfPage": 19,
+      "patternSlug": "backtracking",
+      "canonical": {
+        "canonicalSlug": "gray-code",
+        "title": "Gray Code",
+        "description": "Practice problem: Gray Code",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/gray-code/description/",
+        "originalPdfQuestionNumber": 95,
+        "sourcePage": "19",
+        "displayOrder": 95,
+        "tags": [
+          "Math",
+          "Backtracking",
+          "Bit Manipulation"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 96,
+      "pdfTitle": "Letter Case Permutation",
+      "pdfPage": 19,
+      "patternSlug": "backtracking",
+      "canonical": {
+        "canonicalSlug": "letter-case-permutation",
+        "title": "Letter Case Permutation",
+        "description": "Practice problem: Letter Case Permutation",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/letter-case-permutation/description/",
+        "originalPdfQuestionNumber": 96,
+        "sourcePage": "19",
+        "displayOrder": 96,
+        "tags": [
+          "String",
+          "Backtracking",
+          "Bit Manipulation"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 97,
+      "pdfTitle": "N-Queens",
+      "pdfPage": 19,
+      "patternSlug": "backtracking",
+      "canonical": {
+        "canonicalSlug": "n-queens",
+        "title": "N-Queens",
+        "description": "Practice problem: N-Queens",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/n-queens/description/",
+        "originalPdfQuestionNumber": 97,
+        "sourcePage": "19",
+        "displayOrder": 97,
+        "tags": [
+          "Array",
+          "Backtracking",
+          "Algorithm X"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 98,
+      "pdfTitle": "Sudoku Solver",
+      "pdfPage": 19,
+      "patternSlug": "backtracking",
+      "canonical": {
+        "canonicalSlug": "sudoku-solver",
+        "title": "Sudoku Solver",
+        "description": "Practice problem: Sudoku Solver",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/sudoku-solver/description/",
+        "originalPdfQuestionNumber": 98,
+        "sourcePage": "19",
+        "displayOrder": 98,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Backtracking",
+          "Matrix",
+          "Algorithm X",
+          "Dancing Links"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+*/node_modules/
+.pnp
+.pnp.js
+
+# Environment variables
+.env
+.env*.local
+.env.development
+.env.test
+.env.production
+dsa-app/.env
+dsa-app/.env*.local
+dsa-app/.env.development
+dsa-app/.env.test
+dsa-app/.env.production
+!.env.example
+!dsa-app/.env.example
+
+# Next.js build output
+.next/
+dsa-app/.next/
+out/
+build/
+dist/
+
+# Debug and Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Testing & Coverage
+coverage/
+
+# Misc & OS files
+.DS_Store
+Thumbs.db
+*.pem
+
+# TypeScript cache
+*.tsbuildinfo
+next-env.d.ts
+dsa-app/next-env.d.ts
+
+# Vercel
+.vercel

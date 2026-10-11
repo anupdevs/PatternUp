@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "arrays",
+    "name": "Arrays",
+    "description": "Core linear data structure covering 1D/2D arrays, prefix sums, sliding window, and two pointers.",
+    "displayOrder": 1
+  },
+  {
+    "slug": "binary-search",
+    "name": "Binary Search",
+    "description": "Logarithmic search paradigm on sorted arrays, search spaces, and answer spaces.",
+    "displayOrder": 2
+  },
+  {
+    "slug": "sorting",
+    "name": "Sorting",
+    "description": "Comparison and non-comparison sorting algorithms and their interview applications.",
+    "displayOrder": 3
+  },
+  {
+    "slug": "hashing",
+    "name": "Hashing",
+    "description": "Hash tables, frequency maps, prefix hashing, and collision resolution.",
+    "displayOrder": 4
+  },
+  {
+    "slug": "linked-lists",
+    "name": "Linked Lists",
+    "description": "Singly, doubly, and circular linked lists with pointer manipulation and cycle detection.",
+    "displayOrder": 5
+  },
+  {
+    "slug": "stack-and-queue",
+    "name": "Stack and Queue",
+    "description": "LIFO and FIFO structures, monotonic stacks, and deque sliding windows.",
+    "displayOrder": 6
+  },
+  {
+    "slug": "heap",
+    "name": "Heap",
+    "description": "Priority queues, min/max heaps, top-k patterns, and median streams.",
+    "displayOrder": 7
+  },
+  {
+    "slug": "recursion-backtracking",
+    "name": "Recursion & Backtracking",
+    "description": "Recursive state trees, permutations, combinations, and pruning.",
+    "displayOrder": 8
+  },
+  {
+    "slug": "trees",
+    "name": "Trees",
+    "description": "Binary trees, traversals (BFS/DFS), and binary search tree properties.",
+    "displayOrder": 9
+  },
+  {
+    "slug": "trees-ii",
+    "name": "Trees II",
+    "description": "Advanced tree structures including AVL/BBST, Tries, and Segment Trees.",
+    "displayOrder": 10
+  },
+  {
+    "slug": "graphs",
+    "name": "Graphs",
+    "description": "Graph representations, BFS/DFS, topological sort, Dijkstra, MST, and APSP.",
+    "displayOrder": 11
+  },
+  {
+    "slug": "greedy",
+    "name": "Greedy",
+    "description": "Local optimization heuristics leading to globally optimal solutions.",
+    "displayOrder": 12
+  },
+  {
+    "slug": "dynamic-programming",
+    "name": "Dynamic Programming",
+    "description": "Overlapping subproblems, optimal substructure, memoization, and tabulation.",
+    "displayOrder": 13
+  },
+  {
+    "slug": "math",
+    "name": "Math",
+    "description": "Number theory, modular arithmetic, combinatorics, and geometry.",
+    "displayOrder": 14
+  },
+  {
+    "slug": "miscellaneous",
+    "name": "Miscellaneous",
+    "description": "Bit manipulation techniques, rolling hashes (Rabin-Karp), and string algorithms.",
+    "displayOrder": 15
+  }
+]
