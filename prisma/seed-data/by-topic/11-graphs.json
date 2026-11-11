@@ -1,0 +1,571 @@
+{
+  "topic": {
+    "slug": "graphs",
+    "name": "Graphs",
+    "description": "Graph representations, BFS/DFS, topological sort, Dijkstra, MST, and APSP.",
+    "displayOrder": 11
+  },
+  "problems": [
+    {
+      "sheetNumber": 127,
+      "pdfTitle": "Rotting Oranges",
+      "pdfPage": 26,
+      "patternSlug": "bfs-dfs",
+      "canonical": {
+        "canonicalSlug": "rotting-oranges",
+        "title": "Rotting Oranges",
+        "description": "Practice problem: Rotting Oranges",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/rotting-oranges/description/",
+        "originalPdfQuestionNumber": 127,
+        "sourcePage": "26",
+        "displayOrder": 127,
+        "tags": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 128,
+      "pdfTitle": "Word Ladder",
+      "pdfPage": 26,
+      "patternSlug": "bfs-dfs",
+      "canonical": {
+        "canonicalSlug": "word-ladder",
+        "title": "Word Ladder",
+        "description": "Practice problem: Word Ladder",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/word-ladder/description/",
+        "originalPdfQuestionNumber": 128,
+        "sourcePage": "26",
+        "displayOrder": 128,
+        "tags": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search",
+          "Bidirectional Search"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 129,
+      "pdfTitle": "Number of Provinces",
+      "pdfPage": 26,
+      "patternSlug": "bfs-dfs",
+      "canonical": {
+        "canonicalSlug": "number-of-provinces",
+        "title": "Number of Provinces",
+        "description": "Practice problem: Number of Provinces",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/number-of-provinces/description/",
+        "originalPdfQuestionNumber": 129,
+        "sourcePage": "26",
+        "displayOrder": 129,
+        "tags": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Graph Theory"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 130,
+      "pdfTitle": "Number of Enclaves",
+      "pdfPage": 26,
+      "patternSlug": "bfs-dfs",
+      "canonical": {
+        "canonicalSlug": "number-of-enclaves",
+        "title": "Number of Enclaves",
+        "description": "Practice problem: Number of Enclaves",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/number-of-enclaves/description/",
+        "originalPdfQuestionNumber": 130,
+        "sourcePage": "26",
+        "displayOrder": 130,
+        "tags": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Matrix"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 131,
+      "pdfTitle": "Detect Cycle in an Undirected Graph",
+      "pdfPage": 26,
+      "patternSlug": "bfs-dfs",
+      "canonical": {
+        "canonicalSlug": "detect-cycle-in-an-undirected-graph",
+        "title": "Detect Cycle in an Undirected Graph",
+        "description": "Practice problem: Detect Cycle in an Undirected Graph",
+        "difficulty": "MEDIUM",
+        "difficultySource": "GeeksforGeeks Official Metadata (Inferred/Verified)",
+        "platform": "GEEKS_FOR_GEEKS",
+        "externalUrl": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+        "originalPdfQuestionNumber": 131,
+        "sourcePage": "26",
+        "displayOrder": 131,
+        "tags": [
+          "Graph",
+          "BFS",
+          "DFS"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 132,
+      "pdfTitle": "Detect Cycle in a Directed Graph",
+      "pdfPage": 27,
+      "patternSlug": "detect-cycle-topological-sort",
+      "canonical": {
+        "canonicalSlug": "detect-cycle-in-a-directed-graph",
+        "title": "Detect Cycle in a Directed Graph",
+        "description": "Practice problem: Detect Cycle in a Directed Graph",
+        "difficulty": "MEDIUM",
+        "difficultySource": "GeeksforGeeks Official Metadata (Inferred/Verified)",
+        "platform": "GEEKS_FOR_GEEKS",
+        "externalUrl": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
+        "originalPdfQuestionNumber": 132,
+        "sourcePage": "27",
+        "displayOrder": 132,
+        "tags": [
+          "Graph",
+          "DFS",
+          "Topological Sort"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 133,
+      "pdfTitle": "Course Schedule",
+      "pdfPage": 27,
+      "patternSlug": "detect-cycle-topological-sort",
+      "canonical": {
+        "canonicalSlug": "course-schedule",
+        "title": "Course Schedule",
+        "description": "Practice problem: Course Schedule",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/course-schedule/description/",
+        "originalPdfQuestionNumber": 133,
+        "sourcePage": "27",
+        "displayOrder": 133,
+        "tags": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 134,
+      "pdfTitle": "Course Schedule II",
+      "pdfPage": 27,
+      "patternSlug": "detect-cycle-topological-sort",
+      "canonical": {
+        "canonicalSlug": "course-schedule-ii",
+        "title": "Course Schedule II",
+        "description": "Practice problem: Course Schedule II",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/course-schedule-ii/description/",
+        "originalPdfQuestionNumber": 134,
+        "sourcePage": "27",
+        "displayOrder": 134,
+        "tags": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 135,
+      "pdfTitle": "Find Eventual Safe States",
+      "pdfPage": 27,
+      "patternSlug": "detect-cycle-topological-sort",
+      "canonical": {
+        "canonicalSlug": "find-eventual-safe-states",
+        "title": "Find Eventual Safe States",
+        "description": "Practice problem: Find Eventual Safe States",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/find-eventual-safe-states/description/",
+        "originalPdfQuestionNumber": 135,
+        "sourcePage": "27",
+        "displayOrder": 135,
+        "tags": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Kosaraju's Algorithm",
+          "Tarjan's SCC Algorithm"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 136,
+      "pdfTitle": "Alien Dictionary",
+      "pdfPage": 27,
+      "patternSlug": "detect-cycle-topological-sort",
+      "canonical": {
+        "canonicalSlug": "alien-dictionary",
+        "title": "Alien Dictionary",
+        "description": "Practice problem: Alien Dictionary",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/alien-dictionary/description/",
+        "originalPdfQuestionNumber": 136,
+        "sourcePage": "27",
+        "displayOrder": 136,
+        "tags": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort",
+          "Directed Acyclic Graph"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 137,
+      "pdfTitle": "Network Delay Time",
+      "pdfPage": 27,
+      "patternSlug": "dijkstras-algorithm-sssp",
+      "canonical": {
+        "canonicalSlug": "network-delay-time",
+        "title": "Network Delay Time",
+        "description": "Practice problem: Network Delay Time",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/network-delay-time/description/",
+        "originalPdfQuestionNumber": 137,
+        "sourcePage": "27",
+        "displayOrder": 137,
+        "tags": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Shortest Path",
+          "Dijkstra's Algorithm"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 138,
+      "pdfTitle": "Shortest Path in Binary Matrix",
+      "pdfPage": 27,
+      "patternSlug": "dijkstras-algorithm-sssp",
+      "canonical": {
+        "canonicalSlug": "shortest-path-in-binary-matrix",
+        "title": "Shortest Path in Binary Matrix",
+        "description": "Practice problem: Shortest Path in Binary Matrix",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/shortest-path-in-binary-matrix/description/",
+        "originalPdfQuestionNumber": 138,
+        "sourcePage": "27",
+        "displayOrder": 138,
+        "tags": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 139,
+      "pdfTitle": "Path With Minimum Effort",
+      "pdfPage": 28,
+      "patternSlug": "dijkstras-algorithm-sssp",
+      "canonical": {
+        "canonicalSlug": "path-with-minimum-effort",
+        "title": "Path With Minimum Effort",
+        "description": "Practice problem: Path With Minimum Effort",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/path-with-minimum-effort/description/",
+        "originalPdfQuestionNumber": 139,
+        "sourcePage": "28",
+        "displayOrder": 139,
+        "tags": [
+          "Array",
+          "Binary Search",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union-Find",
+          "Heap (Priority Queue)",
+          "Matrix",
+          "Dijkstra's Algorithm"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 140,
+      "pdfTitle": "Cheapest Flights Within K Stops",
+      "pdfPage": 28,
+      "patternSlug": "dijkstras-algorithm-sssp",
+      "canonical": {
+        "canonicalSlug": "cheapest-flights-within-k-stops",
+        "title": "Cheapest Flights Within K Stops",
+        "description": "Practice problem: Cheapest Flights Within K Stops",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
+        "originalPdfQuestionNumber": 140,
+        "sourcePage": "28",
+        "displayOrder": 140,
+        "tags": [
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Shortest Path"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 141,
+      "pdfTitle": "Min Cost to Connect All Points",
+      "pdfPage": 28,
+      "patternSlug": "prims-kruskals-mst",
+      "canonical": {
+        "canonicalSlug": "min-cost-to-connect-all-points",
+        "title": "Min Cost to Connect All Points",
+        "description": "Practice problem: Min Cost to Connect All Points",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/min-cost-to-connect-all-points/description/",
+        "originalPdfQuestionNumber": 141,
+        "sourcePage": "28",
+        "displayOrder": 141,
+        "tags": [
+          "Array",
+          "Union-Find",
+          "Graph Theory",
+          "Minimum Spanning Tree",
+          "Prim's Algorithm",
+          "Kruskal's Algorithm",
+          "Borůvka's Algorithm"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 142,
+      "pdfTitle": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+      "pdfPage": 28,
+      "patternSlug": "prims-kruskals-mst",
+      "canonical": {
+        "canonicalSlug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+        "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+        "description": "Practice problem: Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/",
+        "originalPdfQuestionNumber": 142,
+        "sourcePage": "28",
+        "displayOrder": 142,
+        "tags": [
+          "Union-Find",
+          "Graph Theory",
+          "Sorting",
+          "Minimum Spanning Tree",
+          "Strongly Connected Component",
+          "Prim's Algorithm",
+          "Kruskal's Algorithm",
+          "Borůvka's Algorithm"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 143,
+      "pdfTitle": "Connecting Cities With Minimum Cost",
+      "pdfPage": 28,
+      "patternSlug": "prims-kruskals-mst",
+      "canonical": {
+        "canonicalSlug": "connecting-cities-with-minimum-cost",
+        "title": "Connecting Cities With Minimum Cost",
+        "description": "Practice problem: Connecting Cities With Minimum Cost",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/",
+        "originalPdfQuestionNumber": 143,
+        "sourcePage": "28",
+        "displayOrder": 143,
+        "tags": [
+          "Union-Find",
+          "Graph Theory",
+          "Heap (Priority Queue)",
+          "Minimum Spanning Tree"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 144,
+      "pdfTitle": "Course Schedule IV",
+      "pdfPage": 29,
+      "patternSlug": "floyd-warshall-apsp",
+      "canonical": {
+        "canonicalSlug": "course-schedule-iv",
+        "title": "Course Schedule IV",
+        "description": "Practice problem: Course Schedule IV",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/course-schedule-iv/description/",
+        "originalPdfQuestionNumber": 144,
+        "sourcePage": "29",
+        "displayOrder": 144,
+        "tags": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Topological Sort"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 145,
+      "pdfTitle": "Find the City With the Smallest Number of Neighbors at a...",
+      "pdfPage": 29,
+      "patternSlug": "floyd-warshall-apsp",
+      "canonical": {
+        "canonicalSlug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+        "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+        "description": "Practice problem: Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/",
+        "originalPdfQuestionNumber": 145,
+        "sourcePage": "29",
+        "displayOrder": 145,
+        "tags": [
+          "Dynamic Programming",
+          "Graph Theory",
+          "Shortest Path",
+          "Dijkstra's Algorithm",
+          "Bellman–Ford Algorithm",
+          "Floyd–Warshall Algorithm"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 146,
+      "pdfTitle": "Number of Ways to Arrive at Destination",
+      "pdfPage": 29,
+      "patternSlug": "floyd-warshall-apsp",
+      "canonical": {
+        "canonicalSlug": "number-of-ways-to-arrive-at-destination",
+        "title": "Number of Ways to Arrive at Destination",
+        "description": "Practice problem: Number of Ways to Arrive at Destination",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description",
+        "originalPdfQuestionNumber": 146,
+        "sourcePage": "29",
+        "displayOrder": 146,
+        "tags": [
+          "Dynamic Programming",
+          "Graph Theory",
+          "Topological Sort",
+          "Shortest Path",
+          "Dijkstra's Algorithm"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    }
+  ]
+}

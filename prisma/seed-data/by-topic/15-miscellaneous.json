@@ -1,0 +1,275 @@
+{
+  "topic": {
+    "slug": "miscellaneous",
+    "name": "Miscellaneous",
+    "description": "Bit manipulation techniques, rolling hashes (Rabin-Karp), and string algorithms.",
+    "displayOrder": 15
+  },
+  "problems": [
+    {
+      "sheetNumber": 202,
+      "pdfTitle": "Single Number",
+      "pdfPage": 39,
+      "patternSlug": "bit-manipulation-tricks",
+      "canonical": {
+        "canonicalSlug": "single-number",
+        "title": "Single Number",
+        "description": "Practice problem: Single Number",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/single-number/description/",
+        "originalPdfQuestionNumber": 202,
+        "sourcePage": "39",
+        "displayOrder": 202,
+        "tags": [
+          "Array",
+          "Bit Manipulation"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 203,
+      "pdfTitle": "Reverse Bits",
+      "pdfPage": 39,
+      "patternSlug": "bit-manipulation-tricks",
+      "canonical": {
+        "canonicalSlug": "reverse-bits",
+        "title": "Reverse Bits",
+        "description": "Practice problem: Reverse Bits",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/reverse-bits/description/",
+        "originalPdfQuestionNumber": 203,
+        "sourcePage": "39",
+        "displayOrder": 203,
+        "tags": [
+          "Divide and Conquer",
+          "Bit Manipulation"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 204,
+      "pdfTitle": "Single Number II",
+      "pdfPage": 39,
+      "patternSlug": "bit-manipulation-tricks",
+      "canonical": {
+        "canonicalSlug": "single-number-ii",
+        "title": "Single Number II",
+        "description": "Practice problem: Single Number II",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/single-number-ii/description/",
+        "originalPdfQuestionNumber": 204,
+        "sourcePage": "39",
+        "displayOrder": 204,
+        "tags": [
+          "Array",
+          "Bit Manipulation"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 205,
+      "pdfTitle": "Number of 1 Bits",
+      "pdfPage": 39,
+      "patternSlug": "bit-manipulation-tricks",
+      "canonical": {
+        "canonicalSlug": "number-of-1-bits",
+        "title": "Number of 1 Bits",
+        "description": "Practice problem: Number of 1 Bits",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/number-of-1-bits/",
+        "originalPdfQuestionNumber": 205,
+        "sourcePage": "39",
+        "displayOrder": 205,
+        "tags": [
+          "Divide and Conquer",
+          "Bit Manipulation"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 206,
+      "pdfTitle": "Factorial Trailing Zeroes",
+      "pdfPage": 39,
+      "patternSlug": "bit-manipulation-tricks",
+      "canonical": {
+        "canonicalSlug": "factorial-trailing-zeroes",
+        "title": "Factorial Trailing Zeroes",
+        "description": "Practice problem: Factorial Trailing Zeroes",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+        "originalPdfQuestionNumber": 199,
+        "sourcePage": "38",
+        "displayOrder": 199,
+        "tags": [
+          "Math"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 207,
+      "pdfTitle": "Binary Number with Alternating Bits",
+      "pdfPage": 39,
+      "patternSlug": "bit-manipulation-tricks",
+      "canonical": {
+        "canonicalSlug": "binary-number-with-alternating-bits",
+        "title": "Binary Number with Alternating Bits",
+        "description": "Practice problem: Binary Number with Alternating Bits",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/binary-number-with-alternating-bits/description/",
+        "originalPdfQuestionNumber": 207,
+        "sourcePage": "39",
+        "displayOrder": 207,
+        "tags": [
+          "Bit Manipulation"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 208,
+      "pdfTitle": "Number of Even and Odd Bits",
+      "pdfPage": 39,
+      "patternSlug": "bit-manipulation-tricks",
+      "canonical": {
+        "canonicalSlug": "number-of-even-and-odd-bits",
+        "title": "Number of Even and Odd Bits",
+        "description": "Practice problem: Number of Even and Odd Bits",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/number-of-even-and-odd-bits/description/",
+        "originalPdfQuestionNumber": 208,
+        "sourcePage": "39",
+        "displayOrder": 208,
+        "tags": [
+          "Bit Manipulation"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 209,
+      "pdfTitle": "Find the Index of the First Occurrence in a String",
+      "pdfPage": 40,
+      "patternSlug": "rabin-karp-rolling-hash",
+      "canonical": {
+        "canonicalSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+        "title": "Find the Index of the First Occurrence in a String",
+        "description": "Practice problem: Find the Index of the First Occurrence in a String",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/",
+        "originalPdfQuestionNumber": 209,
+        "sourcePage": "40",
+        "displayOrder": 209,
+        "tags": [
+          "Two Pointers",
+          "String",
+          "String Matching",
+          "Z Algorithm",
+          "Knuth–Morris–Pratt Algorithm",
+          "Boyer–Moore String-Search Algorithm"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 210,
+      "pdfTitle": "Repeated DNA Sequences",
+      "pdfPage": 40,
+      "patternSlug": "rabin-karp-rolling-hash",
+      "canonical": {
+        "canonicalSlug": "repeated-dna-sequences",
+        "title": "Repeated DNA Sequences",
+        "description": "Practice problem: Repeated DNA Sequences",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/repeated-dna-sequences/description/",
+        "originalPdfQuestionNumber": 210,
+        "sourcePage": "40",
+        "displayOrder": 210,
+        "tags": [
+          "Hash Table",
+          "String",
+          "Bit Manipulation",
+          "Sliding Window",
+          "Rolling Hash",
+          "Hash Function",
+          "Z Algorithm",
+          "Boyer–Moore String-Search Algorithm"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 211,
+      "pdfTitle": "Longest Duplicate Substring",
+      "pdfPage": 40,
+      "patternSlug": "rabin-karp-rolling-hash",
+      "canonical": {
+        "canonicalSlug": "longest-duplicate-substring",
+        "title": "Longest Duplicate Substring",
+        "description": "Practice problem: Longest Duplicate Substring",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/longest-duplicate-substring/description/",
+        "originalPdfQuestionNumber": 211,
+        "sourcePage": "40",
+        "displayOrder": 211,
+        "tags": [
+          "String",
+          "Binary Search",
+          "Sliding Window",
+          "Rolling Hash",
+          "Suffix Array",
+          "Hash Function",
+          "Suffix Automaton",
+          "Suffix Tree",
+          "Z Algorithm",
+          "Boyer–Moore String-Search Algorithm"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    }
+  ]
+}

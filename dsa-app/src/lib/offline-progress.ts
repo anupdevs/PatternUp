@@ -4,6 +4,7 @@ import { RecordAttemptInput } from '@/lib/validations';
 import { calculateNextRevisionSchedule } from '@/lib/spaced-repetition';
 import { offlineUserStore, UserProgressRecord, UserAttemptRecord } from './offline-user-store';
 import { offlineCatalog } from './offline-catalog';
+import { getSeedDataPath } from './paths';
 
 interface RawProblem {
   canonicalSlug: string;
@@ -13,7 +14,7 @@ interface RawProblem {
 }
 
 function getSeedProblems(): RawProblem[] {
-  const p = path.resolve(process.cwd(), 'prisma/seed-data/canonical_problems.json');
+  const p = getSeedDataPath('canonical_problems.json');
   if (!fs.existsSync(p)) return [];
   try {
     return JSON.parse(fs.readFileSync(p, 'utf8'));

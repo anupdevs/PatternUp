@@ -1,0 +1,271 @@
+{
+  "topic": {
+    "slug": "stack-and-queue",
+    "name": "Stack and Queue",
+    "description": "LIFO and FIFO structures, monotonic stacks, and deque sliding windows.",
+    "displayOrder": 6
+  },
+  "problems": [
+    {
+      "sheetNumber": 69,
+      "pdfTitle": "Implement Stack using Queues",
+      "pdfPage": 15,
+      "patternSlug": "stack-and-queue",
+      "canonical": {
+        "canonicalSlug": "implement-stack-using-queues",
+        "title": "Implement Stack using Queues",
+        "description": "Practice problem: Implement Stack using Queues",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/implement-stack-using-queues/description/",
+        "originalPdfQuestionNumber": 69,
+        "sourcePage": "15",
+        "displayOrder": 69,
+        "tags": [
+          "Stack",
+          "Design",
+          "Queue"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 70,
+      "pdfTitle": "Implement Queue using Stacks",
+      "pdfPage": 15,
+      "patternSlug": "stack-and-queue",
+      "canonical": {
+        "canonicalSlug": "implement-queue-using-stacks",
+        "title": "Implement Queue using Stacks",
+        "description": "Practice problem: Implement Queue using Stacks",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/implement-queue-using-stacks/description/",
+        "originalPdfQuestionNumber": 70,
+        "sourcePage": "15",
+        "displayOrder": 70,
+        "tags": [
+          "Stack",
+          "Design",
+          "Queue"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 71,
+      "pdfTitle": "Backspace String Compare",
+      "pdfPage": 15,
+      "patternSlug": "stack-and-queue",
+      "canonical": {
+        "canonicalSlug": "backspace-string-compare",
+        "title": "Backspace String Compare",
+        "description": "Practice problem: Backspace String Compare",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/backspace-string-compare/description/",
+        "originalPdfQuestionNumber": 71,
+        "sourcePage": "15",
+        "displayOrder": 71,
+        "tags": [
+          "Two Pointers",
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 72,
+      "pdfTitle": "Baseball Game",
+      "pdfPage": 15,
+      "patternSlug": "stack-and-queue",
+      "canonical": {
+        "canonicalSlug": "baseball-game",
+        "title": "Baseball Game",
+        "description": "Practice problem: Baseball Game",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/baseball-game/description/",
+        "originalPdfQuestionNumber": 72,
+        "sourcePage": "15",
+        "displayOrder": 72,
+        "tags": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 73,
+      "pdfTitle": "Longest Valid Parentheses",
+      "pdfPage": 15,
+      "patternSlug": "stack-and-queue",
+      "canonical": {
+        "canonicalSlug": "longest-valid-parentheses",
+        "title": "Longest Valid Parentheses",
+        "description": "Practice problem: Longest Valid Parentheses",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/longest-valid-parentheses/description/",
+        "originalPdfQuestionNumber": 73,
+        "sourcePage": "15",
+        "displayOrder": 73,
+        "tags": [
+          "String",
+          "Dynamic Programming",
+          "Stack",
+          "Bracket Sequences"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 74,
+      "pdfTitle": "Evaluate Reverse Polish Notation",
+      "pdfPage": 15,
+      "patternSlug": "stack-and-queue",
+      "canonical": {
+        "canonicalSlug": "evaluate-reverse-polish-notation",
+        "title": "Evaluate Reverse Polish Notation",
+        "description": "Practice problem: Evaluate Reverse Polish Notation",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/description/",
+        "originalPdfQuestionNumber": 74,
+        "sourcePage": "15",
+        "displayOrder": 74,
+        "tags": [
+          "Array",
+          "Math",
+          "Stack"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 75,
+      "pdfTitle": "Daily Temperatures",
+      "pdfPage": 15,
+      "patternSlug": "stack-and-queue",
+      "canonical": {
+        "canonicalSlug": "daily-temperatures",
+        "title": "Daily Temperatures",
+        "description": "Practice problem: Daily Temperatures",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/daily-temperatures/description/",
+        "originalPdfQuestionNumber": 75,
+        "sourcePage": "15",
+        "displayOrder": 75,
+        "tags": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 76,
+      "pdfTitle": "Largest Rectangle in Histogram",
+      "pdfPage": 16,
+      "patternSlug": "stack-and-queue",
+      "canonical": {
+        "canonicalSlug": "largest-rectangle-in-histogram",
+        "title": "Largest Rectangle in Histogram",
+        "description": "Practice problem: Largest Rectangle in Histogram",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/description/",
+        "originalPdfQuestionNumber": 76,
+        "sourcePage": "16",
+        "displayOrder": 76,
+        "tags": [
+          "Array",
+          "Stack",
+          "Monotonic Stack",
+          "Range Minimum/Maximum Query"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 77,
+      "pdfTitle": "Min Stack",
+      "pdfPage": 16,
+      "patternSlug": "stack-and-queue",
+      "canonical": {
+        "canonicalSlug": "min-stack",
+        "title": "Min Stack",
+        "description": "Practice problem: Min Stack",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/min-stack/description/",
+        "originalPdfQuestionNumber": 77,
+        "sourcePage": "16",
+        "displayOrder": 77,
+        "tags": [
+          "Stack",
+          "Design"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 78,
+      "pdfTitle": "Minimum Remove to Make Valid Parentheses",
+      "pdfPage": 16,
+      "patternSlug": "stack-and-queue",
+      "canonical": {
+        "canonicalSlug": "minimum-remove-to-make-valid-parentheses",
+        "title": "Minimum Remove to Make Valid Parentheses",
+        "description": "Practice problem: Minimum Remove to Make Valid Parentheses",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/",
+        "originalPdfQuestionNumber": 78,
+        "sourcePage": "16",
+        "displayOrder": 78,
+        "tags": [
+          "String",
+          "Stack"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    }
+  ]
+}

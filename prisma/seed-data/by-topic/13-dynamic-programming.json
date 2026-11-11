@@ -1,0 +1,821 @@
+{
+  "topic": {
+    "slug": "dynamic-programming",
+    "name": "Dynamic Programming",
+    "description": "Overlapping subproblems, optimal substructure, memoization, and tabulation.",
+    "displayOrder": 13
+  },
+  "problems": [
+    {
+      "sheetNumber": 155,
+      "pdfTitle": "Climbing Stairs",
+      "pdfPage": 31,
+      "patternSlug": "climbing-stairs",
+      "canonical": {
+        "canonicalSlug": "climbing-stairs",
+        "title": "Climbing Stairs",
+        "description": "Practice problem: Climbing Stairs",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/climbing-stairs/description/",
+        "originalPdfQuestionNumber": 155,
+        "sourcePage": "31",
+        "displayOrder": 155,
+        "tags": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 156,
+      "pdfTitle": "Decode Ways",
+      "pdfPage": 31,
+      "patternSlug": "climbing-stairs",
+      "canonical": {
+        "canonicalSlug": "decode-ways",
+        "title": "Decode Ways",
+        "description": "Practice problem: Decode Ways",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/decode-ways/description/",
+        "originalPdfQuestionNumber": 156,
+        "sourcePage": "31",
+        "displayOrder": 156,
+        "tags": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 157,
+      "pdfTitle": "Frog Jump",
+      "pdfPage": 31,
+      "patternSlug": "climbing-stairs",
+      "canonical": {
+        "canonicalSlug": "frog-jump",
+        "title": "Frog Jump",
+        "description": "Practice problem: Frog Jump",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/frog-jump/description/",
+        "originalPdfQuestionNumber": 157,
+        "sourcePage": "31",
+        "displayOrder": 157,
+        "tags": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 158,
+      "pdfTitle": "Coin Change",
+      "pdfPage": 31,
+      "patternSlug": "coin-change-1d-dp",
+      "canonical": {
+        "canonicalSlug": "coin-change",
+        "title": "Coin Change",
+        "description": "Practice problem: Coin Change",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/coin-change/description/",
+        "originalPdfQuestionNumber": 158,
+        "sourcePage": "31",
+        "displayOrder": 158,
+        "tags": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 159,
+      "pdfTitle": "Minimum Jumps to Reach Home",
+      "pdfPage": 31,
+      "patternSlug": "coin-change-1d-dp",
+      "canonical": {
+        "canonicalSlug": "minimum-jumps-to-reach-home",
+        "title": "Minimum Jumps to Reach Home",
+        "description": "Practice problem: Minimum Jumps to Reach Home",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/minimum-jumps-to-reach-home/description/",
+        "originalPdfQuestionNumber": 159,
+        "sourcePage": "31",
+        "displayOrder": 159,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 160,
+      "pdfTitle": "Best Time to Buy and Sell Stock",
+      "pdfPage": 32,
+      "patternSlug": "buy-and-sell-stock",
+      "canonical": {
+        "canonicalSlug": "best-time-to-buy-and-sell-stock",
+        "title": "Best Time to Buy and Sell Stock",
+        "description": "Practice problem: Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/",
+        "originalPdfQuestionNumber": 160,
+        "sourcePage": "32",
+        "displayOrder": 160,
+        "tags": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 161,
+      "pdfTitle": "Best Time to Buy and Sell Stock II",
+      "pdfPage": 32,
+      "patternSlug": "buy-and-sell-stock",
+      "canonical": {
+        "canonicalSlug": "best-time-to-buy-and-sell-stock-ii",
+        "title": "Best Time to Buy and Sell Stock II",
+        "description": "Practice problem: Best Time to Buy and Sell Stock II",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/",
+        "originalPdfQuestionNumber": 161,
+        "sourcePage": "32",
+        "displayOrder": 161,
+        "tags": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 162,
+      "pdfTitle": "Best Time to Buy and Sell Stock III",
+      "pdfPage": 32,
+      "patternSlug": "buy-and-sell-stock",
+      "canonical": {
+        "canonicalSlug": "best-time-to-buy-and-sell-stock-iii",
+        "title": "Best Time to Buy and Sell Stock III",
+        "description": "Practice problem: Best Time to Buy and Sell Stock III",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/",
+        "originalPdfQuestionNumber": 162,
+        "sourcePage": "32",
+        "displayOrder": 162,
+        "tags": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 163,
+      "pdfTitle": "Best Time to Buy and Sell Stock IV",
+      "pdfPage": 32,
+      "patternSlug": "buy-and-sell-stock",
+      "canonical": {
+        "canonicalSlug": "best-time-to-buy-and-sell-stock-iv",
+        "title": "Best Time to Buy and Sell Stock IV",
+        "description": "Practice problem: Best Time to Buy and Sell Stock IV",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/",
+        "originalPdfQuestionNumber": 163,
+        "sourcePage": "32",
+        "displayOrder": 163,
+        "tags": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 164,
+      "pdfTitle": "Best Time to Buy and Sell Stock with Cooldown",
+      "pdfPage": 32,
+      "patternSlug": "buy-and-sell-stock",
+      "canonical": {
+        "canonicalSlug": "best-time-to-buy-and-sell-stock-with-cooldown",
+        "title": "Best Time to Buy and Sell Stock with Cooldown",
+        "description": "Practice problem: Best Time to Buy and Sell Stock with Cooldown",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/",
+        "originalPdfQuestionNumber": 164,
+        "sourcePage": "32",
+        "displayOrder": 164,
+        "tags": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 165,
+      "pdfTitle": "Best Time to Buy and Sell Stock with Transaction Fee",
+      "pdfPage": 32,
+      "patternSlug": "buy-and-sell-stock",
+      "canonical": {
+        "canonicalSlug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+        "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+        "description": "Practice problem: Best Time to Buy and Sell Stock with Transaction Fee",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/",
+        "originalPdfQuestionNumber": 165,
+        "sourcePage": "32",
+        "displayOrder": 165,
+        "tags": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 166,
+      "pdfTitle": "Partition Equal Subset Sum",
+      "pdfPage": 32,
+      "patternSlug": "0-1-knapsack",
+      "canonical": {
+        "canonicalSlug": "partition-equal-subset-sum",
+        "title": "Partition Equal Subset Sum",
+        "description": "Practice problem: Partition Equal Subset Sum",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/partition-equal-subset-sum/description/",
+        "originalPdfQuestionNumber": 166,
+        "sourcePage": "32",
+        "displayOrder": 166,
+        "tags": [
+          "Array",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "0-1 Knapsack"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 167,
+      "pdfTitle": "Ones and Zeroes",
+      "pdfPage": 33,
+      "patternSlug": "0-1-knapsack",
+      "canonical": {
+        "canonicalSlug": "ones-and-zeroes",
+        "title": "Ones and Zeroes",
+        "description": "Practice problem: Ones and Zeroes",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/ones-and-zeroes/description/",
+        "originalPdfQuestionNumber": 167,
+        "sourcePage": "33",
+        "displayOrder": 167,
+        "tags": [
+          "Array",
+          "String",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "0-1 Knapsack"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 168,
+      "pdfTitle": "Coin Change II",
+      "pdfPage": 33,
+      "patternSlug": "unbounded-knapsack",
+      "canonical": {
+        "canonicalSlug": "coin-change-ii",
+        "title": "Coin Change II",
+        "description": "Practice problem: Coin Change II",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/coin-change-ii/description/",
+        "originalPdfQuestionNumber": 168,
+        "sourcePage": "33",
+        "displayOrder": 168,
+        "tags": [
+          "Array",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "Complete Knapsack"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 169,
+      "pdfTitle": "Last Stone Weight II",
+      "pdfPage": 33,
+      "patternSlug": "unbounded-knapsack",
+      "canonical": {
+        "canonicalSlug": "last-stone-weight-ii",
+        "title": "Last Stone Weight II",
+        "description": "Practice problem: Last Stone Weight II",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/last-stone-weight-ii/description/",
+        "originalPdfQuestionNumber": 169,
+        "sourcePage": "33",
+        "displayOrder": 169,
+        "tags": [
+          "Array",
+          "Dynamic Programming",
+          "Knapsack Problem",
+          "0-1 Knapsack"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 170,
+      "pdfTitle": "Longest Common Subsequence",
+      "pdfPage": 33,
+      "patternSlug": "longest-common-subsequence-lcs",
+      "canonical": {
+        "canonicalSlug": "longest-common-subsequence",
+        "title": "Longest Common Subsequence",
+        "description": "Practice problem: Longest Common Subsequence",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/longest-common-subsequence/description/",
+        "originalPdfQuestionNumber": 170,
+        "sourcePage": "33",
+        "displayOrder": 170,
+        "tags": [
+          "String",
+          "Dynamic Programming",
+          "Longest Common Subsequence"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 171,
+      "pdfTitle": "Edit Distance",
+      "pdfPage": 33,
+      "patternSlug": "longest-common-subsequence-lcs",
+      "canonical": {
+        "canonicalSlug": "edit-distance",
+        "title": "Edit Distance",
+        "description": "Practice problem: Edit Distance",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/edit-distance/description/",
+        "originalPdfQuestionNumber": 171,
+        "sourcePage": "33",
+        "displayOrder": 171,
+        "tags": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 172,
+      "pdfTitle": "Longest Palindromic Subsequence",
+      "pdfPage": 34,
+      "patternSlug": "longest-common-subsequence-lcs",
+      "canonical": {
+        "canonicalSlug": "longest-palindromic-subsequence",
+        "title": "Longest Palindromic Subsequence",
+        "description": "Practice problem: Longest Palindromic Subsequence",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/longest-palindromic-subsequence/description/",
+        "originalPdfQuestionNumber": 172,
+        "sourcePage": "34",
+        "displayOrder": 172,
+        "tags": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 173,
+      "pdfTitle": "Minimum Insertion Steps to Make a String Palindrome",
+      "pdfPage": 34,
+      "patternSlug": "longest-common-subsequence-lcs",
+      "canonical": {
+        "canonicalSlug": "minimum-insertion-steps-to-make-a-string-palindrome",
+        "title": "Minimum Insertion Steps to Make a String Palindrome",
+        "description": "Practice problem: Minimum Insertion Steps to Make a String Palindrome",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/",
+        "originalPdfQuestionNumber": 173,
+        "sourcePage": "34",
+        "displayOrder": 173,
+        "tags": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 174,
+      "pdfTitle": "Longest Increasing Subsequence",
+      "pdfPage": 34,
+      "patternSlug": "longest-increasing-subsequence-lis",
+      "canonical": {
+        "canonicalSlug": "longest-increasing-subsequence",
+        "title": "Longest Increasing Subsequence",
+        "description": "Practice problem: Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/longest-increasing-subsequence/description/",
+        "originalPdfQuestionNumber": 174,
+        "sourcePage": "34",
+        "displayOrder": 174,
+        "tags": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Longest Increasing Subsequence"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 175,
+      "pdfTitle": "Largest Divisible Subset",
+      "pdfPage": 34,
+      "patternSlug": "longest-increasing-subsequence-lis",
+      "canonical": {
+        "canonicalSlug": "largest-divisible-subset",
+        "title": "Largest Divisible Subset",
+        "description": "Practice problem: Largest Divisible Subset",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/largest-divisible-subset/description/",
+        "originalPdfQuestionNumber": 175,
+        "sourcePage": "34",
+        "displayOrder": 175,
+        "tags": [
+          "Array",
+          "Math",
+          "Dynamic Programming",
+          "Sorting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 176,
+      "pdfTitle": "Longest String Chain",
+      "pdfPage": 34,
+      "patternSlug": "longest-increasing-subsequence-lis",
+      "canonical": {
+        "canonicalSlug": "longest-string-chain",
+        "title": "Longest String Chain",
+        "description": "Practice problem: Longest String Chain",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/longest-string-chain/description/",
+        "originalPdfQuestionNumber": 176,
+        "sourcePage": "34",
+        "displayOrder": 176,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Sorting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 177,
+      "pdfTitle": "Minimum Cost to Cut a Stick",
+      "pdfPage": 35,
+      "patternSlug": "matrix-chain-multiplication-mcm",
+      "canonical": {
+        "canonicalSlug": "minimum-cost-to-cut-a-stick",
+        "title": "Minimum Cost to Cut a Stick",
+        "description": "Practice problem: Minimum Cost to Cut a Stick",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/",
+        "originalPdfQuestionNumber": 177,
+        "sourcePage": "35",
+        "displayOrder": 177,
+        "tags": [
+          "Array",
+          "Dynamic Programming",
+          "Sorting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 178,
+      "pdfTitle": "Burst Balloons",
+      "pdfPage": 35,
+      "patternSlug": "matrix-chain-multiplication-mcm",
+      "canonical": {
+        "canonicalSlug": "burst-balloons",
+        "title": "Burst Balloons",
+        "description": "Practice problem: Burst Balloons",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/burst-balloons/description/",
+        "originalPdfQuestionNumber": 178,
+        "sourcePage": "35",
+        "displayOrder": 178,
+        "tags": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 179,
+      "pdfTitle": "Parsing a Boolean Expression",
+      "pdfPage": 35,
+      "patternSlug": "matrix-chain-multiplication-mcm",
+      "canonical": {
+        "canonicalSlug": "parsing-a-boolean-expression",
+        "title": "Parsing A Boolean Expression",
+        "description": "Practice problem: Parsing A Boolean Expression",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/parsing-a-boolean-expression/description/",
+        "originalPdfQuestionNumber": 179,
+        "sourcePage": "35",
+        "displayOrder": 179,
+        "tags": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 180,
+      "pdfTitle": "Palindrome Partitioning II",
+      "pdfPage": 35,
+      "patternSlug": "matrix-chain-multiplication-mcm",
+      "canonical": {
+        "canonicalSlug": "palindrome-partitioning-ii",
+        "title": "Palindrome Partitioning II",
+        "description": "Practice problem: Palindrome Partitioning II",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/palindrome-partitioning-ii/description/",
+        "originalPdfQuestionNumber": 180,
+        "sourcePage": "35",
+        "displayOrder": 180,
+        "tags": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 181,
+      "pdfTitle": "Shortest Path Visiting All Nodes",
+      "pdfPage": 35,
+      "patternSlug": "dp-on-grids-and-trees",
+      "canonical": {
+        "canonicalSlug": "shortest-path-visiting-all-nodes",
+        "title": "Shortest Path Visiting All Nodes",
+        "description": "Practice problem: Shortest Path Visiting All Nodes",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/",
+        "originalPdfQuestionNumber": 181,
+        "sourcePage": "35",
+        "displayOrder": 181,
+        "tags": [
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Breadth-First Search",
+          "Graph Theory",
+          "Bitmask"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 182,
+      "pdfTitle": "Unique Paths",
+      "pdfPage": 35,
+      "patternSlug": "dp-on-grids-and-trees",
+      "canonical": {
+        "canonicalSlug": "unique-paths",
+        "title": "Unique Paths",
+        "description": "Practice problem: Unique Paths",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/unique-paths/description/",
+        "originalPdfQuestionNumber": 182,
+        "sourcePage": "35",
+        "displayOrder": 182,
+        "tags": [
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 183,
+      "pdfTitle": "Unique Paths II",
+      "pdfPage": 36,
+      "patternSlug": "dp-on-grids-and-trees",
+      "canonical": {
+        "canonicalSlug": "unique-paths-ii",
+        "title": "Unique Paths II",
+        "description": "Practice problem: Unique Paths II",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/unique-paths-ii/description/",
+        "originalPdfQuestionNumber": 183,
+        "sourcePage": "36",
+        "displayOrder": 183,
+        "tags": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 184,
+      "pdfTitle": "Minimum Path Sum",
+      "pdfPage": 36,
+      "patternSlug": "dp-on-grids-and-trees",
+      "canonical": {
+        "canonicalSlug": "minimum-path-sum",
+        "title": "Minimum Path Sum",
+        "description": "Practice problem: Minimum Path Sum",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/minimum-path-sum/description/",
+        "originalPdfQuestionNumber": 184,
+        "sourcePage": "36",
+        "displayOrder": 184,
+        "tags": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 185,
+      "pdfTitle": "Russian Doll Envelopes",
+      "pdfPage": 36,
+      "patternSlug": "dp-on-grids-and-trees",
+      "canonical": {
+        "canonicalSlug": "russian-doll-envelopes",
+        "title": "Russian Doll Envelopes",
+        "description": "Practice problem: Russian Doll Envelopes",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/russian-doll-envelopes/description/",
+        "originalPdfQuestionNumber": 185,
+        "sourcePage": "36",
+        "displayOrder": 185,
+        "tags": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting",
+          "Longest Increasing Subsequence"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    }
+  ]
+}

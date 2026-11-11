@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { ProblemQueryInput } from '@/lib/validations';
 import { offlineUserStore } from './offline-user-store';
+import { getSeedDataPath } from './paths';
 
 interface RawProblem {
   canonicalSlug: string;
@@ -62,7 +63,7 @@ class OfflineCatalogLoader {
   private initialized = false;
 
   private loadSeed<T>(filename: string): T[] {
-    const p = path.resolve(process.cwd(), 'prisma/seed-data', filename);
+    const p = getSeedDataPath(filename);
     if (!fs.existsSync(p)) return [];
     try {
       return JSON.parse(fs.readFileSync(p, 'utf8'));
@@ -240,8 +241,21 @@ class OfflineCatalogLoader {
 
   getProblemDetails(problemIdOrSlug: string, userId?: string | null) {
     this.init();
+    const raw = (problemIdOrSlug || '').trim();
+    let decoded = raw;
+    try {
+      decoded = decodeURIComponent(raw);
+    } catch {
+      decoded = raw;
+    }
+    const lower = decoded.toLowerCase();
+
     const problem = this.problems.find(
-      (p) => p.canonicalSlug === problemIdOrSlug || String(p.originalPdfQuestionNumber) === problemIdOrSlug
+      (p) =>
+        p.canonicalSlug === decoded ||
+        p.canonicalSlug.toLowerCase() === lower ||
+        p.canonicalSlug === raw ||
+        String(p.originalPdfQuestionNumber) === decoded
     );
     if (!problem) return null;
 

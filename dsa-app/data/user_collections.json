@@ -749,5 +749,207 @@
     "problemIds": [],
     "createdAt": "2026-10-11T08:03:55.309Z",
     "updatedAt": "2026-10-11T08:03:55.309Z"
+  },
+  {
+    "id": "col_353485_0_1794419353498",
+    "clerkUserId": "user_alice_test_1794419353485",
+    "name": "Must Revise",
+    "description": "Essential core algorithms to revisit before interviews",
+    "color": "rose",
+    "isDefault": true,
+    "problemIds": [
+      "two-sum"
+    ],
+    "createdAt": "2026-11-11T17:49:13.497Z",
+    "updatedAt": "2026-11-11T17:49:13.572Z"
+  },
+  {
+    "id": "col_353485_1_1794419353498",
+    "clerkUserId": "user_alice_test_1794419353485",
+    "name": "Interview Favorites",
+    "description": "High-frequency interview questions with elegant approaches",
+    "color": "indigo",
+    "isDefault": true,
+    "problemIds": [],
+    "createdAt": "2026-11-11T17:49:13.497Z",
+    "updatedAt": "2026-11-11T17:49:13.497Z"
+  },
+  {
+    "id": "col_353485_2_1794419353498",
+    "clerkUserId": "user_alice_test_1794419353485",
+    "name": "Frequently Asked",
+    "description": "Top LeetCode / Bosscoder company tagged problems",
+    "color": "amber",
+    "isDefault": true,
+    "problemIds": [],
+    "createdAt": "2026-11-11T17:49:13.497Z",
+    "updatedAt": "2026-11-11T17:49:13.497Z"
+  },
+  {
+    "id": "col_353485_3_1794419353498",
+    "clerkUserId": "user_alice_test_1794419353485",
+    "name": "Problems I Keep Getting Wrong",
+    "description": "Tricky edge cases, off-by-one errors, and stumbling blocks",
+    "color": "purple",
+    "isDefault": true,
+    "problemIds": [],
+    "createdAt": "2026-11-11T17:49:13.497Z",
+    "updatedAt": "2026-11-11T17:49:13.497Z"
+  },
+  {
+    "id": "col_1794419353533_iofg8",
+    "clerkUserId": "user_alice_test_1794419353485",
+    "name": "Dynamic Programming Masterclass",
+    "description": "2D DP & Knapsack variants",
+    "color": "emerald",
+    "isDefault": false,
+    "problemIds": [],
+    "createdAt": "2026-11-11T17:49:13.533Z",
+    "updatedAt": "2026-11-11T17:49:13.533Z"
+  },
+  {
+    "id": "col_353485_0_1794419353556",
+    "clerkUserId": "user_bob_test_1794419353485",
+    "name": "Must Revise",
+    "description": "Essential core algorithms to revisit before interviews",
+    "color": "rose",
+    "isDefault": true,
+    "problemIds": [],
+    "createdAt": "2026-11-11T17:49:13.556Z",
+    "updatedAt": "2026-11-11T17:49:13.556Z"
+  },
+  {
+    "id": "col_353485_1_1794419353556",
+    "clerkUserId": "user_bob_test_1794419353485",
+    "name": "Interview Favorites",
+    "description": "High-frequency interview questions with elegant approaches",
+    "color": "indigo",
+    "isDefault": true,
+    "problemIds": [],
+    "createdAt": "2026-11-11T17:49:13.556Z",
+    "updatedAt": "2026-11-11T17:49:13.556Z"
+  },
+  {
+    "id": "col_353485_2_1794419353556",
+    "clerkUserId": "user_bob_test_1794419353485",
+    "name": "Frequently Asked",
+    "description": "Top LeetCode / Bosscoder company tagged problems",
+    "color": "amber",
+    "isDefault": true,
+    "problemIds": [],
+    "createdAt": "2026-11-11T17:49:13.556Z",
+    "updatedAt": "2026-11-11T17:49:13.556Z"
+  },
+  {
+    "id": "col_353485_3_1794419353556",
+    "clerkUserId": "user_bob_test_1794419353485",
+    "name": "Problems I Keep Getting Wrong",
+    "description": "Tricky edge cases, off-by-one errors, and stumbling blocks",
+    "color": "purple",
+    "isDefault": true,
+    "problemIds": [],
+    "createdAt": "2026-11-11T17:49:13.556Z",
+    "updatedAt": "2026-11-11T17:49:13.556Z"
+  },
+  {
+    "id": "col_559596_0_1794430559602",
+    "clerkUserId": "user_alice_test_1794430559596",
+    "name": "Must Revise",
+    "description": "Essential core algorithms to revisit before interviews",
+    "color": "rose",
+    "isDefault": true,
+    "problemIds": [
+      "two-sum"
+    ],
+    "createdAt": "2026-11-11T20:55:59.601Z",
+    "updatedAt": "2026-11-11T20:55:59.625Z"
+  },
+  {
+    "id": "col_559596_1_1794430559602",
+    "clerkUserId": "user_alice_test_1794430559596",
+    "name": "Interview Favorites",
+    "description": "High-frequency interview questions with elegant approaches",
+    "color": "indigo",
+    "isDefault": true,
+    "problemIds": [],
+    "createdAt": "2026-11-11T20:55:59.601Z",
+    "updatedAt": "2026-11-11T20:55:59.601Z"
+  },
+  {
+    "id": "col_559596_2_1794430559602",
+    "clerkUserId": "user_alice_test_1794430559596",
+    "name": "Frequently Asked",
+    "description": "Top LeetCode / Bosscoder company tagged problems",
+    "color": "amber",
+    "isDefault": true,
+    "problemIds": [],
+    "createdAt": "2026-11-11T20:55:59.601Z",
+    "updatedAt": "2026-11-11T20:55:59.601Z"
+  },
+  {
+    "id": "col_559596_3_1794430559602",
+    "clerkUserId": "user_alice_test_1794430559596",
+    "name": "Problems I Keep Getting Wrong",
+    "description": "Tricky edge cases, off-by-one errors, and stumbling blocks",
+    "color": "purple",
+    "isDefault": true,
+    "problemIds": [],
+    "createdAt": "2026-11-11T20:55:59.601Z",
+    "updatedAt": "2026-11-11T20:55:59.601Z"
+  },
+  {
+    "id": "col_1794430559616_nomc2",
+    "clerkUserId": "user_alice_test_1794430559596",
+    "name": "Dynamic Programming Masterclass",
+    "description": "2D DP & Knapsack variants",
+    "color": "emerald",
+    "isDefault": false,
+    "problemIds": [],
+    "createdAt": "2026-11-11T20:55:59.616Z",
+    "updatedAt": "2026-11-11T20:55:59.616Z"
+  },
+  {
+    "id": "col_559596_0_1794430559622",
+    "clerkUserId": "user_bob_test_1794430559596",
+    "name": "Must Revise",
+    "description": "Essential core algorithms to revisit before interviews",
+    "color": "rose",
+    "isDefault": true,
+    "problemIds": [],
+    "createdAt": "2026-11-11T20:55:59.622Z",
+    "updatedAt": "2026-11-11T20:55:59.622Z"
+  },
+  {
+    "id": "col_559596_1_1794430559622",
+    "clerkUserId": "user_bob_test_1794430559596",
+    "name": "Interview Favorites",
+    "description": "High-frequency interview questions with elegant approaches",
+    "color": "indigo",
+    "isDefault": true,
+    "problemIds": [],
+    "createdAt": "2026-11-11T20:55:59.622Z",
+    "updatedAt": "2026-11-11T20:55:59.622Z"
+  },
+  {
+    "id": "col_559596_2_1794430559622",
+    "clerkUserId": "user_bob_test_1794430559596",
+    "name": "Frequently Asked",
+    "description": "Top LeetCode / Bosscoder company tagged problems",
+    "color": "amber",
+    "isDefault": true,
+    "problemIds": [],
+    "createdAt": "2026-11-11T20:55:59.622Z",
+    "updatedAt": "2026-11-11T20:55:59.622Z"
+  },
+  {
+    "id": "col_559596_3_1794430559622",
+    "clerkUserId": "user_bob_test_1794430559596",
+    "name": "Problems I Keep Getting Wrong",
+    "description": "Tricky edge cases, off-by-one errors, and stumbling blocks",
+    "color": "purple",
+    "isDefault": true,
+    "problemIds": [],
+    "createdAt": "2026-11-11T20:55:59.622Z",
+    "updatedAt": "2026-11-11T20:55:59.622Z"
   }
 ]

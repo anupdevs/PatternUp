@@ -1,13 +1,13 @@
 import fs from 'fs';
 import path from 'path';
-
-const DATA_DIR = path.resolve(process.cwd(), 'data');
+import { getDataDirPath } from './paths';
 
 function ensureFile<T>(filename: string, defaultData: T): T {
-  if (!fs.existsSync(DATA_DIR)) {
-    fs.mkdirSync(DATA_DIR, { recursive: true });
+  const dataDir = getDataDirPath();
+  if (!fs.existsSync(dataDir)) {
+    fs.mkdirSync(dataDir, { recursive: true });
   }
-  const filePath = path.join(DATA_DIR, filename);
+  const filePath = path.join(dataDir, filename);
   if (!fs.existsSync(filePath)) {
     fs.writeFileSync(filePath, JSON.stringify(defaultData, null, 2), 'utf8');
     return defaultData;
@@ -21,10 +21,11 @@ function ensureFile<T>(filename: string, defaultData: T): T {
 }
 
 function writeFile<T>(filename: string, data: T): void {
-  if (!fs.existsSync(DATA_DIR)) {
-    fs.mkdirSync(DATA_DIR, { recursive: true });
+  const dataDir = getDataDirPath();
+  if (!fs.existsSync(dataDir)) {
+    fs.mkdirSync(dataDir, { recursive: true });
   }
-  const filePath = path.join(DATA_DIR, filename);
+  const filePath = path.join(dataDir, filename);
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
 }
 

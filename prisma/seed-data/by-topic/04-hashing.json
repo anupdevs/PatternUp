@@ -1,0 +1,250 @@
+{
+  "topic": {
+    "slug": "hashing",
+    "name": "Hashing",
+    "description": "Hash tables, frequency maps, prefix hashing, and collision resolution.",
+    "displayOrder": 4
+  },
+  "problems": [
+    {
+      "sheetNumber": 45,
+      "pdfTitle": "Contiguous Array",
+      "pdfPage": 11,
+      "patternSlug": "hashing",
+      "canonical": {
+        "canonicalSlug": "contiguous-array",
+        "title": "Contiguous Array",
+        "description": "Practice problem: Contiguous Array",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/contiguous-array/description/",
+        "originalPdfQuestionNumber": 45,
+        "sourcePage": "11",
+        "displayOrder": 45,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 46,
+      "pdfTitle": "Longest Consecutive Sequence",
+      "pdfPage": 11,
+      "patternSlug": "hashing",
+      "canonical": {
+        "canonicalSlug": "longest-consecutive-sequence",
+        "title": "Longest Consecutive Sequence",
+        "description": "Practice problem: Longest Consecutive Sequence",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/longest-consecutive-sequence/description/",
+        "originalPdfQuestionNumber": 46,
+        "sourcePage": "11",
+        "displayOrder": 46,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Union-Find"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 47,
+      "pdfTitle": "Subarray Sum Equals K",
+      "pdfPage": 11,
+      "patternSlug": "hashing",
+      "canonical": {
+        "canonicalSlug": "subarray-sum-equals-k",
+        "title": "Subarray Sum Equals K",
+        "description": "Practice problem: Subarray Sum Equals K",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/subarray-sum-equals-k/description/",
+        "originalPdfQuestionNumber": 47,
+        "sourcePage": "11",
+        "displayOrder": 47,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 48,
+      "pdfTitle": "Valid Anagram",
+      "pdfPage": 11,
+      "patternSlug": "hashing",
+      "canonical": {
+        "canonicalSlug": "valid-anagram",
+        "title": "Valid Anagram",
+        "description": "Practice problem: Valid Anagram",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/valid-anagram/description/",
+        "originalPdfQuestionNumber": 48,
+        "sourcePage": "11",
+        "displayOrder": 48,
+        "tags": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 49,
+      "pdfTitle": "Valid Sudoku",
+      "pdfPage": 11,
+      "patternSlug": "hashing",
+      "canonical": {
+        "canonicalSlug": "valid-sudoku",
+        "title": "Valid Sudoku",
+        "description": "Practice problem: Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/valid-sudoku/description/",
+        "originalPdfQuestionNumber": 49,
+        "sourcePage": "11",
+        "displayOrder": 49,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 50,
+      "pdfTitle": "Ugly Number II",
+      "pdfPage": 11,
+      "patternSlug": "hashing",
+      "canonical": {
+        "canonicalSlug": "ugly-number-ii",
+        "title": "Ugly Number II",
+        "description": "Practice problem: Ugly Number II",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/ugly-number-ii/description/",
+        "originalPdfQuestionNumber": 50,
+        "sourcePage": "11",
+        "displayOrder": 50,
+        "tags": [
+          "Hash Table",
+          "Math",
+          "Dynamic Programming",
+          "Heap (Priority Queue)"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 51,
+      "pdfTitle": "Subarray Sum Equals K",
+      "pdfPage": 11,
+      "patternSlug": "hashing",
+      "canonical": {
+        "canonicalSlug": "subarray-sum-equals-k",
+        "title": "Subarray Sum Equals K",
+        "description": "Practice problem: Subarray Sum Equals K",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/subarray-sum-equals-k/description/",
+        "originalPdfQuestionNumber": 47,
+        "sourcePage": "11",
+        "displayOrder": 47,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 52,
+      "pdfTitle": "Max Points on a Line",
+      "pdfPage": 12,
+      "patternSlug": "hashing",
+      "canonical": {
+        "canonicalSlug": "max-points-on-a-line",
+        "title": "Max Points on a Line",
+        "description": "Practice problem: Max Points on a Line",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/max-points-on-a-line/description/",
+        "originalPdfQuestionNumber": 52,
+        "sourcePage": "12",
+        "displayOrder": 52,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Geometry",
+          "Euclidean Algorithm",
+          "Greatest Common Divisor"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 53,
+      "pdfTitle": "Palindrome Pairs",
+      "pdfPage": 12,
+      "patternSlug": "hashing",
+      "canonical": {
+        "canonicalSlug": "palindrome-pairs",
+        "title": "Palindrome Pairs",
+        "description": "Practice problem: Palindrome Pairs",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/palindrome-pairs/description/",
+        "originalPdfQuestionNumber": 53,
+        "sourcePage": "12",
+        "displayOrder": 53,
+        "tags": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie",
+          "Hash Function"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    }
+  ]
+}

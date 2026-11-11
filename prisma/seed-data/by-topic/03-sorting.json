@@ -1,0 +1,201 @@
+{
+  "topic": {
+    "slug": "sorting",
+    "name": "Sorting",
+    "description": "Comparison and non-comparison sorting algorithms and their interview applications.",
+    "displayOrder": 3
+  },
+  "problems": [
+    {
+      "sheetNumber": 38,
+      "pdfTitle": "Check if Two Arrays Are Equal or Not",
+      "pdfPage": 10,
+      "patternSlug": "sorting",
+      "canonical": {
+        "canonicalSlug": "check-if-two-arrays-are-equal-or-not3847",
+        "title": "Check if two arrays are equal or not",
+        "description": "Practice problem: Check if two arrays are equal or not",
+        "difficulty": "EASY",
+        "difficultySource": "GeeksforGeeks Official Metadata (Inferred/Verified)",
+        "platform": "GEEKS_FOR_GEEKS",
+        "externalUrl": "https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1",
+        "originalPdfQuestionNumber": 38,
+        "sourcePage": "10",
+        "displayOrder": 38,
+        "tags": [
+          "Arrays",
+          "Hashing"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 39,
+      "pdfTitle": "Binary Array Sorting",
+      "pdfPage": 10,
+      "patternSlug": "sorting",
+      "canonical": {
+        "canonicalSlug": "binary-array-sorting-1587115620",
+        "title": "Binary Array Sorting",
+        "description": "Practice problem: Binary Array Sorting",
+        "difficulty": "EASY",
+        "difficultySource": "GeeksforGeeks Official Metadata (Inferred/Verified)",
+        "platform": "GEEKS_FOR_GEEKS",
+        "externalUrl": "https://www.geeksforgeeks.org/problems/binary-array-sorting-1587115620/0",
+        "originalPdfQuestionNumber": 39,
+        "sourcePage": "10",
+        "displayOrder": 39,
+        "tags": [
+          "Arrays",
+          "Sorting",
+          "Two Pointers"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 40,
+      "pdfTitle": "Sort Colors",
+      "pdfPage": 10,
+      "patternSlug": "sorting",
+      "canonical": {
+        "canonicalSlug": "sort-colors",
+        "title": "Sort Colors",
+        "description": "Practice problem: Sort Colors",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/sort-colors/description/",
+        "originalPdfQuestionNumber": 40,
+        "sourcePage": "10",
+        "displayOrder": 40,
+        "tags": [
+          "Array",
+          "Two Pointers",
+          "Sorting",
+          "Quicksort",
+          "Bubble Sort"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 41,
+      "pdfTitle": "Kth Largest Element in an Array",
+      "pdfPage": 10,
+      "patternSlug": "sorting",
+      "canonical": {
+        "canonicalSlug": "kth-largest-element-in-an-array",
+        "title": "Kth Largest Element in an Array",
+        "description": "Practice problem: Kth Largest Element in an Array",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/description/",
+        "originalPdfQuestionNumber": 41,
+        "sourcePage": "10",
+        "displayOrder": 41,
+        "tags": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 42,
+      "pdfTitle": "Minimum Absolute Difference",
+      "pdfPage": 10,
+      "patternSlug": "sorting",
+      "canonical": {
+        "canonicalSlug": "minimum-absolute-difference",
+        "title": "Minimum Absolute Difference",
+        "description": "Practice problem: Minimum Absolute Difference",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/minimum-absolute-difference/description/",
+        "originalPdfQuestionNumber": 42,
+        "sourcePage": "10",
+        "displayOrder": 42,
+        "tags": [
+          "Array",
+          "Sorting"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 43,
+      "pdfTitle": "K Closest Points to Origin",
+      "pdfPage": 10,
+      "patternSlug": "sorting",
+      "canonical": {
+        "canonicalSlug": "k-closest-points-to-origin",
+        "title": "K Closest Points to Origin",
+        "description": "Practice problem: K Closest Points to Origin",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/k-closest-points-to-origin/description/",
+        "originalPdfQuestionNumber": 43,
+        "sourcePage": "10",
+        "displayOrder": 43,
+        "tags": [
+          "Array",
+          "Math",
+          "Divide and Conquer",
+          "Geometry",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect",
+          "K-D Tree"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 44,
+      "pdfTitle": "Max Chunks To Make Sorted",
+      "pdfPage": 10,
+      "patternSlug": "sorting",
+      "canonical": {
+        "canonicalSlug": "max-chunks-to-make-sorted",
+        "title": "Max Chunks To Make Sorted",
+        "description": "Practice problem: Max Chunks To Make Sorted",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/max-chunks-to-make-sorted/description/",
+        "originalPdfQuestionNumber": 44,
+        "sourcePage": "10",
+        "displayOrder": 44,
+        "tags": [
+          "Array",
+          "Stack",
+          "Greedy",
+          "Sorting",
+          "Monotonic Stack"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "topic": {
+    "slug": "linked-lists",
+    "name": "Linked Lists",
+    "description": "Singly, doubly, and circular linked lists with pointer manipulation and cycle detection.",
+    "displayOrder": 5
+  },
+  "problems": [
+    {
+      "sheetNumber": 54,
+      "pdfTitle": "Middle of the Linked List",
+      "pdfPage": 13,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "middle-of-the-linked-list",
+        "title": "Middle of the Linked List",
+        "description": "Practice problem: Middle of the Linked List",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/middle-of-the-linked-list/description/",
+        "originalPdfQuestionNumber": 54,
+        "sourcePage": "13",
+        "displayOrder": 54,
+        "tags": [
+          "Linked List",
+          "Two Pointers"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 55,
+      "pdfTitle": "Maximum Twin Sum of a Linked List",
+      "pdfPage": 13,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "maximum-twin-sum-of-a-linked-list",
+        "title": "Maximum Twin Sum of a Linked List",
+        "description": "Practice problem: Maximum Twin Sum of a Linked List",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/",
+        "originalPdfQuestionNumber": 55,
+        "sourcePage": "13",
+        "displayOrder": 55,
+        "tags": [
+          "Linked List",
+          "Two Pointers",
+          "Stack"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 56,
+      "pdfTitle": "Merge Two Sorted Lists",
+      "pdfPage": 13,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "merge-two-sorted-lists",
+        "title": "Merge Two Sorted Lists",
+        "description": "Practice problem: Merge Two Sorted Lists",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/merge-two-sorted-lists/description/",
+        "originalPdfQuestionNumber": 56,
+        "sourcePage": "13",
+        "displayOrder": 56,
+        "tags": [
+          "Linked List",
+          "Recursion"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 57,
+      "pdfTitle": "Linked List Cycle",
+      "pdfPage": 13,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "linked-list-cycle",
+        "title": "Linked List Cycle",
+        "description": "Practice problem: Linked List Cycle",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/linked-list-cycle/description/",
+        "originalPdfQuestionNumber": 57,
+        "sourcePage": "13",
+        "displayOrder": 57,
+        "tags": [
+          "Hash Table",
+          "Linked List",
+          "Two Pointers",
+          "Floyd's Cycle Finding Algorithm"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 58,
+      "pdfTitle": "Reverse Nodes in k- Group",
+      "pdfPage": 13,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "reverse-nodes-in-k-group",
+        "title": "Reverse Nodes in k-Group",
+        "description": "Practice problem: Reverse Nodes in k-Group",
+        "difficulty": "HARD",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/description/",
+        "originalPdfQuestionNumber": 58,
+        "sourcePage": "13",
+        "displayOrder": 58,
+        "tags": [
+          "Linked List",
+          "Recursion"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 59,
+      "pdfTitle": "Remove Nth Node From End of List",
+      "pdfPage": 13,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "remove-nth-node-from-end-of-list",
+        "title": "Remove Nth Node From End of List",
+        "description": "Practice problem: Remove Nth Node From End of List",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "originalPdfQuestionNumber": 59,
+        "sourcePage": "13",
+        "displayOrder": 59,
+        "tags": [
+          "Linked List",
+          "Two Pointers"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 60,
+      "pdfTitle": "Linked List Cycle II",
+      "pdfPage": 13,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "linked-list-cycle-ii",
+        "title": "Linked List Cycle II",
+        "description": "Practice problem: Linked List Cycle II",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+        "originalPdfQuestionNumber": 60,
+        "sourcePage": "13",
+        "displayOrder": 60,
+        "tags": [
+          "Hash Table",
+          "Linked List",
+          "Two Pointers",
+          "Floyd's Cycle Finding Algorithm"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 61,
+      "pdfTitle": "Delete Node in a Linked List",
+      "pdfPage": 14,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "delete-node-in-a-linked-list",
+        "title": "Delete Node in a Linked List",
+        "description": "Practice problem: Delete Node in a Linked List",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+        "originalPdfQuestionNumber": 61,
+        "sourcePage": "14",
+        "displayOrder": 61,
+        "tags": [
+          "Linked List"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 62,
+      "pdfTitle": "Reverse Linked List",
+      "pdfPage": 14,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "reverse-linked-list",
+        "title": "Reverse Linked List",
+        "description": "Practice problem: Reverse Linked List",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/reverse-linked-list/",
+        "originalPdfQuestionNumber": 62,
+        "sourcePage": "14",
+        "displayOrder": 62,
+        "tags": [
+          "Linked List",
+          "Recursion"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 63,
+      "pdfTitle": "Palindrome Linked List",
+      "pdfPage": 14,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "palindrome-linked-list",
+        "title": "Palindrome Linked List",
+        "description": "Practice problem: Palindrome Linked List",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+        "originalPdfQuestionNumber": 63,
+        "sourcePage": "14",
+        "displayOrder": 63,
+        "tags": [
+          "Linked List",
+          "Two Pointers",
+          "Stack",
+          "Recursion"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 64,
+      "pdfTitle": "Remove Linked List Elements",
+      "pdfPage": 14,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "remove-linked-list-elements",
+        "title": "Remove Linked List Elements",
+        "description": "Practice problem: Remove Linked List Elements",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+        "originalPdfQuestionNumber": 64,
+        "sourcePage": "14",
+        "displayOrder": 64,
+        "tags": [
+          "Linked List",
+          "Recursion"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 65,
+      "pdfTitle": "Convert Binary Number in a Linked List to Integer",
+      "pdfPage": 14,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "convert-binary-number-in-a-linked-list-to-integer",
+        "title": "Convert Binary Number in a Linked List to Integer",
+        "description": "Practice problem: Convert Binary Number in a Linked List to Integer",
+        "difficulty": "EASY",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+        "originalPdfQuestionNumber": 65,
+        "sourcePage": "14",
+        "displayOrder": 65,
+        "tags": [
+          "Linked List",
+          "Math"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 66,
+      "pdfTitle": "Remove Duplicates from Sorted List II",
+      "pdfPage": 14,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "remove-duplicates-from-sorted-list-ii",
+        "title": "Remove Duplicates from Sorted List II",
+        "description": "Practice problem: Remove Duplicates from Sorted List II",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+        "originalPdfQuestionNumber": 66,
+        "sourcePage": "14",
+        "displayOrder": 66,
+        "tags": [
+          "Linked List",
+          "Two Pointers"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 67,
+      "pdfTitle": "Reverse Linked List II",
+      "pdfPage": 14,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "reverse-linked-list-ii",
+        "title": "Reverse Linked List II",
+        "description": "Practice problem: Reverse Linked List II",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/reverse-linked-list-ii/",
+        "originalPdfQuestionNumber": 67,
+        "sourcePage": "14",
+        "displayOrder": 67,
+        "tags": [
+          "Linked List"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    },
+    {
+      "sheetNumber": 68,
+      "pdfTitle": "Sort List",
+      "pdfPage": 14,
+      "patternSlug": "linked-lists",
+      "canonical": {
+        "canonicalSlug": "sort-list",
+        "title": "Sort List",
+        "description": "Practice problem: Sort List",
+        "difficulty": "MEDIUM",
+        "difficultySource": "LeetCode Official Metadata (Inferred/Verified)",
+        "platform": "LEETCODE",
+        "externalUrl": "https://leetcode.com/problems/sort-list/",
+        "originalPdfQuestionNumber": 68,
+        "sourcePage": "14",
+        "displayOrder": 68,
+        "tags": [
+          "Linked List",
+          "Two Pointers",
+          "Divide and Conquer",
+          "Sorting",
+          "Merge Sort"
+        ],
+        "examples": null,
+        "constraints": null,
+        "contentVerificationStatus": "VERIFIED"
+      }
+    }
+  ]
+}

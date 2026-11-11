@@ -1,0 +1,261 @@
+[
+  {
+    "topicSlug": "arrays",
+    "name": "1-D Array",
+    "slug": "1-d-array",
+    "description": "Technique: 1-D Array under Arrays.",
+    "displayOrder": 1
+  },
+  {
+    "topicSlug": "arrays",
+    "name": "2-D Array",
+    "slug": "2-d-array",
+    "description": "Technique: 2-D Array under Arrays.",
+    "displayOrder": 2
+  },
+  {
+    "topicSlug": "arrays",
+    "name": "Prefix Sum",
+    "slug": "prefix-sum",
+    "description": "Technique: Prefix Sum under Arrays.",
+    "displayOrder": 3
+  },
+  {
+    "topicSlug": "arrays",
+    "name": "Sliding Window (Fixed/Variable Size)",
+    "slug": "sliding-window-fixed-variable-size",
+    "description": "Technique: Sliding Window (Fixed/Variable Size) under Arrays.",
+    "displayOrder": 4
+  },
+  {
+    "topicSlug": "arrays",
+    "name": "Two Pointers",
+    "slug": "two-pointers",
+    "description": "Technique: Two Pointers under Arrays.",
+    "displayOrder": 5
+  },
+  {
+    "topicSlug": "binary-search",
+    "name": "Binary Search",
+    "slug": "binary-search",
+    "description": "Technique: Binary Search under Binary Search.",
+    "displayOrder": 6
+  },
+  {
+    "topicSlug": "sorting",
+    "name": "Sorting",
+    "slug": "sorting",
+    "description": "Technique: Sorting under Sorting.",
+    "displayOrder": 7
+  },
+  {
+    "topicSlug": "hashing",
+    "name": "Hashing",
+    "slug": "hashing",
+    "description": "Technique: Hashing under Hashing.",
+    "displayOrder": 8
+  },
+  {
+    "topicSlug": "linked-lists",
+    "name": "Linked Lists",
+    "slug": "linked-lists",
+    "description": "Technique: Linked Lists under Linked Lists.",
+    "displayOrder": 9
+  },
+  {
+    "topicSlug": "stack-and-queue",
+    "name": "Stack and Queue",
+    "slug": "stack-and-queue",
+    "description": "Technique: Stack and Queue under Stack and Queue.",
+    "displayOrder": 10
+  },
+  {
+    "topicSlug": "heap",
+    "name": "Heap",
+    "slug": "heap",
+    "description": "Technique: Heap under Heap.",
+    "displayOrder": 11
+  },
+  {
+    "topicSlug": "recursion-backtracking",
+    "name": "Recursion",
+    "slug": "recursion",
+    "description": "Technique: Recursion under Recursion & Backtracking.",
+    "displayOrder": 12
+  },
+  {
+    "topicSlug": "recursion-backtracking",
+    "name": "Backtracking",
+    "slug": "backtracking",
+    "description": "Technique: Backtracking under Recursion & Backtracking.",
+    "displayOrder": 13
+  },
+  {
+    "topicSlug": "trees",
+    "name": "Binary Tree - Level Order Traversal (BFS)",
+    "slug": "binary-tree-level-order-traversal-bfs",
+    "description": "Technique: Binary Tree - Level Order Traversal (BFS) under Trees.",
+    "displayOrder": 14
+  },
+  {
+    "topicSlug": "trees",
+    "name": "Binary Tree - DFS (Recursive & Iterative)",
+    "slug": "binary-tree-dfs-recursive-iterative",
+    "description": "Technique: Binary Tree - DFS (Recursive & Iterative) under Trees.",
+    "displayOrder": 15
+  },
+  {
+    "topicSlug": "trees",
+    "name": "Binary Search Tree (BST)",
+    "slug": "binary-search-tree-bst",
+    "description": "Technique: Binary Search Tree (BST) under Trees.",
+    "displayOrder": 16
+  },
+  {
+    "topicSlug": "trees-ii",
+    "name": "BBST (AVL Tree)",
+    "slug": "bbst-avl-tree",
+    "description": "Technique: BBST (AVL Tree) under Trees II.",
+    "displayOrder": 17
+  },
+  {
+    "topicSlug": "trees-ii",
+    "name": "Trie",
+    "slug": "trie",
+    "description": "Technique: Trie under Trees II.",
+    "displayOrder": 18
+  },
+  {
+    "topicSlug": "trees-ii",
+    "name": "Segment Tree (Range Queries)",
+    "slug": "segment-tree-range-queries",
+    "description": "Technique: Segment Tree (Range Queries) under Trees II.",
+    "displayOrder": 19
+  },
+  {
+    "topicSlug": "graphs",
+    "name": "BFS & DFS",
+    "slug": "bfs-dfs",
+    "description": "Technique: BFS & DFS under Graphs.",
+    "displayOrder": 20
+  },
+  {
+    "topicSlug": "graphs",
+    "name": "Detect Cycle / Topological Sort",
+    "slug": "detect-cycle-topological-sort",
+    "description": "Technique: Detect Cycle / Topological Sort under Graphs.",
+    "displayOrder": 21
+  },
+  {
+    "topicSlug": "graphs",
+    "name": "Dijkstra’s Algorithm (SSSP)",
+    "slug": "dijkstras-algorithm-sssp",
+    "description": "Technique: Dijkstra’s Algorithm (SSSP) under Graphs.",
+    "displayOrder": 22
+  },
+  {
+    "topicSlug": "graphs",
+    "name": "Prim’s & Kruskal’s (MST)",
+    "slug": "prims-kruskals-mst",
+    "description": "Technique: Prim’s & Kruskal’s (MST) under Graphs.",
+    "displayOrder": 23
+  },
+  {
+    "topicSlug": "graphs",
+    "name": "Floyd-Warshall (APSP)",
+    "slug": "floyd-warshall-apsp",
+    "description": "Technique: Floyd-Warshall (APSP) under Graphs.",
+    "displayOrder": 24
+  },
+  {
+    "topicSlug": "greedy",
+    "name": "Greedy Algorithms",
+    "slug": "greedy-algorithms",
+    "description": "Technique: Greedy Algorithms under Greedy.",
+    "displayOrder": 25
+  },
+  {
+    "topicSlug": "dynamic-programming",
+    "name": "Climbing Stairs",
+    "slug": "climbing-stairs",
+    "description": "Technique: Climbing Stairs under Dynamic Programming.",
+    "displayOrder": 26
+  },
+  {
+    "topicSlug": "dynamic-programming",
+    "name": "Coin Change (1D DP)",
+    "slug": "coin-change-1d-dp",
+    "description": "Technique: Coin Change (1D DP) under Dynamic Programming.",
+    "displayOrder": 27
+  },
+  {
+    "topicSlug": "dynamic-programming",
+    "name": "Buy and Sell Stock",
+    "slug": "buy-and-sell-stock",
+    "description": "Technique: Buy and Sell Stock under Dynamic Programming.",
+    "displayOrder": 28
+  },
+  {
+    "topicSlug": "dynamic-programming",
+    "name": "0/1 Knapsack",
+    "slug": "0-1-knapsack",
+    "description": "Technique: 0/1 Knapsack under Dynamic Programming.",
+    "displayOrder": 29
+  },
+  {
+    "topicSlug": "dynamic-programming",
+    "name": "Unbounded Knapsack",
+    "slug": "unbounded-knapsack",
+    "description": "Technique: Unbounded Knapsack under Dynamic Programming.",
+    "displayOrder": 30
+  },
+  {
+    "topicSlug": "dynamic-programming",
+    "name": "Longest Common Subsequence (LCS)",
+    "slug": "longest-common-subsequence-lcs",
+    "description": "Technique: Longest Common Subsequence (LCS) under Dynamic Programming.",
+    "displayOrder": 31
+  },
+  {
+    "topicSlug": "dynamic-programming",
+    "name": "Longest Increasing Subsequence (LIS)",
+    "slug": "longest-increasing-subsequence-lis",
+    "description": "Technique: Longest Increasing Subsequence (LIS) under Dynamic Programming.",
+    "displayOrder": 32
+  },
+  {
+    "topicSlug": "dynamic-programming",
+    "name": "Matrix Chain Multiplication (MCM)",
+    "slug": "matrix-chain-multiplication-mcm",
+    "description": "Technique: Matrix Chain Multiplication (MCM) under Dynamic Programming.",
+    "displayOrder": 33
+  },
+  {
+    "topicSlug": "dynamic-programming",
+    "name": "DP on Grids and Trees",
+    "slug": "dp-on-grids-and-trees",
+    "description": "Technique: DP on Grids and Trees under Dynamic Programming.",
+    "displayOrder": 34
+  },
+  {
+    "topicSlug": "math",
+    "name": "Mathematical Algorithms",
+    "slug": "mathematical-algorithms",
+    "description": "Technique: Mathematical Algorithms under Math.",
+    "displayOrder": 35
+  },
+  {
+    "topicSlug": "miscellaneous",
+    "name": "Bit Manipulation Tricks",
+    "slug": "bit-manipulation-tricks",
+    "description": "Technique: Bit Manipulation Tricks under Miscellaneous.",
+    "displayOrder": 36
+  },
+  {
+    "topicSlug": "miscellaneous",
+    "name": "Rabin-Karp (Rolling Hash)",
+    "slug": "rabin-karp-rolling-hash",
+    "description": "Technique: Rabin-Karp (Rolling Hash) under Miscellaneous.",
+    "displayOrder": 37
+  }
+]
