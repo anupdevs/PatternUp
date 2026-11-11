@@ -2,6 +2,9 @@
   "name": "dsa-platform-root",
   "version": "1.0.0",
   "private": true,
+  "workspaces": [
+    "dsa-app"
+  ],
   "scripts": {
     "dev": "npm --prefix dsa-app run dev",
     "build": "npm --prefix dsa-app run build",
